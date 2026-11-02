@@ -1,0 +1,2359 @@
+{
+  "schema_version": "1.0.0",
+  "assessment_note": "Quiz success demonstrates a knowledge answer; playing mastery requires self-assessment or human feedback.",
+  "items": [
+    {
+      "id": "q0-01",
+      "lesson_id": "l0-01",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "What is the standard tuning from lowest pitch to highest?",
+      "options": [
+        {
+          "id": "q0-01-a0",
+          "text": "E–A–D–G"
+        },
+        {
+          "id": "q0-01-a1",
+          "text": "G–D–A–E"
+        },
+        {
+          "id": "q0-01-a2",
+          "text": "E–A–D–G–B–E"
+        }
+      ],
+      "answer_id": "q0-01-a0",
+      "explanation": "E–A–D–G. Identify the four strings and six instrument parts correctly.",
+      "tags": [
+        "beginner",
+        "setup"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-02",
+      "lesson_id": "l0-02",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "What should you do before connecting a cable to a loud amplifier?",
+      "options": [
+        {
+          "id": "q0-02-a1",
+          "text": "Turn the treble fully up"
+        },
+        {
+          "id": "q0-02-a2",
+          "text": "Strike the strings harder"
+        },
+        {
+          "id": "q0-02-a0",
+          "text": "Mute it or turn its volume down"
+        }
+      ],
+      "answer_id": "q0-02-a0",
+      "explanation": "Mute it or turn its volume down. Connect and disconnect quietly and find a comfortable clean sound.",
+      "tags": [
+        "setup",
+        "tone"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-03",
+      "lesson_id": "l0-03",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "What should mainly support the bass?",
+      "options": [
+        {
+          "id": "q0-03-a2",
+          "text": "Only your plucking thumb"
+        },
+        {
+          "id": "q0-03-a0",
+          "text": "Your strap and balanced body position"
+        },
+        {
+          "id": "q0-03-a1",
+          "text": "A tight fretting-hand grip"
+        }
+      ],
+      "answer_id": "q0-03-a0",
+      "explanation": "Your strap and balanced body position. Play briefly with relaxed shoulders and without gripping the neck for support.",
+      "tags": [
+        "posture",
+        "technique"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-04",
+      "lesson_id": "l0-04",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "What should you check before turning a tuning key?",
+      "options": [
+        {
+          "id": "q0-04-a0",
+          "text": "That it belongs to the string being played"
+        },
+        {
+          "id": "q0-04-a1",
+          "text": "That the amplifier is at maximum"
+        },
+        {
+          "id": "q0-04-a2",
+          "text": "That the string is fretted at twelve"
+        }
+      ],
+      "answer_id": "q0-04-a0",
+      "explanation": "That it belongs to the string being played. Tune all four strings to the correct note and octave with a tuner.",
+      "tags": [
+        "tuning",
+        "ear"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-05",
+      "lesson_id": "l0-05",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "How should you first increase audible volume?",
+      "options": [
+        {
+          "id": "q0-05-a1",
+          "text": "Pull every string as far as possible"
+        },
+        {
+          "id": "q0-05-a2",
+          "text": "Grip the neck more tightly"
+        },
+        {
+          "id": "q0-05-a0",
+          "text": "Adjust the amplifier reasonably while keeping a controlled stroke"
+        }
+      ],
+      "answer_id": "q0-05-a0",
+      "explanation": "Adjust the amplifier reasonably while keeping a controlled stroke. Produce eight clear notes at similar volume without excess tension.",
+      "tags": [
+        "fingerstyle",
+        "technique"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-06",
+      "lesson_id": "l0-06",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "What is the main aim of this alternating-finger drill?",
+      "options": [
+        {
+          "id": "q0-06-a2",
+          "text": "Always using the index finger on every note"
+        },
+        {
+          "id": "q0-06-a0",
+          "text": "Consistent timing and volume from both fingers"
+        },
+        {
+          "id": "q0-06-a1",
+          "text": "The fastest possible tempo"
+        }
+      ],
+      "answer_id": "q0-06-a0",
+      "explanation": "Consistent timing and volume from both fingers. Play eight bars at 60 BPM with deliberate alternation and even attacks.",
+      "tags": [
+        "fingerstyle",
+        "timing"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-07",
+      "lesson_id": "l0-07",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "Where should the fretting finger usually sit?",
+      "options": [
+        {
+          "id": "q0-07-a0",
+          "text": "Just behind the target metal fret"
+        },
+        {
+          "id": "q0-07-a1",
+          "text": "Directly halfway between every pair of frets"
+        },
+        {
+          "id": "q0-07-a2",
+          "text": "Far behind the target fret at maximum pressure"
+        }
+      ],
+      "answer_id": "q0-07-a0",
+      "explanation": "Just behind the target metal fret. Play eight clear fretted notes using comfortable pressure.",
+      "tags": [
+        "fretting",
+        "technique"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-08",
+      "lesson_id": "l0-08",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "What makes a written rest audible as silence?",
+      "options": [
+        {
+          "id": "q0-08-a1",
+          "text": "Only avoiding another pluck"
+        },
+        {
+          "id": "q0-08-a2",
+          "text": "Turning the bass upside down"
+        },
+        {
+          "id": "q0-08-a0",
+          "text": "Actively damping the strings"
+        }
+      ],
+      "answer_id": "q0-08-a0",
+      "explanation": "Actively damping the strings. Create clear rests with unused strings quiet at 60 BPM.",
+      "tags": [
+        "muting",
+        "rests"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-09",
+      "lesson_id": "l0-09",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "At 60 BPM, how long is one quarter-note beat in this exercise?",
+      "options": [
+        {
+          "id": "q0-09-a2",
+          "text": "Four seconds"
+        },
+        {
+          "id": "q0-09-a0",
+          "text": "One second"
+        },
+        {
+          "id": "q0-09-a1",
+          "text": "Half a second"
+        }
+      ],
+      "answer_id": "q0-09-a0",
+      "explanation": "One second. Play eight bars of quarter notes at 60 BPM with a clear beat-one entry.",
+      "tags": [
+        "timing",
+        "rhythm"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-10",
+      "lesson_id": "l0-10",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "What does 0 on the A-string line mean?",
+      "options": [
+        {
+          "id": "q0-10-a0",
+          "text": "Play the open A string"
+        },
+        {
+          "id": "q0-10-a1",
+          "text": "Play fret ten"
+        },
+        {
+          "id": "q0-10-a2",
+          "text": "Use no sound for the entire bar"
+        }
+      ],
+      "answer_id": "q0-10-a0",
+      "explanation": "Play the open A string. Locate every string/fret in the study and explain what zero means.",
+      "tags": [
+        "tab",
+        "reading"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-11",
+      "lesson_id": "l0-11",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "Does a louder note necessarily have a higher pitch?",
+      "options": [
+        {
+          "id": "q0-11-a1",
+          "text": "Yes, always"
+        },
+        {
+          "id": "q0-11-a2",
+          "text": "Only on the E string"
+        },
+        {
+          "id": "q0-11-a0",
+          "text": "No; volume and pitch are different"
+        }
+      ],
+      "answer_id": "q0-11-a0",
+      "explanation": "No; volume and pitch are different. Answer at least eight of ten direction trials correctly, then repeat on another day.",
+      "tags": [
+        "ear",
+        "beginner"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q0-12",
+      "lesson_id": "l0-12",
+      "level": 0,
+      "kind": "single_choice",
+      "question": "Which is valid evidence of this milestone?",
+      "options": [
+        {
+          "id": "q0-12-a2",
+          "text": "Watching a video without playing"
+        },
+        {
+          "id": "q0-12-a0",
+          "text": "A controlled performance plus an honest self-check"
+        },
+        {
+          "id": "q0-12-a1",
+          "text": "Opening the lesson page"
+        }
+      ],
+      "answer_id": "q0-12-a0",
+      "explanation": "A controlled performance plus an honest self-check. Demonstrate all open-string milestone criteria in two controlled takes.",
+      "tags": [
+        "assessment",
+        "practice"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-01",
+      "lesson_id": "l1-01",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "How many quarter-note beats fill a whole note in 4/4?",
+      "options": [
+        {
+          "id": "q1-01-a0",
+          "text": "Four"
+        },
+        {
+          "id": "q1-01-a1",
+          "text": "Two"
+        },
+        {
+          "id": "q1-01-a2",
+          "text": "Eight"
+        }
+      ],
+      "answer_id": "q1-01-a0",
+      "explanation": "Four. Hold and stop notes at their correct boundaries for four loops.",
+      "tags": [
+        "rhythm",
+        "rests"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-02",
+      "lesson_id": "l1-02",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "Where does the and of beat one fall?",
+      "options": [
+        {
+          "id": "q1-02-a1",
+          "text": "On beat two"
+        },
+        {
+          "id": "q1-02-a2",
+          "text": "Before beat one"
+        },
+        {
+          "id": "q1-02-a0",
+          "text": "Halfway between beats one and two"
+        }
+      ],
+      "answer_id": "q1-02-a0",
+      "explanation": "Halfway between beats one and two. Play four loops of evenly spaced eighth notes at 60 BPM.",
+      "tags": [
+        "rhythm",
+        "eighth-notes"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-03",
+      "lesson_id": "l1-03",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "What do the bass-clef lines spell from bottom to top?",
+      "options": [
+        {
+          "id": "q1-03-a2",
+          "text": "A–C–E–G"
+        },
+        {
+          "id": "q1-03-a0",
+          "text": "G–B–D–F–A"
+        },
+        {
+          "id": "q1-03-a1",
+          "text": "E–G–B–D–F"
+        }
+      ],
+      "answer_id": "q1-03-a0",
+      "explanation": "G–B–D–F–A. Name four bass-clef notes and locate their corresponding sounding bass positions.",
+      "tags": [
+        "notation",
+        "reading"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-04",
+      "lesson_id": "l1-04",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "How is 6/8 commonly felt?",
+      "options": [
+        {
+          "id": "q1-04-a0",
+          "text": "Two groups of three eighth notes"
+        },
+        {
+          "id": "q1-04-a1",
+          "text": "Three groups of four eighth notes"
+        },
+        {
+          "id": "q1-04-a2",
+          "text": "Six half notes"
+        }
+      ],
+      "answer_id": "q1-04-a0",
+      "explanation": "Two groups of three eighth notes. Explain the grouping difference and play four loops of the 6/8 study.",
+      "tags": [
+        "meter",
+        "worship"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-05",
+      "lesson_id": "l1-05",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "Which natural-note pair is one semitone apart?",
+      "options": [
+        {
+          "id": "q1-05-a1",
+          "text": "C and D"
+        },
+        {
+          "id": "q1-05-a2",
+          "text": "G and A"
+        },
+        {
+          "id": "q1-05-a0",
+          "text": "E and F"
+        }
+      ],
+      "answer_id": "q1-05-a0",
+      "explanation": "E and F. Identify eight natural-note locations within frets zero to five.",
+      "tags": [
+        "fretboard",
+        "notes"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-06",
+      "lesson_id": "l1-06",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "What is a good response to an uncomfortable wide reach?",
+      "options": [
+        {
+          "id": "q1-06-a2",
+          "text": "Always squeeze harder"
+        },
+        {
+          "id": "q1-06-a0",
+          "text": "Use a small controlled hand shift"
+        },
+        {
+          "id": "q1-06-a1",
+          "text": "Force the stretch through pain"
+        }
+      ],
+      "answer_id": "q1-06-a0",
+      "explanation": "Use a small controlled hand shift. Make eight accurate, comfortable shifts without losing the pulse.",
+      "tags": [
+        "fretting",
+        "shifting"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-07",
+      "lesson_id": "l1-07",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "What should stay consistent through a string change?",
+      "options": [
+        {
+          "id": "q1-07-a0",
+          "text": "Pulse, volume and muting"
+        },
+        {
+          "id": "q1-07-a1",
+          "text": "Only the visual finger pattern"
+        },
+        {
+          "id": "q1-07-a2",
+          "text": "Maximum hand tension"
+        }
+      ],
+      "answer_id": "q1-07-a0",
+      "explanation": "Pulse, volume and muting. Cross all four strings in both directions for four clean loops.",
+      "tags": [
+        "string-crossing",
+        "muting"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-08",
+      "lesson_id": "l1-08",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "What does playing staccato mainly change?",
+      "options": [
+        {
+          "id": "q1-08-a1",
+          "text": "The key of the song"
+        },
+        {
+          "id": "q1-08-a2",
+          "text": "The number of strings"
+        },
+        {
+          "id": "q1-08-a0",
+          "text": "Note length and separation"
+        }
+      ],
+      "answer_id": "q1-08-a0",
+      "explanation": "Note length and separation. Perform soft/louder and short/long versions without changing tempo.",
+      "tags": [
+        "dynamics",
+        "articulation"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-09",
+      "lesson_id": "l1-09",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "What is the root of Em?",
+      "options": [
+        {
+          "id": "q1-09-a2",
+          "text": "B"
+        },
+        {
+          "id": "q1-09-a0",
+          "text": "E"
+        },
+        {
+          "id": "q1-09-a1",
+          "text": "G"
+        }
+      ],
+      "answer_id": "q1-09-a0",
+      "explanation": "E. Play four uninterrupted cycles of G–D–Em–C using correct roots.",
+      "tags": [
+        "worship",
+        "roots"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-10",
+      "lesson_id": "l1-10",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "Must the bass copy every kick-drum hit?",
+      "options": [
+        {
+          "id": "q1-10-a0",
+          "text": "No; choose a supportive pattern"
+        },
+        {
+          "id": "q1-10-a1",
+          "text": "Yes, in every style"
+        },
+        {
+          "id": "q1-10-a2",
+          "text": "Only if the song has no chords"
+        }
+      ],
+      "answer_id": "q1-10-a0",
+      "explanation": "No; choose a supportive pattern. Maintain a simple root part with a drum loop for one minute.",
+      "tags": [
+        "band",
+        "groove"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-11",
+      "lesson_id": "l1-11",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "What should a useful chart include besides chord names?",
+      "options": [
+        {
+          "id": "q1-11-a1",
+          "text": "Only a song title"
+        },
+        {
+          "id": "q1-11-a2",
+          "text": "Only the fastest BPM you can play"
+        },
+        {
+          "id": "q1-11-a0",
+          "text": "Section order, bar counts and endings"
+        }
+      ],
+      "answer_id": "q1-11-a0",
+      "explanation": "Section order, bar counts and endings. Follow the 24-bar form and stop at the agreed ending.",
+      "tags": [
+        "form",
+        "band"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q1-12",
+      "lesson_id": "l1-12",
+      "level": 1,
+      "kind": "single_choice",
+      "question": "What is the best response to a small slip during this take?",
+      "options": [
+        {
+          "id": "q1-12-a2",
+          "text": "Add random notes until the band waits"
+        },
+        {
+          "id": "q1-12-a0",
+          "text": "Keep time and recover at the next planned note"
+        },
+        {
+          "id": "q1-12-a1",
+          "text": "Restart the entire song immediately"
+        }
+      ],
+      "answer_id": "q1-12-a0",
+      "explanation": "Keep time and recover at the next planned note. Play a complete 24-bar arrangement with a clear beginning and ending.",
+      "tags": [
+        "assessment",
+        "performance"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-01",
+      "lesson_id": "l2-01",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "How many semitones form a perfect fifth?",
+      "options": [
+        {
+          "id": "q2-01-a0",
+          "text": "Seven"
+        },
+        {
+          "id": "q2-01-a1",
+          "text": "Five"
+        },
+        {
+          "id": "q2-01-a2",
+          "text": "Twelve"
+        }
+      ],
+      "answer_id": "q2-01-a0",
+      "explanation": "Seven. Locate one-semitone, major-third, perfect-fifth and octave distances.",
+      "tags": [
+        "intervals",
+        "theory"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-02",
+      "lesson_id": "l2-02",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "Where are the half steps in a major scale?",
+      "options": [
+        {
+          "id": "q2-02-a1",
+          "text": "Between every pair"
+        },
+        {
+          "id": "q2-02-a2",
+          "text": "Between 1–2 and 5–6"
+        },
+        {
+          "id": "q2-02-a0",
+          "text": "Between 3–4 and 7–8"
+        }
+      ],
+      "answer_id": "q2-02-a0",
+      "explanation": "Between 3–4 and 7–8. Play C major evenly and identify both half-step positions.",
+      "tags": [
+        "scales",
+        "major-scale"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-03",
+      "lesson_id": "l2-03",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "Which note is the minor third above A?",
+      "options": [
+        {
+          "id": "q2-03-a2",
+          "text": "D"
+        },
+        {
+          "id": "q2-03-a0",
+          "text": "C"
+        },
+        {
+          "id": "q2-03-a1",
+          "text": "C#"
+        }
+      ],
+      "answer_id": "q2-03-a0",
+      "explanation": "C. Play A natural minor and explain its relationship to C major.",
+      "tags": [
+        "scales",
+        "minor"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-04",
+      "lesson_id": "l2-04",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "Which degree is added to minor pentatonic to make this six-note blues scale?",
+      "options": [
+        {
+          "id": "q2-04-a0",
+          "text": "Flat five"
+        },
+        {
+          "id": "q2-04-a1",
+          "text": "Major seven"
+        },
+        {
+          "id": "q2-04-a2",
+          "text": "Flat two"
+        }
+      ],
+      "answer_id": "q2-04-a0",
+      "explanation": "Flat five. Create two short phrases and distinguish the extra blues-scale note.",
+      "tags": [
+        "scales",
+        "blues"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-05",
+      "lesson_id": "l2-05",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "What is the perfect fifth above C?",
+      "options": [
+        {
+          "id": "q2-05-a1",
+          "text": "F"
+        },
+        {
+          "id": "q2-05-a2",
+          "text": "E"
+        },
+        {
+          "id": "q2-05-a0",
+          "text": "G"
+        }
+      ],
+      "answer_id": "q2-05-a0",
+      "explanation": "G. Play root–fifth and root–octave patterns cleanly in two locations.",
+      "tags": [
+        "octaves",
+        "fifths"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-06",
+      "lesson_id": "l2-06",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "Which notes form C minor?",
+      "options": [
+        {
+          "id": "q2-06-a2",
+          "text": "C–F–G"
+        },
+        {
+          "id": "q2-06-a0",
+          "text": "C–Eb–G"
+        },
+        {
+          "id": "q2-06-a1",
+          "text": "C–E–G"
+        }
+      ],
+      "answer_id": "q2-06-a0",
+      "explanation": "C–Eb–G. Build major and minor triads on two roots and hear the changed third.",
+      "tags": [
+        "triads",
+        "arpeggios"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-07",
+      "lesson_id": "l2-07",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "What is vi in C major?",
+      "options": [
+        {
+          "id": "q2-07-a0",
+          "text": "A minor"
+        },
+        {
+          "id": "q2-07-a1",
+          "text": "A major"
+        },
+        {
+          "id": "q2-07-a2",
+          "text": "F major"
+        }
+      ],
+      "answer_id": "q2-07-a0",
+      "explanation": "A minor. Translate and play I–V–vi–IV in G and C.",
+      "tags": [
+        "harmony",
+        "worship"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-08",
+      "lesson_id": "l2-08",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "Which bass note does C/E request?",
+      "options": [
+        {
+          "id": "q2-08-a1",
+          "text": "C only"
+        },
+        {
+          "id": "q2-08-a2",
+          "text": "G"
+        },
+        {
+          "id": "q2-08-a0",
+          "text": "E"
+        }
+      ],
+      "answer_id": "q2-08-a0",
+      "explanation": "E. Choose correct bass notes for four slash-chord examples.",
+      "tags": [
+        "charts",
+        "harmony"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-09",
+      "lesson_id": "l2-09",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "What helps place an offbeat note accurately?",
+      "options": [
+        {
+          "id": "q2-09-a2",
+          "text": "Adding a random extra click"
+        },
+        {
+          "id": "q2-09-a0",
+          "text": "Keeping the subdivision through rests"
+        },
+        {
+          "id": "q2-09-a1",
+          "text": "Ignoring all silent slots"
+        }
+      ],
+      "answer_id": "q2-09-a0",
+      "explanation": "Keeping the subdivision through rests. Repeat the offbeat pattern four times without shifting the pulse.",
+      "tags": [
+        "syncopation",
+        "rhythm"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-10",
+      "lesson_id": "l2-10",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "In this basic form, which root appears in bars five and six?",
+      "options": [
+        {
+          "id": "q2-10-a0",
+          "text": "IV"
+        },
+        {
+          "id": "q2-10-a1",
+          "text": "V"
+        },
+        {
+          "id": "q2-10-a2",
+          "text": "vi"
+        }
+      ],
+      "answer_id": "q2-10-a0",
+      "explanation": "IV. Play three complete twelve-bar cycles with correct changes.",
+      "tags": [
+        "blues",
+        "form"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-11",
+      "lesson_id": "l2-11",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "Can two different string/fret positions produce the same pitch?",
+      "options": [
+        {
+          "id": "q2-11-a1",
+          "text": "Never"
+        },
+        {
+          "id": "q2-11-a2",
+          "text": "Only when both strings are out of tune"
+        },
+        {
+          "id": "q2-11-a0",
+          "text": "Yes"
+        }
+      ],
+      "answer_id": "q2-11-a0",
+      "explanation": "Yes. Match at least four of five restricted-range pitches without revealing them first.",
+      "tags": [
+        "ear",
+        "fretboard"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q2-12",
+      "lesson_id": "l2-12",
+      "level": 2,
+      "kind": "single_choice",
+      "question": "Which note is a strong first choice at a new chord?",
+      "options": [
+        {
+          "id": "q2-12-a2",
+          "text": "Always the previous chord root"
+        },
+        {
+          "id": "q2-12-a0",
+          "text": "Its root or another intentionally chosen chord tone"
+        },
+        {
+          "id": "q2-12-a1",
+          "text": "Any random chromatic note held indefinitely"
+        }
+      ],
+      "answer_id": "q2-12-a0",
+      "explanation": "Its root or another intentionally chosen chord tone. Perform a 16-bar original arrangement in two keys with dependable roots.",
+      "tags": [
+        "composition",
+        "assessment"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-01",
+      "lesson_id": "l3-01",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "How many eighth-note triplet slots fit one quarter-note beat?",
+      "options": [
+        {
+          "id": "q3-01-a0",
+          "text": "Three"
+        },
+        {
+          "id": "q3-01-a1",
+          "text": "Two"
+        },
+        {
+          "id": "q3-01-a2",
+          "text": "Six"
+        }
+      ],
+      "answer_id": "q3-01-a0",
+      "explanation": "Three. Switch between straight eighths, triplets and the study swing without changing the quarter-note pulse.",
+      "tags": [
+        "swing",
+        "triplets"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-02",
+      "lesson_id": "l3-02",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "How many sixteenths fit one quarter note?",
+      "options": [
+        {
+          "id": "q3-02-a1",
+          "text": "Three"
+        },
+        {
+          "id": "q3-02-a2",
+          "text": "Two"
+        },
+        {
+          "id": "q3-02-a0",
+          "text": "Four"
+        }
+      ],
+      "answer_id": "q3-02-a0",
+      "explanation": "Four. Repeat four bars of the sixteenth pattern with clear rests.",
+      "tags": [
+        "sixteenth",
+        "rhythm"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-03",
+      "lesson_id": "l3-03",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "How does a ghost event differ from a rest?",
+      "options": [
+        {
+          "id": "q3-03-a2",
+          "text": "It sustains a full chord"
+        },
+        {
+          "id": "q3-03-a0",
+          "text": "It makes a muted percussive attack"
+        },
+        {
+          "id": "q3-03-a1",
+          "text": "It must be completely silent"
+        }
+      ],
+      "answer_id": "q3-03-a0",
+      "explanation": "It makes a muted percussive attack. Distinguish pitched notes, ghost attacks and silence in four clean loops.",
+      "tags": [
+        "ghost",
+        "muting"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-04",
+      "lesson_id": "l3-04",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "What must be ready for a pull-off to a lower fretted note?",
+      "options": [
+        {
+          "id": "q3-04-a0",
+          "text": "The lower note finger on the same string"
+        },
+        {
+          "id": "q3-04-a1",
+          "text": "A second amplifier"
+        },
+        {
+          "id": "q3-04-a2",
+          "text": "A higher note on another string"
+        }
+      ],
+      "answer_id": "q3-04-a0",
+      "explanation": "The lower note finger on the same string. Demonstrate all three connections slowly with similar note volume.",
+      "tags": [
+        "legato",
+        "articulation"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-05",
+      "lesson_id": "l3-05",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "Which notes form C7?",
+      "options": [
+        {
+          "id": "q3-05-a1",
+          "text": "C–E–G–B"
+        },
+        {
+          "id": "q3-05-a2",
+          "text": "C–Eb–G–B"
+        },
+        {
+          "id": "q3-05-a0",
+          "text": "C–E–G–Bb"
+        }
+      ],
+      "answer_id": "q3-05-a0",
+      "explanation": "C–E–G–Bb. Build and distinguish major7, dominant7 and minor7 on C.",
+      "tags": [
+        "seventh-chords",
+        "harmony"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-06",
+      "lesson_id": "l3-06",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "What bass note is requested by G/B?",
+      "options": [
+        {
+          "id": "q3-06-a2",
+          "text": "D only"
+        },
+        {
+          "id": "q3-06-a0",
+          "text": "B"
+        },
+        {
+          "id": "q3-06-a1",
+          "text": "G only"
+        }
+      ],
+      "answer_id": "q3-06-a0",
+      "explanation": "B. Play and explain the C–B–A–F bass line under its slash chords.",
+      "tags": [
+        "voice-leading",
+        "charts"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-07",
+      "lesson_id": "l3-07",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "What gives an approach note its purpose?",
+      "options": [
+        {
+          "id": "q3-07-a0",
+          "text": "Its relationship to the target and its resolution"
+        },
+        {
+          "id": "q3-07-a1",
+          "text": "Always being the loudest note"
+        },
+        {
+          "id": "q3-07-a2",
+          "text": "Being played as fast as possible"
+        }
+      ],
+      "answer_id": "q3-07-a0",
+      "explanation": "Its relationship to the target and its resolution. Resolve four approaches to their planned chord roots on time.",
+      "tags": [
+        "chromatic",
+        "passing-notes"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-08",
+      "lesson_id": "l3-08",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "What should you establish before adding chromatic walking notes?",
+      "options": [
+        {
+          "id": "q3-08-a1",
+          "text": "A very high tempo"
+        },
+        {
+          "id": "q3-08-a2",
+          "text": "A different key on each beat"
+        },
+        {
+          "id": "q3-08-a0",
+          "text": "A steady pulse and clear chord changes"
+        }
+      ],
+      "answer_id": "q3-08-a0",
+      "explanation": "A steady pulse and clear chord changes. Play the four-bar walk and explain the two chromatic approaches.",
+      "tags": [
+        "walking",
+        "jazz"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-09",
+      "lesson_id": "l3-09",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "What can change a repeated-note part without changing its pitches?",
+      "options": [
+        {
+          "id": "q3-09-a2",
+          "text": "Only a faster tempo"
+        },
+        {
+          "id": "q3-09-a0",
+          "text": "Accents and note lengths"
+        },
+        {
+          "id": "q3-09-a1",
+          "text": "Only a new instrument"
+        }
+      ],
+      "answer_id": "q3-09-a0",
+      "explanation": "Accents and note lengths. Play two contrasting textures with stable timing and quiet unused strings.",
+      "tags": [
+        "styles",
+        "octaves"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-10",
+      "lesson_id": "l3-10",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "What should happen internally while the bass rests?",
+      "options": [
+        {
+          "id": "q3-10-a0",
+          "text": "The count and listening continue"
+        },
+        {
+          "id": "q3-10-a1",
+          "text": "The tempo stops"
+        },
+        {
+          "id": "q3-10-a2",
+          "text": "The bar restarts"
+        }
+      ],
+      "answer_id": "q3-10-a0",
+      "explanation": "The count and listening continue. Maintain a spacious repeated groove for one minute without adding unplanned attacks.",
+      "tags": [
+        "styles",
+        "space"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-11",
+      "lesson_id": "l3-11",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "Which is a useful first step in ear transcription?",
+      "options": [
+        {
+          "id": "q3-11-a1",
+          "text": "Guess the whole song at full speed"
+        },
+        {
+          "id": "q3-11-a2",
+          "text": "Read the answer before listening"
+        },
+        {
+          "id": "q3-11-a0",
+          "text": "Isolate a short phrase and hear its rhythm"
+        }
+      ],
+      "answer_id": "q3-11-a0",
+      "explanation": "Isolate a short phrase and hear its rhythm. Reconstruct a two-bar original phrase with its main pitches and rests.",
+      "tags": [
+        "ear",
+        "transcription"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q3-12",
+      "lesson_id": "l3-12",
+      "level": 3,
+      "kind": "single_choice",
+      "question": "Which is the stronger arrangement choice?",
+      "options": [
+        {
+          "id": "q3-12-a2",
+          "text": "A new technique in every bar"
+        },
+        {
+          "id": "q3-12-a0",
+          "text": "A controlled variation that supports the form"
+        },
+        {
+          "id": "q3-12-a1",
+          "text": "A fill that loses beat one"
+        }
+      ],
+      "answer_id": "q3-12-a0",
+      "explanation": "A controlled variation that supports the form. Deliver two coherent eight-bar takes with a reliable return after the variation.",
+      "tags": [
+        "assessment",
+        "composition"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-01",
+      "lesson_id": "l4-01",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "What should be checked before interpreting a number chart?",
+      "options": [
+        {
+          "id": "q4-01-a0",
+          "text": "Its key and notation conventions"
+        },
+        {
+          "id": "q4-01-a1",
+          "text": "Only its font size"
+        },
+        {
+          "id": "q4-01-a2",
+          "text": "Only the first bass fret"
+        }
+      ],
+      "answer_id": "q4-01-a0",
+      "explanation": "Its key and notation conventions. Follow a chart with sections, a repeat and a planned ending.",
+      "tags": [
+        "charts",
+        "band"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-02",
+      "lesson_id": "l4-02",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "What is I–V–vi–IV in D major?",
+      "options": [
+        {
+          "id": "q4-02-a1",
+          "text": "D–G–Am–C"
+        },
+        {
+          "id": "q4-02-a2",
+          "text": "C–G–Am–F"
+        },
+        {
+          "id": "q4-02-a0",
+          "text": "D–A–Bm–G"
+        }
+      ],
+      "answer_id": "q4-02-a0",
+      "explanation": "D–A–Bm–G. Transpose the progression into two new keys with correct roots.",
+      "tags": [
+        "transposition",
+        "fretboard"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-03",
+      "lesson_id": "l4-03",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "What should determine whether to play during a quiet transition?",
+      "options": [
+        {
+          "id": "q4-03-a2",
+          "text": "The number of notes you know"
+        },
+        {
+          "id": "q4-03-a0",
+          "text": "The arrangement and leader cue"
+        },
+        {
+          "id": "q4-03-a1",
+          "text": "A rule to play in every bar"
+        }
+      ],
+      "answer_id": "q4-03-a0",
+      "explanation": "The arrangement and leader cue. Play a contrasting verse and chorus and respond to a planned repeat and cutoff.",
+      "tags": [
+        "worship",
+        "dynamics"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-04",
+      "lesson_id": "l4-04",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "After a missed note, what should remain continuous?",
+      "options": [
+        {
+          "id": "q4-04-a0",
+          "text": "Listening and the pulse"
+        },
+        {
+          "id": "q4-04-a1",
+          "text": "The mistake itself"
+        },
+        {
+          "id": "q4-04-a2",
+          "text": "An unrelated fill"
+        }
+      ],
+      "answer_id": "q4-04-a0",
+      "explanation": "Listening and the pulse. Recover from two planned dropouts without shifting the form.",
+      "tags": [
+        "recovery",
+        "performance"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-05",
+      "lesson_id": "l4-05",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "How many quarter-note beats are in a 5/4 bar?",
+      "options": [
+        {
+          "id": "q4-05-a1",
+          "text": "Four"
+        },
+        {
+          "id": "q4-05-a2",
+          "text": "Seven"
+        },
+        {
+          "id": "q4-05-a0",
+          "text": "Five"
+        }
+      ],
+      "answer_id": "q4-05-a0",
+      "explanation": "Five. Play four loops of 5/4 with a clear three-plus-two grouping.",
+      "tags": [
+        "odd-meter",
+        "rhythm"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-06",
+      "lesson_id": "l4-06",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "Which grouping does this study use?",
+      "options": [
+        {
+          "id": "q4-06-a2",
+          "text": "3+3"
+        },
+        {
+          "id": "q4-06-a0",
+          "text": "2+2+3"
+        },
+        {
+          "id": "q4-06-a1",
+          "text": "4+4"
+        }
+      ],
+      "answer_id": "q4-06-a0",
+      "explanation": "2+2+3. Maintain the seven-pulse grouping for four loops.",
+      "tags": [
+        "odd-meter",
+        "rhythm"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-07",
+      "lesson_id": "l4-07",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "Which note distinguishes A Dorian from A natural minor?",
+      "options": [
+        {
+          "id": "q4-07-a0",
+          "text": "F# instead of F"
+        },
+        {
+          "id": "q4-07-a1",
+          "text": "C# instead of C"
+        },
+        {
+          "id": "q4-07-a2",
+          "text": "G# instead of G"
+        }
+      ],
+      "answer_id": "q4-07-a0",
+      "explanation": "F# instead of F. Identify the characteristic sixth in Dorian and seventh in Mixolydian.",
+      "tags": [
+        "modes",
+        "harmony"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-08",
+      "lesson_id": "l4-08",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "What is A7 doing before Dm in this example?",
+      "options": [
+        {
+          "id": "q4-08-a1",
+          "text": "Changing the bass tuning"
+        },
+        {
+          "id": "q4-08-a2",
+          "text": "Being identical to Am"
+        },
+        {
+          "id": "q4-08-a0",
+          "text": "Acting as a secondary dominant toward Dm"
+        }
+      ],
+      "answer_id": "q4-08-a0",
+      "explanation": "Acting as a secondary dominant toward Dm. Explain the C# in A7 and Ab in Fm in these C-centred examples.",
+      "tags": [
+        "harmony",
+        "secondary-dominants"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-09",
+      "lesson_id": "l4-09",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "Can a bass note alone always identify the full chord?",
+      "options": [
+        {
+          "id": "q4-09-a2",
+          "text": "Only if it is played loudly"
+        },
+        {
+          "id": "q4-09-a0",
+          "text": "No; inversions and shared notes make it ambiguous"
+        },
+        {
+          "id": "q4-09-a1",
+          "text": "Yes, for every chord"
+        }
+      ],
+      "answer_id": "q4-09-a0",
+      "explanation": "No; inversions and shared notes make it ambiguous. Identify four of five restricted-choice progression examples and review misses.",
+      "tags": [
+        "ear",
+        "harmony"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-10",
+      "lesson_id": "l4-10",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "What should a rhythm transcription include?",
+      "options": [
+        {
+          "id": "q4-10-a0",
+          "text": "Attacks, durations and rests"
+        },
+        {
+          "id": "q4-10-a1",
+          "text": "Only note names"
+        },
+        {
+          "id": "q4-10-a2",
+          "text": "Only the song key"
+        }
+      ],
+      "answer_id": "q4-10-a0",
+      "explanation": "Attacks, durations and rests. Reproduce four of five short rhythm patterns after listening.",
+      "tags": [
+        "ear",
+        "rhythm"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-11",
+      "lesson_id": "l4-11",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "What helps a variation remain connected to its motif?",
+      "options": [
+        {
+          "id": "q4-11-a1",
+          "text": "Changing every feature randomly"
+        },
+        {
+          "id": "q4-11-a2",
+          "text": "Removing the pulse"
+        },
+        {
+          "id": "q4-11-a0",
+          "text": "Preserving a recognisable feature"
+        }
+      ],
+      "answer_id": "q4-11-a0",
+      "explanation": "Preserving a recognisable feature. Create two recognisable variations and return on time.",
+      "tags": [
+        "composition",
+        "phrasing"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q4-12",
+      "lesson_id": "l4-12",
+      "level": 4,
+      "kind": "single_choice",
+      "question": "What is a useful constraint for first improvisation?",
+      "options": [
+        {
+          "id": "q4-12-a2",
+          "text": "No pulse or planned ending"
+        },
+        {
+          "id": "q4-12-a0",
+          "text": "A few chord tones over a known form"
+        },
+        {
+          "id": "q4-12-a1",
+          "text": "Every scale in every bar"
+        }
+      ],
+      "answer_id": "q4-12-a0",
+      "explanation": "A few chord tones over a known form. Improvise three coherent choruses while preserving every chord change.",
+      "tags": [
+        "improvisation",
+        "assessment"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-01",
+      "lesson_id": "l5-01",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "Is slap required for every bass arrangement?",
+      "options": [
+        {
+          "id": "q5-01-a0",
+          "text": "No; it is one optional sound"
+        },
+        {
+          "id": "q5-01-a1",
+          "text": "Yes, for all worship songs"
+        },
+        {
+          "id": "q5-01-a2",
+          "text": "Yes, before learning roots"
+        }
+      ],
+      "answer_id": "q5-01-a0",
+      "explanation": "No; it is one optional sound. Produce eight controlled thumb attacks with clear rests.",
+      "tags": [
+        "slap",
+        "optional"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-02",
+      "lesson_id": "l5-02",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "What should be checked when combining slap and pop?",
+      "options": [
+        {
+          "id": "q5-02-a1",
+          "text": "Only maximum speed"
+        },
+        {
+          "id": "q5-02-a2",
+          "text": "Only the number of frets"
+        },
+        {
+          "id": "q5-02-a0",
+          "text": "Volume balance and unused-string muting"
+        }
+      ],
+      "answer_id": "q5-02-a0",
+      "explanation": "Volume balance and unused-string muting. Play a balanced root-and-octave pattern with clean rests.",
+      "tags": [
+        "slap",
+        "pop",
+        "muting"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-03",
+      "lesson_id": "l5-03",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "What should be established before speeding up double thumb?",
+      "options": [
+        {
+          "id": "q5-03-a2",
+          "text": "A new tuning"
+        },
+        {
+          "id": "q5-03-a0",
+          "text": "A relaxed return stroke and even attacks"
+        },
+        {
+          "id": "q5-03-a1",
+          "text": "The loudest possible amplifier setting"
+        }
+      ],
+      "answer_id": "q5-03-a0",
+      "explanation": "A relaxed return stroke and even attacks. Play four clean down-up pairs separated by silence.",
+      "tags": [
+        "double-thumb",
+        "optional"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-04",
+      "lesson_id": "l5-04",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "What should be prepared before releasing the tapped note?",
+      "options": [
+        {
+          "id": "q5-04-a0",
+          "text": "The intended lower fretted note"
+        },
+        {
+          "id": "q5-04-a1",
+          "text": "A completely loose instrument"
+        },
+        {
+          "id": "q5-04-a2",
+          "text": "A second chord chart"
+        }
+      ],
+      "answer_id": "q5-04-a0",
+      "explanation": "The intended lower fretted note. Play the three-note tapping phrase with a controlled ending.",
+      "tags": [
+        "tapping",
+        "optional"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-05",
+      "lesson_id": "l5-05",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "What is the sounding pitch of the twelfth-fret natural harmonic relative to its open string?",
+      "options": [
+        {
+          "id": "q5-05-a1",
+          "text": "One octave lower"
+        },
+        {
+          "id": "q5-05-a2",
+          "text": "A semitone lower"
+        },
+        {
+          "id": "q5-05-a0",
+          "text": "One octave higher"
+        }
+      ],
+      "answer_id": "q5-05-a0",
+      "explanation": "One octave higher. Produce and stop a twelfth-fret natural harmonic repeatedly.",
+      "tags": [
+        "harmonics",
+        "optional"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-06",
+      "lesson_id": "l5-06",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "Which symbol normally includes a dominant seventh as well as a ninth?",
+      "options": [
+        {
+          "id": "q5-06-a2",
+          "text": "C5"
+        },
+        {
+          "id": "q5-06-a0",
+          "text": "C9"
+        },
+        {
+          "id": "q5-06-a1",
+          "text": "Cadd9"
+        }
+      ],
+      "answer_id": "q5-06-a0",
+      "explanation": "C9. Explain C9 versus Cadd9 and create a restrained supporting part.",
+      "tags": [
+        "extensions",
+        "harmony"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-07",
+      "lesson_id": "l5-07",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "What is a major tenth?",
+      "options": [
+        {
+          "id": "q5-07-a0",
+          "text": "A major third plus an octave"
+        },
+        {
+          "id": "q5-07-a1",
+          "text": "Ten semitones"
+        },
+        {
+          "id": "q5-07-a2",
+          "text": "A minor second"
+        }
+      ],
+      "answer_id": "q5-07-a0",
+      "explanation": "A major third plus an octave. Explain how register and spacing change clarity.",
+      "tags": [
+        "voicing",
+        "register"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-08",
+      "lesson_id": "l5-08",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "How can you compare two techniques fairly?",
+      "options": [
+        {
+          "id": "q5-08-a1",
+          "text": "Change every setting at once"
+        },
+        {
+          "id": "q5-08-a2",
+          "text": "Use unrelated tempos"
+        },
+        {
+          "id": "q5-08-a0",
+          "text": "Keep the phrase and listening volume similar"
+        }
+      ],
+      "answer_id": "q5-08-a0",
+      "explanation": "Keep the phrase and listening volume similar. Make an intentional tone choice and explain it with a listening comparison.",
+      "tags": [
+        "pick",
+        "tone"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-09",
+      "lesson_id": "l5-09",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "Why record a short test before the full take?",
+      "options": [
+        {
+          "id": "q5-09-a2",
+          "text": "To guarantee automatic mastering"
+        },
+        {
+          "id": "q5-09-a0",
+          "text": "To check level, noise and monitoring"
+        },
+        {
+          "id": "q5-09-a1",
+          "text": "To avoid tuning the bass"
+        }
+      ],
+      "answer_id": "q5-09-a0",
+      "explanation": "To check level, noise and monitoring. Save a clean test recording with consistent level and a clear file name.",
+      "tags": [
+        "recording",
+        "DI"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-10",
+      "lesson_id": "l5-10",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "Can compression automatically fix wrong notes?",
+      "options": [
+        {
+          "id": "q5-10-a0",
+          "text": "No"
+        },
+        {
+          "id": "q5-10-a1",
+          "text": "Yes, in every recording"
+        },
+        {
+          "id": "q5-10-a2",
+          "text": "Only on four-string bass"
+        }
+      ],
+      "answer_id": "q5-10-a0",
+      "explanation": "No. Explain one processing choice using an audible before-and-after comparison.",
+      "tags": [
+        "mixing",
+        "tone"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-11",
+      "lesson_id": "l5-11",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "Which review note is most actionable?",
+      "options": [
+        {
+          "id": "q5-11-a1",
+          "text": "Everything is bad"
+        },
+        {
+          "id": "q5-11-a2",
+          "text": "I need more expensive equipment"
+        },
+        {
+          "id": "q5-11-a0",
+          "text": "The entry in bar five is late after the rest"
+        }
+      ],
+      "answer_id": "q5-11-a0",
+      "explanation": "The entry in bar five is late after the rest. Document and improve one specific issue between two takes.",
+      "tags": [
+        "recording",
+        "reflection"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q5-12",
+      "lesson_id": "l5-12",
+      "level": 5,
+      "kind": "single_choice",
+      "question": "What is the purpose of learning additional techniques?",
+      "options": [
+        {
+          "id": "q5-12-a2",
+          "text": "Avoiding rhythm practice"
+        },
+        {
+          "id": "q5-12-a0",
+          "text": "More intentional musical choices"
+        },
+        {
+          "id": "q5-12-a1",
+          "text": "Using every technique in every song"
+        }
+      ],
+      "answer_id": "q5-12-a0",
+      "explanation": "More intentional musical choices. Deliver a coherent arrangement and justify one technique or tone choice.",
+      "tags": [
+        "assessment",
+        "arrangement"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-01",
+      "lesson_id": "l6-01",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What belongs in a useful set plan?",
+      "options": [
+        {
+          "id": "q6-01-a0",
+          "text": "Keys, tempo units, forms and endings"
+        },
+        {
+          "id": "q6-01-a1",
+          "text": "Only titles"
+        },
+        {
+          "id": "q6-01-a2",
+          "text": "Only favourite fills"
+        }
+      ],
+      "answer_id": "q6-01-a0",
+      "explanation": "Keys, tempo units, forms and endings. Prepare a three-piece set plan with complete performance information.",
+      "tags": [
+        "setlist",
+        "performance"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-02",
+      "lesson_id": "l6-02",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What should you do if the chart and reference recording differ?",
+      "options": [
+        {
+          "id": "q6-02-a1",
+          "text": "Randomly alternate between them"
+        },
+        {
+          "id": "q6-02-a2",
+          "text": "Ignore all section lengths"
+        },
+        {
+          "id": "q6-02-a0",
+          "text": "Clarify the intended arrangement"
+        }
+      ],
+      "answer_id": "q6-02-a0",
+      "explanation": "Clarify the intended arrangement. Learn and perform a new short study from its chart and reference.",
+      "tags": [
+        "repertoire",
+        "ear"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-03",
+      "lesson_id": "l6-03",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "Why should split-bar chord durations be marked?",
+      "options": [
+        {
+          "id": "q6-03-a2",
+          "text": "To avoid stating the key"
+        },
+        {
+          "id": "q6-03-a0",
+          "text": "So players know when the harmony changes"
+        },
+        {
+          "id": "q6-03-a1",
+          "text": "To make the page look busy"
+        }
+      ],
+      "answer_id": "q6-03-a0",
+      "explanation": "So players know when the harmony changes. Produce a chart with no missing chord durations or ambiguous ending.",
+      "tags": [
+        "charts",
+        "communication"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-04",
+      "lesson_id": "l6-04",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What is useful during a soundcheck?",
+      "options": [
+        {
+          "id": "q6-04-a0",
+          "text": "A representative phrase and clear communication"
+        },
+        {
+          "id": "q6-04-a1",
+          "text": "Uninterrupted soloing"
+        },
+        {
+          "id": "q6-04-a2",
+          "text": "Changing every control without listening"
+        }
+      ],
+      "answer_id": "q6-04-a0",
+      "explanation": "A representative phrase and clear communication. Complete a brief organised soundcheck with a clear monitoring request.",
+      "tags": [
+        "soundcheck",
+        "band"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-05",
+      "lesson_id": "l6-05",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What makes a visual cue reliable?",
+      "options": [
+        {
+          "id": "q6-05-a1",
+          "text": "A complicated gesture no one knows"
+        },
+        {
+          "id": "q6-05-a2",
+          "text": "Looking only at the frets"
+        },
+        {
+          "id": "q6-05-a0",
+          "text": "A shared meaning and attention"
+        }
+      ],
+      "answer_id": "q6-05-a0",
+      "explanation": "A shared meaning and attention. Respond to a repeat, dynamic change and cutoff without losing the form.",
+      "tags": [
+        "cues",
+        "worship"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-06",
+      "lesson_id": "l6-06",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What should bass note length respond to?",
+      "options": [
+        {
+          "id": "q6-06-a2",
+          "text": "A rule that all notes must ring fully"
+        },
+        {
+          "id": "q6-06-a0",
+          "text": "The groove and arrangement"
+        },
+        {
+          "id": "q6-06-a1",
+          "text": "Only the string brand"
+        }
+      ],
+      "answer_id": "q6-06-a0",
+      "explanation": "The groove and arrangement. Describe and demonstrate one change that improves the ensemble sound.",
+      "tags": [
+        "ensemble",
+        "groove"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-07",
+      "lesson_id": "l6-07",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What should you prioritise after an arrangement change?",
+      "options": [
+        {
+          "id": "q6-07-a0",
+          "text": "Correct form, playable notes and reliable transitions"
+        },
+        {
+          "id": "q6-07-a1",
+          "text": "Every old fill"
+        },
+        {
+          "id": "q6-07-a2",
+          "text": "A faster tempo"
+        }
+      ],
+      "answer_id": "q6-07-a0",
+      "explanation": "Correct form, playable notes and reliable transitions. Perform a revised chart with the new key and section lengths.",
+      "tags": [
+        "adaptability",
+        "transposition"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-08",
+      "lesson_id": "l6-08",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "Which rehearsal comment is most useful?",
+      "options": [
+        {
+          "id": "q6-08-a1",
+          "text": "That was terrible"
+        },
+        {
+          "id": "q6-08-a2",
+          "text": "Play something better"
+        },
+        {
+          "id": "q6-08-a0",
+          "text": "Let us stop together on beat one of bar seventeen"
+        }
+      ],
+      "answer_id": "q6-08-a0",
+      "explanation": "Let us stop together on beat one of bar seventeen. Create a clear preparation list and three actionable rehearsal notes.",
+      "tags": [
+        "rehearsal",
+        "communication"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-09",
+      "lesson_id": "l6-09",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What should be checked after exporting audio?",
+      "options": [
+        {
+          "id": "q6-09-a2",
+          "text": "Only the waveform colour"
+        },
+        {
+          "id": "q6-09-a0",
+          "text": "The actual exported file and its requested format"
+        },
+        {
+          "id": "q6-09-a1",
+          "text": "Only the project title"
+        }
+      ],
+      "answer_id": "q6-09-a0",
+      "explanation": "The actual exported file and its requested format. Prepare a labelled export that matches a stated mock brief.",
+      "tags": [
+        "recording",
+        "delivery"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-10",
+      "lesson_id": "l6-10",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What should a useful performance example show?",
+      "options": [
+        {
+          "id": "q6-10-a0",
+          "text": "Musical control in a complete context"
+        },
+        {
+          "id": "q6-10-a1",
+          "text": "Only the highest note"
+        },
+        {
+          "id": "q6-10-a2",
+          "text": "Only the fastest isolated run"
+        }
+      ],
+      "answer_id": "q6-10-a0",
+      "explanation": "Musical control in a complete context. Select two complete contrasting examples and explain their purpose.",
+      "tags": [
+        "portfolio",
+        "reflection"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-11",
+      "lesson_id": "l6-11",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What connects an effective practice cycle?",
+      "options": [
+        {
+          "id": "q6-11-a1",
+          "text": "Only increasing BPM"
+        },
+        {
+          "id": "q6-11-a2",
+          "text": "Only watching lessons"
+        },
+        {
+          "id": "q6-11-a0",
+          "text": "Observation, focused work, application and review"
+        }
+      ],
+      "answer_id": "q6-11-a0",
+      "explanation": "Observation, focused work, application and review. Write a one-week plan linked to an observed performance need.",
+      "tags": [
+        "practice",
+        "reflection"
+      ],
+      "source": "original_basspath"
+    },
+    {
+      "id": "q6-12",
+      "lesson_id": "l6-12",
+      "level": 6,
+      "kind": "single_choice",
+      "question": "What does this course milestone demonstrate?",
+      "options": [
+        {
+          "id": "q6-12-a2",
+          "text": "That further practice is unnecessary"
+        },
+        {
+          "id": "q6-12-a0",
+          "text": "The skills shown in the recorded set and self-review"
+        },
+        {
+          "id": "q6-12-a1",
+          "text": "Guaranteed expertise in every genre"
+        }
+      ],
+      "answer_id": "q6-12-a0",
+      "explanation": "The skills shown in the recorded set and self-review. Perform and review a complete contrasting set with dependable time, form and endings.",
+      "tags": [
+        "assessment",
+        "performance"
+      ],
+      "source": "original_basspath"
+    }
+  ]
+}

@@ -1,0 +1,910 @@
+{
+  "schema_version": "1.0.0",
+  "rights_note": "These generic progressions and original practice arrangements are not transcriptions of named commercial songs.",
+  "items": [
+    {
+      "id": "study-01",
+      "title": "First four roots",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 1,
+      "key": "G",
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 60,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 384,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 384,
+          "duration_ticks": 384,
+          "symbol": "D",
+          "bass_midi": 38,
+          "bass_string": 2,
+          "bass_fret": 0
+        },
+        {
+          "start_tick": 768,
+          "duration_ticks": 384,
+          "symbol": "Em",
+          "bass_midi": 28,
+          "bass_string": 4,
+          "bass_fret": 0
+        },
+        {
+          "start_tick": 1152,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        }
+      ],
+      "focus": "Root changes and quiet unused strings.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-02",
+      "title": "Open-space worship study",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 2,
+      "key": "C",
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 64,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 384,
+          "duration_ticks": 384,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 768,
+          "duration_ticks": 384,
+          "symbol": "Am",
+          "bass_midi": 33,
+          "bass_string": 3,
+          "bass_fret": 0
+        },
+        {
+          "start_tick": 1152,
+          "duration_ticks": 384,
+          "symbol": "F",
+          "bass_midi": 29,
+          "bass_string": 4,
+          "bass_fret": 1
+        }
+      ],
+      "focus": "Sparse verse and stronger chorus, following cues.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-03",
+      "title": "Two large beats",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 2,
+      "key": "C",
+      "meter": {
+        "numerator": 6,
+        "denominator": 8
+      },
+      "ppq": 96,
+      "bpm": 50,
+      "bpm_unit": "dotted-quarter",
+      "tempo_unit_ticks": 144,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 288,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 288,
+          "duration_ticks": 288,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 576,
+          "duration_ticks": 288,
+          "symbol": "Am",
+          "bass_midi": 33,
+          "bass_string": 3,
+          "bass_fret": 0
+        },
+        {
+          "start_tick": 864,
+          "duration_ticks": 288,
+          "symbol": "F",
+          "bass_midi": 29,
+          "bass_string": 4,
+          "bass_fret": 1
+        }
+      ],
+      "focus": "Two groups of three eighth notes; note the tempo unit.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-04",
+      "title": "Twelve-bar foundation",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 2,
+      "key": "A",
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 70,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 12,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 384,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 768,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 1152,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 1536,
+          "duration_ticks": 384,
+          "symbol": "D7",
+          "bass_midi": 38,
+          "bass_string": 3,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 1920,
+          "duration_ticks": 384,
+          "symbol": "D7",
+          "bass_midi": 38,
+          "bass_string": 3,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 2304,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 2688,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 3072,
+          "duration_ticks": 384,
+          "symbol": "E7",
+          "bass_midi": 28,
+          "bass_string": 4,
+          "bass_fret": 0
+        },
+        {
+          "start_tick": 3456,
+          "duration_ticks": 384,
+          "symbol": "D7",
+          "bass_midi": 38,
+          "bass_string": 3,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 3840,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 4224,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        }
+      ],
+      "focus": "Count the twelve-bar form before adding a fifth.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 12,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 12,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-05",
+      "title": "Descending bass",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 3,
+      "key": "C",
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 65,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 384,
+          "duration_ticks": 384,
+          "symbol": "G/B",
+          "bass_midi": 35,
+          "bass_string": 3,
+          "bass_fret": 2
+        },
+        {
+          "start_tick": 768,
+          "duration_ticks": 384,
+          "symbol": "Am",
+          "bass_midi": 33,
+          "bass_string": 3,
+          "bass_fret": 0
+        },
+        {
+          "start_tick": 1152,
+          "duration_ticks": 384,
+          "symbol": "F",
+          "bass_midi": 29,
+          "bass_string": 4,
+          "bass_fret": 1
+        }
+      ],
+      "focus": "Read the specified bass pitch after the slash.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-06",
+      "title": "First walking changes",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 3,
+      "key": "C",
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 65,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 384,
+          "duration_ticks": 384,
+          "symbol": "Dm",
+          "bass_midi": 38,
+          "bass_string": 3,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 768,
+          "duration_ticks": 384,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 1152,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        }
+      ],
+      "focus": "Root, chord tone and a planned approach to the next bar.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-07",
+      "title": "Minor space",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 3,
+      "key": "A minor",
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 65,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 384,
+          "symbol": "Am",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 384,
+          "duration_ticks": 384,
+          "symbol": "F",
+          "bass_midi": 29,
+          "bass_string": 4,
+          "bass_fret": 1
+        },
+        {
+          "start_tick": 768,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 1152,
+          "duration_ticks": 384,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        }
+      ],
+      "focus": "Leave space and keep the note lengths intentional.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-08",
+      "title": "Three plus two",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 4,
+      "key": "C",
+      "meter": {
+        "numerator": 5,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 60,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 480,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 480,
+          "duration_ticks": 480,
+          "symbol": "F",
+          "bass_midi": 29,
+          "bass_string": 4,
+          "bass_fret": 1
+        },
+        {
+          "start_tick": 960,
+          "duration_ticks": 480,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 1440,
+          "duration_ticks": 480,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        }
+      ],
+      "focus": "Five quarter notes grouped 3+2.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-09",
+      "title": "Two two three",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 4,
+      "key": "A minor",
+      "meter": {
+        "numerator": 7,
+        "denominator": 8
+      },
+      "ppq": 96,
+      "bpm": 140,
+      "bpm_unit": "eighth",
+      "tempo_unit_ticks": 48,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 336,
+          "symbol": "Am",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 336,
+          "duration_ticks": 336,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 672,
+          "duration_ticks": 336,
+          "symbol": "F",
+          "bass_midi": 29,
+          "bass_string": 4,
+          "bass_fret": 1
+        },
+        {
+          "start_tick": 1008,
+          "duration_ticks": 336,
+          "symbol": "Am",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        }
+      ],
+      "focus": "Seven eighth-note pulses grouped 2+2+3.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-10",
+      "title": "A temporary pull",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 4,
+      "key": "C",
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 65,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 384,
+          "duration_ticks": 384,
+          "symbol": "A7",
+          "bass_midi": 33,
+          "bass_string": 4,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 768,
+          "duration_ticks": 384,
+          "symbol": "Dm",
+          "bass_midi": 38,
+          "bass_string": 3,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 1152,
+          "duration_ticks": 384,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        }
+      ],
+      "focus": "Hear A7 as V of Dm; C# is intentional.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-11",
+      "title": "A darker subdominant",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 4,
+      "key": "C",
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 60,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 384,
+          "duration_ticks": 384,
+          "symbol": "F",
+          "bass_midi": 29,
+          "bass_string": 4,
+          "bass_fret": 1
+        },
+        {
+          "start_tick": 768,
+          "duration_ticks": 384,
+          "symbol": "Fm",
+          "bass_midi": 29,
+          "bass_string": 4,
+          "bass_fret": 1
+        },
+        {
+          "start_tick": 1152,
+          "duration_ticks": 384,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        }
+      ],
+      "focus": "Keep the same F root while hearing A change to Ab above.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    },
+    {
+      "id": "study-12",
+      "title": "Three-quarter conversation",
+      "origin": "original_basspath",
+      "not_a_song_transcription": true,
+      "level": 3,
+      "key": "C",
+      "meter": {
+        "numerator": 3,
+        "denominator": 4
+      },
+      "ppq": 96,
+      "bpm": 70,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "bars": 4,
+      "chord_events": [
+        {
+          "start_tick": 0,
+          "duration_ticks": 288,
+          "symbol": "C",
+          "bass_midi": 36,
+          "bass_string": 3,
+          "bass_fret": 3
+        },
+        {
+          "start_tick": 288,
+          "duration_ticks": 288,
+          "symbol": "Am",
+          "bass_midi": 33,
+          "bass_string": 3,
+          "bass_fret": 0
+        },
+        {
+          "start_tick": 576,
+          "duration_ticks": 288,
+          "symbol": "Dm",
+          "bass_midi": 38,
+          "bass_string": 3,
+          "bass_fret": 5
+        },
+        {
+          "start_tick": 864,
+          "duration_ticks": 288,
+          "symbol": "G",
+          "bass_midi": 31,
+          "bass_string": 4,
+          "bass_fret": 3
+        }
+      ],
+      "focus": "Three steady beats with restrained phrase endings.",
+      "section_plan": [
+        {
+          "label": "A",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Sparse roots; count through every sustain."
+        },
+        {
+          "label": "B",
+          "chart_start_bar": 1,
+          "bar_count": 4,
+          "repeats": 2,
+          "instruction": "Add one planned chord tone where it helps; keep the same tempo."
+        }
+      ],
+      "ending": "Finish on the tonic root after the last full loop, sustain for one bar, then damp on the next downbeat. The ending bar is additional to the chart.",
+      "transpose_policy": "Recompute chord spellings and root pitches; offer valid EADG positions and explicit octave adjustments."
+    }
+  ]
+}

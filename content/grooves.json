@@ -1,0 +1,760 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "id": "drum-01",
+      "title": "Simple backbeat",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "bars": 1,
+      "bpm": 70,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 96,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 192,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 288,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 288,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 336,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-02",
+      "title": "Sparse half-time",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "bars": 1,
+      "bpm": 65,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 192,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 288,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 336,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-03",
+      "title": "Four on the floor",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "bars": 1,
+      "bpm": 90,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 96,
+          "velocity": 0.8
+        },
+        {
+          "voice": "snare",
+          "start_tick": 96,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 192,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 288,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 288,
+          "velocity": 0.8
+        },
+        {
+          "voice": "snare",
+          "start_tick": 288,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 336,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-04",
+      "title": "Two dotted-quarter beats",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 6,
+        "denominator": 8
+      },
+      "bars": 1,
+      "bpm": 50,
+      "bpm_unit": "dotted-quarter",
+      "tempo_unit_ticks": 144,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 144,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-05",
+      "title": "Three quarter beats",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 3,
+        "denominator": 4
+      },
+      "bars": 1,
+      "bpm": 70,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 192,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-06",
+      "title": "Triplet swing approximation",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "bars": 1,
+      "bpm": 70,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 64,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 96,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 160,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 192,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 256,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 288,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 288,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 352,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-07",
+      "title": "Spacious offbeat study",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "bars": 1,
+      "bpm": 65,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 192,
+          "velocity": 0.8
+        },
+        {
+          "voice": "snare",
+          "start_tick": 192,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 336,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-08",
+      "title": "Sixteenth grid",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 4,
+        "denominator": 4
+      },
+      "bars": 1,
+      "bpm": 65,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 24,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 72,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 96,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 120,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 168,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 168,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 216,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 240,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 264,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 288,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 288,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 312,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 336,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 360,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-09",
+      "title": "Five beats grouped 3+2",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 5,
+        "denominator": 4
+      },
+      "bars": 1,
+      "bpm": 60,
+      "bpm_unit": "quarter",
+      "tempo_unit_ticks": 96,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 192,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 288,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 288,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 336,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 384,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 384,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 432,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    },
+    {
+      "id": "drum-10",
+      "title": "Seven pulses grouped 2+2+3",
+      "origin": "original_basspath",
+      "ppq": 96,
+      "meter": {
+        "numerator": 7,
+        "denominator": 8
+      },
+      "bars": 1,
+      "bpm": 140,
+      "bpm_unit": "eighth",
+      "tempo_unit_ticks": 48,
+      "events": [
+        {
+          "voice": "hat",
+          "start_tick": 0,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 0,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 48,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 96,
+          "velocity": 0.3
+        },
+        {
+          "voice": "snare",
+          "start_tick": 96,
+          "velocity": 0.65
+        },
+        {
+          "voice": "hat",
+          "start_tick": 144,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 192,
+          "velocity": 0.3
+        },
+        {
+          "voice": "kick",
+          "start_tick": 192,
+          "velocity": 0.8
+        },
+        {
+          "voice": "hat",
+          "start_tick": 240,
+          "velocity": 0.3
+        },
+        {
+          "voice": "hat",
+          "start_tick": 288,
+          "velocity": 0.3
+        }
+      ],
+      "audio_source": "locally_synthesized",
+      "description": "Practice loop; a simplified feel study, not a complete representation of a genre."
+    }
+  ]
+}

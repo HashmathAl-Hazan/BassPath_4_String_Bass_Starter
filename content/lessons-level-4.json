@@ -1,0 +1,727 @@
+{
+  "schema_version": "1.0.0",
+  "level": 4,
+  "title": "Upper-intermediate",
+  "items": [
+    {
+      "id": "l4-01",
+      "slug": "chart-roadmap",
+      "module_id": "m4-1",
+      "level": 4,
+      "order": 49,
+      "title": "Read a chart as a roadmap",
+      "summary": "Before playing, scan key, tempo, meter, section labels, repeats and ending instructions.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Follow a chart with sections, a repeat and a planned ending."
+      ],
+      "prerequisite_ids": [
+        "l3-12"
+      ],
+      "content": {
+        "explanation": [
+          "Before playing, scan key, tempo, meter, section labels, repeats and ending instructions. Mark where chord changes happen inside each bar. A chord name alone does not tell you its duration.",
+          "Number charts describe scale degrees; charts may use different symbols for minor chords and repeats, so confirm the convention. Practise with original charts before a rehearsal so your attention can move between the page and the leader."
+        ],
+        "guided_steps": [
+          "Annotate the section order of an original study.",
+          "Count its bars without playing.",
+          "Perform it while reading one bar ahead."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Assuming every chord lasts a full bar",
+            "correction": "Check the written duration and any split-bar changes."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Perform it while reading one bar ahead.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-01"
+      ],
+      "quiz_ids": [
+        "q4-01"
+      ],
+      "resource_ids": [
+        "r17",
+        "r47"
+      ],
+      "tags": [
+        "charts",
+        "band"
+      ],
+      "completion_criteria": [
+        "Follow a chart with sections, a repeat and a planned ending.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-02",
+      "slug": "transpose-with-numbers",
+      "module_id": "m4-1",
+      "level": 4,
+      "order": 50,
+      "title": "Transpose without depending on one shape",
+      "summary": "Transpose by preserving scale-degree relationships and rebuilding the notes in the new key.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Transpose the progression into two new keys with correct roots."
+      ],
+      "prerequisite_ids": [
+        "l4-01"
+      ],
+      "content": {
+        "explanation": [
+          "Transpose by preserving scale-degree relationships and rebuilding the notes in the new key. C–G–Am–F becomes D–A–Bm–G when moved up a whole tone. Open strings may need new positions.",
+          "Standard four-string bass cannot play below E1. When a transposed note falls below that range, choose an appropriate octave or revise the part with the band rather than inventing a negative fret. Say the new notes before playing."
+        ],
+        "guided_steps": [
+          "Write I–V–vi–IV in C, D and Bb.",
+          "Find each new root within frets zero to seven.",
+          "Play the same rhythm in all three keys and choose comfortable octaves."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Sliding an open-string shape into an impossible position",
+            "correction": "Recalculate the pitch and choose another valid string or octave."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the same rhythm in all three keys and choose comfortable octaves.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-02"
+      ],
+      "quiz_ids": [
+        "q4-02"
+      ],
+      "resource_ids": [
+        "r21",
+        "r47"
+      ],
+      "tags": [
+        "transposition",
+        "fretboard"
+      ],
+      "completion_criteria": [
+        "Transpose the progression into two new keys with correct roots.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-03",
+      "slug": "worship-arrangement",
+      "module_id": "m4-1",
+      "level": 4,
+      "order": 51,
+      "title": "Support a worship arrangement through its sections",
+      "summary": "Follow the agreed arrangement and the leader: some sections need long roots, some a stronger pulse, and some no bass at all.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play a contrasting verse and chorus and respond to a planned repeat and cutoff."
+      ],
+      "prerequisite_ids": [
+        "l4-02"
+      ],
+      "content": {
+        "explanation": [
+          "Follow the agreed arrangement and the leader: some sections need long roots, some a stronger pulse, and some no bass at all. Build intensity with register, note length and carefully chosen density before simply playing louder.",
+          "Prepare for repeated choruses, quieter transitions and a held ending. These choices depend on the group and song; there is no universal worship bass pattern. Watch the cue while maintaining your internal count."
+        ],
+        "guided_steps": [
+          "Arrange an original eight-bar verse with long roots.",
+          "Add a more active eight-bar chorus without changing tempo.",
+          "Rehearse a repeat cue, a quiet transition and a held final root."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Adding continuous fills during a vocal line",
+            "correction": "Place any fill where the arrangement leaves room and keep the next entry clear."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Rehearse a repeat cue, a quiet transition and a held final root.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-03"
+      ],
+      "quiz_ids": [
+        "q4-03"
+      ],
+      "resource_ids": [
+        "r53",
+        "r54"
+      ],
+      "tags": [
+        "worship",
+        "dynamics"
+      ],
+      "completion_criteria": [
+        "Play a contrasting verse and chorus and respond to a planned repeat and cutoff.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-04",
+      "slug": "recover-and-rejoin",
+      "module_id": "m4-1",
+      "level": 4,
+      "order": 52,
+      "title": "Recover while the music continues",
+      "summary": "A small mistake becomes larger when you stop listening or add notes to catch up.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Recover from two planned dropouts without shifting the form."
+      ],
+      "prerequisite_ids": [
+        "l4-03"
+      ],
+      "content": {
+        "explanation": [
+          "A small mistake becomes larger when you stop listening or add notes to catch up. Keep counting, identify the current section and rejoin at a reliable landmark. Silence for a moment can be more useful than an uncertain run.",
+          "Practise recovery deliberately by omitting a planned bar. Continue the internal count and return on the next root. When rehearsing with people, agree on useful visual cues instead of expecting them to wait."
+        ],
+        "guided_steps": [
+          "Play a four-bar cycle and intentionally rest for bar three.",
+          "Keep counting and rejoin at bar four.",
+          "Repeat with the screen hidden and use your ear to locate the return."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Restarting the chart when the band continues",
+            "correction": "Locate the present bar and rejoin the ongoing form."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat with the screen hidden and use your ear to locate the return.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-04"
+      ],
+      "quiz_ids": [
+        "q4-04"
+      ],
+      "resource_ids": [
+        "r11",
+        "r54"
+      ],
+      "tags": [
+        "recovery",
+        "performance"
+      ],
+      "completion_criteria": [
+        "Recover from two planned dropouts without shifting the form.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-05",
+      "slug": "five-four",
+      "module_id": "m4-2",
+      "level": 4,
+      "order": 53,
+      "title": "Group five quarter-note beats",
+      "summary": "A 5/4 bar contains five quarter-note beats.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play four loops of 5/4 with a clear three-plus-two grouping."
+      ],
+      "prerequisite_ids": [
+        "l4-04"
+      ],
+      "content": {
+        "explanation": [
+          "A 5/4 bar contains five quarter-note beats. A useful first grouping is three plus two: ONE two three FOUR five. Other groupings are possible and should follow the music.",
+          "Keep each quarter note the same length. The extra beat belongs inside the bar rather than being a pause added after a normal four-beat phrase. Clap the grouping, then use two pitches to make the structure audible."
+        ],
+        "guided_steps": [
+          "Count five even clicks with accents on one and four.",
+          "Clap the groupings without the bass.",
+          "Play the 5/4 study and finish each two-bar loop cleanly."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Pausing after beat four",
+            "correction": "Keep five equally spaced quarter notes in the bar."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the 5/4 study and finish each two-bar loop cleanly.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-05"
+      ],
+      "quiz_ids": [
+        "q4-05"
+      ],
+      "resource_ids": [
+        "r44"
+      ],
+      "tags": [
+        "odd-meter",
+        "rhythm"
+      ],
+      "completion_criteria": [
+        "Play four loops of 5/4 with a clear three-plus-two grouping.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-06",
+      "slug": "seven-eight",
+      "module_id": "m4-2",
+      "level": 4,
+      "order": 54,
+      "title": "Group seven eighth-note pulses",
+      "summary": "A 7/8 bar contains seven eighth notes.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Maintain the seven-pulse grouping for four loops."
+      ],
+      "prerequisite_ids": [
+        "l4-05"
+      ],
+      "content": {
+        "explanation": [
+          "A 7/8 bar contains seven eighth notes. This study groups them two plus two plus three: ONE two THREE four FIVE six seven. Other music may use three plus two plus two or another grouping.",
+          "Here BPM measures eighth notes, so eighth-note 140 has seven pulses per bar. State the beat unit before comparing tempos. Hear the whole grouping rather than treating the last three as an accidental delay."
+        ],
+        "guided_steps": [
+          "Speak the two-two-three grouping over seven equal pulses.",
+          "Clap the first pulse of each group.",
+          "Play the study and keep the final group unhurried."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Reading the BPM as quarter-note beats",
+            "correction": "Check the displayed eighth-note tempo unit."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the study and keep the final group unhurried.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-06"
+      ],
+      "quiz_ids": [
+        "q4-06"
+      ],
+      "resource_ids": [
+        "r44"
+      ],
+      "tags": [
+        "odd-meter",
+        "rhythm"
+      ],
+      "completion_criteria": [
+        "Maintain the seven-pulse grouping for four loops.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-07",
+      "slug": "modes-in-context",
+      "module_id": "m4-2",
+      "level": 4,
+      "order": 55,
+      "title": "Hear Dorian and Mixolydian against a tonal centre",
+      "summary": "Dorian is a minor-colour collection with a natural sixth: A Dorian contains A, B, C, D, E, F# and G.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Identify the characteristic sixth in Dorian and seventh in Mixolydian."
+      ],
+      "prerequisite_ids": [
+        "l4-06"
+      ],
+      "content": {
+        "explanation": [
+          "Dorian is a minor-colour collection with a natural sixth: A Dorian contains A, B, C, D, E, F# and G. Mixolydian has a major third and flat seventh: C Mixolydian contains C, D, E, F, G, A and Bb.",
+          "Establish the tonal centre with a drone or suitable chord. Emphasise the characteristic note, then return to a stable chord tone. A mode is not created merely by starting a familiar fingering on another fret."
+        ],
+        "guided_steps": [
+          "Hold an A reference and compare F with F#.",
+          "Play A Dorian, resolving phrases to A or E.",
+          "Compare C major and C Mixolydian by changing B to Bb."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Treating modes as unrelated finger shapes",
+            "correction": "Relate the notes to their tonic and accompanying chord."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare C major and C Mixolydian by changing B to Bb.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-07",
+        "v-mixo"
+      ],
+      "quiz_ids": [
+        "q4-07"
+      ],
+      "resource_ids": [
+        "r30",
+        "r46"
+      ],
+      "tags": [
+        "modes",
+        "harmony"
+      ],
+      "completion_criteria": [
+        "Identify the characteristic sixth in Dorian and seventh in Mixolydian.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-08",
+      "slug": "secondary-and-borrowed",
+      "module_id": "m4-2",
+      "level": 4,
+      "order": 56,
+      "title": "Follow chords outside the home key",
+      "summary": "A secondary dominant points temporarily toward another chord.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Explain the C# in A7 and Ab in Fm in these C-centred examples."
+      ],
+      "prerequisite_ids": [
+        "l4-07"
+      ],
+      "content": {
+        "explanation": [
+          "A secondary dominant points temporarily toward another chord. In C, A7 can lead to Dm: its C# helps create that pull even though C# is outside C major. A borrowed chord takes colour from a parallel mode; Fm in C major introduces Ab.",
+          "Start by following the written roots and recognising changed chord tones. Do not force every chord into the home-key scale. Compare C–A7–Dm–G with C–F–Fm–C and listen to the arrivals."
+        ],
+        "guided_steps": [
+          "Name A7 and Dm chord tones in the first progression.",
+          "Play their roots and listen to a chord reference.",
+          "Compare F major and F minor under a C-centred progression."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Assuming every note must belong to the original major scale",
+            "correction": "Read the actual chord quality and its altered tones."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare F major and F minor under a C-centred progression.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-08",
+        "v-borrowed"
+      ],
+      "quiz_ids": [
+        "q4-08"
+      ],
+      "resource_ids": [
+        "r25",
+        "r26"
+      ],
+      "tags": [
+        "harmony",
+        "secondary-dominants"
+      ],
+      "completion_criteria": [
+        "Explain the C# in A7 and Ab in Fm in these C-centred examples.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-09",
+      "slug": "ear-progressions",
+      "module_id": "m4-3",
+      "level": 4,
+      "order": 57,
+      "title": "Hear bass movement within a key",
+      "summary": "Begin with a tonic reference and a small choice of progressions.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Identify four of five restricted-choice progression examples and review misses."
+      ],
+      "prerequisite_ids": [
+        "l4-08"
+      ],
+      "content": {
+        "explanation": [
+          "Begin with a tonic reference and a small choice of progressions. Listen to the root movement before naming full chord qualities. A bass note can be an inversion, so it does not always reveal the chord root by itself.",
+          "Compare I–IV–V–I with I–V–vi–IV using supplied chord-and-root examples. Sing or imagine the root contour, then choose an answer. Explain what you heard rather than memorising one recording timbre."
+        ],
+        "guided_steps": [
+          "Establish the tonic with a reference chord.",
+          "Listen to two short progressions without their labels.",
+          "Name the roots, then compare the revealed chord qualities."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Assuming any bass pitch uniquely identifies a chord",
+            "correction": "Use the other chord tones and harmonic context."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Name the roots, then compare the revealed chord qualities.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-09"
+      ],
+      "quiz_ids": [
+        "q4-09"
+      ],
+      "resource_ids": [
+        "r49",
+        "r50"
+      ],
+      "tags": [
+        "ear",
+        "harmony"
+      ],
+      "completion_criteria": [
+        "Identify four of five restricted-choice progression examples and review misses.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-10",
+      "slug": "rhythm-dictation",
+      "module_id": "m4-3",
+      "level": 4,
+      "order": 58,
+      "title": "Write the rhythm before the pitches",
+      "summary": "Use a fixed count-in and listen for attacks relative to the pulse.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Reproduce four of five short rhythm patterns after listening."
+      ],
+      "prerequisite_ids": [
+        "l4-09"
+      ],
+      "content": {
+        "explanation": [
+          "Use a fixed count-in and listen for attacks relative to the pulse. Mark a simple grid of beats and subdivisions; include rests and sustained notes, not just attacks. Work with one bar before extending the phrase.",
+          "Compare your transcription by clapping it over the same click. If both patterns start correctly but separate later, check a duration or missing rest. Pitch accuracy cannot repair an incorrect rhythm."
+        ],
+        "guided_steps": [
+          "Hear a one-bar rhythm twice at slow tempo.",
+          "Mark attacks on an eighth-note grid.",
+          "Clap your answer, reveal the pattern and correct it."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Writing only fret numbers without timing",
+            "correction": "Record onset positions and durations as well."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Clap your answer, reveal the pattern and correct it.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-10"
+      ],
+      "quiz_ids": [
+        "q4-10"
+      ],
+      "resource_ids": [
+        "r12",
+        "r43"
+      ],
+      "tags": [
+        "ear",
+        "rhythm"
+      ],
+      "completion_criteria": [
+        "Reproduce four of five short rhythm patterns after listening.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-11",
+      "slug": "motif-development",
+      "module_id": "m4-3",
+      "level": 4,
+      "order": 59,
+      "title": "Develop a small musical idea",
+      "summary": "A motif is a short recognisable idea.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Create two recognisable variations and return on time."
+      ],
+      "prerequisite_ids": [
+        "l4-10"
+      ],
+      "content": {
+        "explanation": [
+          "A motif is a short recognisable idea. Keep one element while changing another: repeat its rhythm on a new chord tone, move its register, or leave more space in the answer. This creates continuity across a phrase.",
+          "Start with three notes and a rest. Record the original, one variation and a return. Avoid adding difficulty until the listener can still hear what connects the phrases."
+        ],
+        "guided_steps": [
+          "Learn the two-bar C motif.",
+          "Change only its final note or its register.",
+          "Play original, variation and return over a stable progression."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Changing rhythm, notes and length all at once",
+            "correction": "Preserve one clear feature in each variation."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play original, variation and return over a stable progression.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-11"
+      ],
+      "quiz_ids": [
+        "q4-11"
+      ],
+      "resource_ids": [
+        "r14",
+        "r33"
+      ],
+      "tags": [
+        "composition",
+        "phrasing"
+      ],
+      "completion_criteria": [
+        "Create two recognisable variations and return on time.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l4-12",
+      "slug": "improvise-with-limits",
+      "module_id": "m4-3",
+      "level": 4,
+      "order": 60,
+      "title": "Improvise while keeping the form",
+      "summary": "Improvisation means choosing in real time within a musical situation.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Improvise three coherent choruses while preserving every chord change."
+      ],
+      "prerequisite_ids": [
+        "l4-11"
+      ],
+      "content": {
+        "explanation": [
+          "Improvisation means choosing in real time within a musical situation. Limit yourself to roots, thirds and fifths over a short progression. Leave deliberate rests and listen for the next change.",
+          "Plan the ending before starting. A simple coherent phrase with a clear arrival is useful evidence of control. Add a passing tone only when you know its destination and can still follow the form."
+        ],
+        "guided_steps": [
+          "Play one chorus with roots only.",
+          "Play a second using one extra chord tone per bar.",
+          "Play a third with one planned approach and a clean ending."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Losing the progression while searching for new notes",
+            "correction": "Reduce the note choices and keep counting the form."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play a third with one planned approach and a clean ending.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e4-12"
+      ],
+      "quiz_ids": [
+        "q4-12"
+      ],
+      "resource_ids": [
+        "r14",
+        "r56"
+      ],
+      "tags": [
+        "improvisation",
+        "assessment"
+      ],
+      "completion_criteria": [
+        "Improvise three coherent choruses while preserving every chord change.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    }
+  ]
+}

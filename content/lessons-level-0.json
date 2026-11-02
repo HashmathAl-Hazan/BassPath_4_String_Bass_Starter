@@ -1,0 +1,722 @@
+{
+  "schema_version": "1.0.0",
+  "level": 0,
+  "title": "Instrument basics",
+  "items": [
+    {
+      "id": "l0-01",
+      "slug": "parts-and-role",
+      "module_id": "m0-1",
+      "level": 0,
+      "order": 1,
+      "title": "Meet the bass and its job",
+      "summary": "The bass connects the pulse of a song with its harmony: the notes and chords sounding together.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Identify the four strings and six instrument parts correctly."
+      ],
+      "prerequisite_ids": [],
+      "content": {
+        "explanation": [
+          "The bass connects the pulse of a song with its harmony: the notes and chords sounding together. A useful first part can contain only one note per chord. Learn the body, neck, headstock, bridge, pickups, tuning keys, frets and output socket.",
+          "String 4 is the thick E string; string 1 is the thin G string. A fret is a metal divider. Pressing just behind it shortens the vibrating string and raises the pitch. You do not need theory knowledge to begin."
+        ],
+        "guided_steps": [
+          "Point to each named part on your instrument.",
+          "Say E, A, D, G from thickest to thinnest without looking.",
+          "Pluck each open string once and describe which sounds lowest."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Calling the physically highest string the highest pitch",
+            "correction": "Use thick/thin and low/high pitch separately."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Pluck each open string once and describe which sounds lowest.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-01"
+      ],
+      "quiz_ids": [
+        "q0-01"
+      ],
+      "resource_ids": [
+        "r27",
+        "r28"
+      ],
+      "tags": [
+        "beginner",
+        "setup"
+      ],
+      "completion_criteria": [
+        "Identify the four strings and six instrument parts correctly.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-02",
+      "slug": "connect-and-tone",
+      "module_id": "m0-1",
+      "level": 0,
+      "order": 2,
+      "title": "Connect the bass and set a simple sound",
+      "summary": "A cable carries the instrument signal to the amplifier input.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Connect and disconnect quietly and find a comfortable clean sound."
+      ],
+      "prerequisite_ids": [
+        "l0-01"
+      ],
+      "content": {
+        "explanation": [
+          "A cable carries the instrument signal to the amplifier input. Begin with the amplifier volume down, connect the bass, and raise the volume gradually to a comfortable level. Set tone controls near their neutral positions before changing anything.",
+          "Gain controls input level on many amplifiers; master volume controls output level, but layouts differ. Read the labels and manual for your model. An active bass may need a battery. Unplug its instrument cable after use if the output jack switches the battery on."
+        ],
+        "guided_steps": [
+          "Connect with the amplifier muted or volume down.",
+          "Play four gentle notes and increase volume gradually.",
+          "Change one tone control, listen, then return it to the starting setting."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Changing every control together",
+            "correction": "Change one control at a time so you can hear its effect."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Change one tone control, listen, then return it to the starting setting.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-02"
+      ],
+      "quiz_ids": [
+        "q0-02"
+      ],
+      "resource_ids": [
+        "r28",
+        "r27"
+      ],
+      "tags": [
+        "setup",
+        "tone"
+      ],
+      "completion_criteria": [
+        "Connect and disconnect quietly and find a comfortable clean sound.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-03",
+      "slug": "hold-relax",
+      "module_id": "m0-1",
+      "level": 0,
+      "order": 3,
+      "title": "Support the instrument and relax",
+      "summary": "Use your strap and body position to support the bass so neither hand has to hold the neck up.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play briefly with relaxed shoulders and without gripping the neck for support."
+      ],
+      "prerequisite_ids": [
+        "l0-02"
+      ],
+      "content": {
+        "explanation": [
+          "Use your strap and body position to support the bass so neither hand has to hold the neck up. Keep shoulders easy and bring the instrument into a position that lets your wrists move comfortably. There is no single strap height or thumb position that fits every player.",
+          "Start with short playing intervals. If a movement causes pain, stop and change the setup rather than treating pain as progress. Small shifts are useful on a long bass neck; stretching across four frets is not compulsory."
+        ],
+        "guided_steps": [
+          "Sit with the bass balanced and briefly release both hands while keeping it secure.",
+          "Stand with the strap adjusted and compare your wrist angles.",
+          "Play slowly for thirty seconds, relax, and check for gripping tension."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Holding the neck up with the fretting hand",
+            "correction": "Adjust support before practising notes."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play slowly for thirty seconds, relax, and check for gripping tension.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-03"
+      ],
+      "quiz_ids": [
+        "q0-03"
+      ],
+      "resource_ids": [
+        "r03",
+        "r27"
+      ],
+      "tags": [
+        "posture",
+        "technique"
+      ],
+      "completion_criteria": [
+        "Play briefly with relaxed shoulders and without gripping the neck for support.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-04",
+      "slug": "tune-eadg",
+      "module_id": "m0-1",
+      "level": 0,
+      "order": 4,
+      "title": "Tune to E1–A1–D2–G2",
+      "summary": "Tuning means adjusting string tension to match a target pitch.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Tune all four strings to the correct note and octave with a tuner."
+      ],
+      "prerequisite_ids": [
+        "l0-03"
+      ],
+      "content": {
+        "explanation": [
+          "Tuning means adjusting string tension to match a target pitch. Use a chromatic tuner and pluck one open string gently while muting the others. Standard sounding pitches are E1, A1, D2 and G2; the octave matters because another E can be much too high.",
+          "Follow the string visually to its tuning key before turning. Make small movements, watch whether pitch rises or falls, and repeat after all four strings have been checked. Reference tones are useful for listening, but a tuner is easier at the start."
+        ],
+        "guided_steps": [
+          "Select the thick E string and confirm the correct tuning key.",
+          "Tune each open string in small steps while muting the other strings.",
+          "Recheck all four and say their names aloud."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Turning the wrong key or chasing the wrong octave",
+            "correction": "Trace the string and verify the target before adjusting."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Recheck all four and say their names aloud.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-04"
+      ],
+      "quiz_ids": [
+        "q0-04"
+      ],
+      "resource_ids": [
+        "r02",
+        "r28"
+      ],
+      "tags": [
+        "tuning",
+        "ear"
+      ],
+      "completion_criteria": [
+        "Tune all four strings to the correct note and octave with a tuner.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-05",
+      "slug": "first-plucks",
+      "module_id": "m0-2",
+      "level": 0,
+      "order": 5,
+      "title": "Make a controlled fingerstyle note",
+      "summary": "Use the fleshy pad of an index or middle finger to move the string and release it.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Produce eight clear notes at similar volume without excess tension."
+      ],
+      "prerequisite_ids": [
+        "l0-04"
+      ],
+      "content": {
+        "explanation": [
+          "Use the fleshy pad of an index or middle finger to move the string and release it. Start with a small movement rather than pulling far away from the bass. Let the amplifier supply volume.",
+          "The hand should stay relaxed while you listen for an even attack. A resting stroke can land against the next thicker string; on the E string there is no thicker string to land on. The goal is a repeatable clear sound, not copying one exact hand shape."
+        ],
+        "guided_steps": [
+          "Play four open E notes with your index finger.",
+          "Repeat with your middle finger at similar volume.",
+          "Play the linked pattern slowly and listen for harsh attacks."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Pulling far away from the body",
+            "correction": "Make a smaller stroke and use amplifier volume."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the linked pattern slowly and listen for harsh attacks.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-05"
+      ],
+      "quiz_ids": [
+        "q0-05"
+      ],
+      "resource_ids": [
+        "r04",
+        "r27"
+      ],
+      "tags": [
+        "fingerstyle",
+        "technique"
+      ],
+      "completion_criteria": [
+        "Produce eight clear notes at similar volume without excess tension.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-06",
+      "slug": "alternate-fingers",
+      "module_id": "m0-2",
+      "level": 0,
+      "order": 6,
+      "title": "Alternate index and middle fingers",
+      "summary": "Alternating fingers divides repeated notes between two movements.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play eight bars at 60 BPM with deliberate alternation and even attacks."
+      ],
+      "prerequisite_ids": [
+        "l0-05"
+      ],
+      "content": {
+        "explanation": [
+          "Alternating fingers divides repeated notes between two movements. Say index, middle as you play so the order becomes deliberate. At first, similar volume matters more than speed.",
+          "Keep the same pulse when a string changes. Raking can be useful later, but this drill trains strict alternation so you can choose either approach consciously. If the order becomes confused, stop briefly and restart at a slower tempo."
+        ],
+        "guided_steps": [
+          "Alternate on open E while saying index, middle.",
+          "Play four notes each on E, A, D and G.",
+          "Repeat beginning with the middle finger and compare volume."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Using one finger for every accented note",
+            "correction": "Practise starting the same pattern with either finger."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat beginning with the middle finger and compare volume.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-06"
+      ],
+      "quiz_ids": [
+        "q0-06"
+      ],
+      "resource_ids": [
+        "r04"
+      ],
+      "tags": [
+        "fingerstyle",
+        "timing"
+      ],
+      "completion_criteria": [
+        "Play eight bars at 60 BPM with deliberate alternation and even attacks.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-07",
+      "slug": "fret-cleanly",
+      "module_id": "m0-2",
+      "level": 0,
+      "order": 7,
+      "title": "Fret a note with light pressure",
+      "summary": "Put a fingertip just behind the target metal fret, on the headstock side.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play eight clear fretted notes using comfortable pressure."
+      ],
+      "prerequisite_ids": [
+        "l0-06"
+      ],
+      "content": {
+        "explanation": [
+          "Put a fingertip just behind the target metal fret, on the headstock side. Press enough to make the note clear, then explore how little pressure is needed. Pressing in the middle of the space often needs more effort.",
+          "Your thumb supports movement behind the neck without squeezing continuously. Begin around frets five and seven where distances are easier, then move toward lower frets gradually. Shift the hand when needed instead of forcing a stretch."
+        ],
+        "guided_steps": [
+          "Play A-string fret five and move the finger close behind the metal fret.",
+          "Reduce pressure until it buzzes, then add only enough for clarity.",
+          "Alternate frets five and seven using a comfortable small shift."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Squeezing harder whenever a note buzzes",
+            "correction": "Check fingertip location and setup before increasing force."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Alternate frets five and seven using a comfortable small shift.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-07"
+      ],
+      "quiz_ids": [
+        "q0-07"
+      ],
+      "resource_ids": [
+        "r05",
+        "r03"
+      ],
+      "tags": [
+        "fretting",
+        "technique"
+      ],
+      "completion_criteria": [
+        "Play eight clear fretted notes using comfortable pressure.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-08",
+      "slug": "stop-and-mute",
+      "module_id": "m0-2",
+      "level": 0,
+      "order": 8,
+      "title": "Stop notes and silence unused strings",
+      "summary": "A note ends when you damp the vibrating string.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Create clear rests with unused strings quiet at 60 BPM."
+      ],
+      "prerequisite_ids": [
+        "l0-07"
+      ],
+      "content": {
+        "explanation": [
+          "A note ends when you damp the vibrating string. For a fretted note, release pressure while keeping light contact; pulling the finger completely away can let an open string sound. Use either hand where appropriate to stop open strings.",
+          "Unused strings can vibrate sympathetically. Let the plucking thumb or fingers quiet lower strings and let gentle fretting-hand contact quiet higher ones. Test every string rather than assuming a single thumb position solves all muting."
+        ],
+        "guided_steps": [
+          "Play one open note and stop it on the next click.",
+          "Play A while listening specifically for unwanted E ringing.",
+          "Repeat the sound-and-rest pattern on all strings."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Lifting both hands completely to make a rest",
+            "correction": "Keep light damping contact on vibrating strings."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat the sound-and-rest pattern on all strings.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-08"
+      ],
+      "quiz_ids": [
+        "q0-08"
+      ],
+      "resource_ids": [
+        "r20",
+        "r04"
+      ],
+      "tags": [
+        "muting",
+        "rests"
+      ],
+      "completion_criteria": [
+        "Create clear rests with unused strings quiet at 60 BPM.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-09",
+      "slug": "pulse-and-bpm",
+      "module_id": "m0-3",
+      "level": 0,
+      "order": 9,
+      "title": "Find the pulse and count four",
+      "summary": "The pulse is the regular beat you can tap along with.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play eight bars of quarter notes at 60 BPM with a clear beat-one entry."
+      ],
+      "prerequisite_ids": [
+        "l0-08"
+      ],
+      "content": {
+        "explanation": [
+          "The pulse is the regular beat you can tap along with. Tempo tells you how fast it moves; BPM means beats per minute. In this first 4/4 exercise, a quarter note lasts one click and four clicks make one bar.",
+          "Listen for a full bar before entering. Count 1, 2, 3, 4 out loud, then play on each number. If you miss a note, keep counting and rejoin the next beat instead of adding an extra note to catch up."
+        ],
+        "guided_steps": [
+          "Listen to a 60 BPM click and count four beats twice.",
+          "Tap each beat before playing.",
+          "Play open E quarter notes while continuing to count."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Speeding up to recover a missed note",
+            "correction": "Keep the count and enter on the next planned beat."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play open E quarter notes while continuing to count.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-09"
+      ],
+      "quiz_ids": [
+        "q0-09"
+      ],
+      "resource_ids": [
+        "r11"
+      ],
+      "tags": [
+        "timing",
+        "rhythm"
+      ],
+      "completion_criteria": [
+        "Play eight bars of quarter notes at 60 BPM with a clear beat-one entry.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-10",
+      "slug": "read-tab",
+      "module_id": "m0-3",
+      "level": 0,
+      "order": 10,
+      "title": "Read four-string tablature",
+      "summary": "Bass tab represents strings as horizontal lines, usually G at the top and E at the bottom.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Locate every string/fret in the study and explain what zero means."
+      ],
+      "prerequisite_ids": [
+        "l0-09"
+      ],
+      "content": {
+        "explanation": [
+          "Bass tab represents strings as horizontal lines, usually G at the top and E at the bottom. A number is a fret, not a finger number. Zero means an open string. Read events from left to right.",
+          "Plain tab may not show rhythm reliably. BassPath pairs each event with an explicit duration and beat position, so listen to the click and count. A rest is silence, while a muted or ghost event is a short percussive sound."
+        ],
+        "guided_steps": [
+          "Find the E line at the bottom of the tab display.",
+          "Locate each indicated string and fret before playing.",
+          "Play the pattern with the beat cursor and then with the cursor hidden."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Reading fret numbers as finger numbers",
+            "correction": "Treat numbers as locations; choose comfortable fingering separately."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the pattern with the beat cursor and then with the cursor hidden.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-10"
+      ],
+      "quiz_ids": [
+        "q0-10"
+      ],
+      "resource_ids": [
+        "r07"
+      ],
+      "tags": [
+        "tab",
+        "reading"
+      ],
+      "completion_criteria": [
+        "Locate every string/fret in the study and explain what zero means.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-11",
+      "slug": "first-ear-drill",
+      "module_id": "m0-3",
+      "level": 0,
+      "order": 11,
+      "title": "Listen for high and low",
+      "summary": "Pitch is how high or low a note sounds; volume is how loud it is.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Answer at least eight of ten direction trials correctly, then repeat on another day."
+      ],
+      "prerequisite_ids": [
+        "l0-10"
+      ],
+      "content": {
+        "explanation": [
+          "Pitch is how high or low a note sounds; volume is how loud it is. Listen to two open strings and describe the direction before trying to name notes. You are training relative listening, not being tested for perfect pitch.",
+          "Hum the contour if comfortable, or silently imagine it. A smaller speaker may make the low E hard to hear; use headphones or an octave-up listening option without changing the instrument tuning."
+        ],
+        "guided_steps": [
+          "Compare open E with open G at equal volume.",
+          "Use the higher/lower ear-training mode for ten trials.",
+          "Replay missed pairs and sing or imagine their direction."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Judging the louder sound as higher",
+            "correction": "Match volume and attend to pitch direction."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Replay missed pairs and sing or imagine their direction.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-11"
+      ],
+      "quiz_ids": [
+        "q0-11"
+      ],
+      "resource_ids": [
+        "r58"
+      ],
+      "tags": [
+        "ear",
+        "beginner"
+      ],
+      "completion_criteria": [
+        "Answer at least eight of ten direction trials correctly, then repeat on another day.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l0-12",
+      "slug": "foundation-check",
+      "module_id": "m0-3",
+      "level": 0,
+      "order": 12,
+      "title": "Complete the open-string milestone",
+      "summary": "This checkpoint combines tuning, posture, alternation, note endings and a steady pulse.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Demonstrate all open-string milestone criteria in two controlled takes."
+      ],
+      "prerequisite_ids": [
+        "l0-11"
+      ],
+      "content": {
+        "explanation": [
+          "This checkpoint combines tuning, posture, alternation, note endings and a steady pulse. Passing a knowledge quiz does not prove that your playing is controlled. Make a short recording or listen carefully while performing the task.",
+          "Start at 60 BPM and play two bars each on E, A, D and G. Keep counting through string changes and finish together with the final click. Repeat any weak part rather than raising the tempo. Honest self-assessment is useful evidence."
+        ],
+        "guided_steps": [
+          "Tune, settle the instrument and count in one bar.",
+          "Play eight bars: two per open string with alternating fingers.",
+          "Listen back for timing, volume, muting and the ending; record what needs work."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Marking mastery after merely reading",
+            "correction": "Play the task and record a specific observation."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Listen back for timing, volume, muting and the ending; record what needs work.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e0-12"
+      ],
+      "quiz_ids": [
+        "q0-12"
+      ],
+      "resource_ids": [
+        "r01",
+        "r11",
+        "r20"
+      ],
+      "tags": [
+        "assessment",
+        "practice"
+      ],
+      "completion_criteria": [
+        "Demonstrate all open-string milestone criteria in two controlled takes.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    }
+  ]
+}

@@ -1,0 +1,7496 @@
+{
+  "schema_version": "1.0.0",
+  "modes": [
+    "direction",
+    "interval",
+    "chord_quality",
+    "scale_degree",
+    "rhythm",
+    "progression"
+  ],
+  "playback_policy": {
+    "start_on_user_gesture": true,
+    "allow_replay": true,
+    "hide_answer_until_attempt": true,
+    "octave_up_option": true,
+    "transpose_all_pitched_events_together": true,
+    "microphone_required": false,
+    "score_tap_choices_only": true
+  },
+  "practice_mode": {
+    "pitch_match": {
+      "reference": "Play a generated MIDI target; let the learner find it on the bass.",
+      "scoring": "Self-assessment unless the optional experimental tuner is separately implemented."
+    }
+  },
+  "items": [
+    {
+      "id": "ear-001",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 46,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 48,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-001-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-001-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-001-o1",
+          "text": "Lower"
+        }
+      ],
+      "answer_id": "ear-001-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-002",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 44,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-002-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-002-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-002-o1",
+          "text": "Lower"
+        }
+      ],
+      "answer_id": "ear-002-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-003",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 49,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-003-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-003-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-003-o1",
+          "text": "Lower"
+        }
+      ],
+      "answer_id": "ear-003-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-004",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 43,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 48,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-004-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-004-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-004-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-004-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-005",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-005-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-005-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-005-o0",
+          "text": "Higher"
+        }
+      ],
+      "answer_id": "ear-005-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-006",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 51,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-006-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-006-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-006-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-006-o1",
+      "explanation": "Compare pitch direction at the same volume; the second note is lower.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-007",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 52,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 45,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-007-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-007-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-007-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-007-o1",
+      "explanation": "Compare pitch direction at the same volume; the second note is lower.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-008",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 43,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 48,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-008-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-008-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-008-o0",
+          "text": "Higher"
+        }
+      ],
+      "answer_id": "ear-008-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-009",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-009-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-009-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-009-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-009-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-010",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 50,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-010-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-010-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-010-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-010-o2",
+      "explanation": "Compare pitch direction at the same volume; the second note is same.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-011",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 45,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-011-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-011-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-011-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-011-o1",
+      "explanation": "Compare pitch direction at the same volume; the second note is lower.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-012",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 44,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-012-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-012-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-012-o1",
+          "text": "Lower"
+        }
+      ],
+      "answer_id": "ear-012-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-013",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 52,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-013-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-013-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-013-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-013-o1",
+      "explanation": "Compare pitch direction at the same volume; the second note is lower.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-014",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 44,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 37,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-014-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-014-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-014-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-014-o1",
+      "explanation": "Compare pitch direction at the same volume; the second note is lower.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-015",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 46,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-015-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-015-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-015-o0",
+          "text": "Higher"
+        }
+      ],
+      "answer_id": "ear-015-o2",
+      "explanation": "Compare pitch direction at the same volume; the second note is same.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-016",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 37,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-016-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-016-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-016-o1",
+          "text": "Lower"
+        }
+      ],
+      "answer_id": "ear-016-o1",
+      "explanation": "Compare pitch direction at the same volume; the second note is lower.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-017",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 52,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-017-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-017-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-017-o0",
+          "text": "Higher"
+        }
+      ],
+      "answer_id": "ear-017-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-018",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 52,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-018-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-018-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-018-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-018-o1",
+      "explanation": "Compare pitch direction at the same volume; the second note is lower.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-019",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 49,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-019-o2",
+          "text": "Same"
+        },
+        {
+          "id": "ear-019-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-019-o1",
+          "text": "Lower"
+        }
+      ],
+      "answer_id": "ear-019-o1",
+      "explanation": "Compare pitch direction at the same volume; the second note is lower.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-020",
+      "mode": "direction",
+      "level": 0,
+      "question": "Is the second note higher, lower or the same pitch?",
+      "stimuli": [
+        {
+          "midi": 43,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 45,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-020-o1",
+          "text": "Lower"
+        },
+        {
+          "id": "ear-020-o0",
+          "text": "Higher"
+        },
+        {
+          "id": "ear-020-o2",
+          "text": "Same"
+        }
+      ],
+      "answer_id": "ear-020-o0",
+      "explanation": "Compare pitch direction at the same volume; the second note is higher.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-021",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 40,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 44,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-021-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-021-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-021-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-021-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-021-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-021-o4",
+          "text": "Perfect fifth"
+        }
+      ],
+      "answer_id": "ear-021-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-022",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 41,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-022-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-022-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-022-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-022-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-022-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-022-o2",
+          "text": "Major third"
+        }
+      ],
+      "answer_id": "ear-022-o3",
+      "explanation": "The notes are 5 semitones apart: perfect fourth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-023",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 49,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 53,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-023-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-023-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-023-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-023-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-023-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-023-o0",
+          "text": "Unison"
+        }
+      ],
+      "answer_id": "ear-023-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-024",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-024-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-024-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-024-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-024-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-024-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-024-o2",
+          "text": "Major third"
+        }
+      ],
+      "answer_id": "ear-024-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-025",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-025-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-025-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-025-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-025-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-025-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-025-o2",
+          "text": "Major third"
+        }
+      ],
+      "answer_id": "ear-025-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-026",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 43,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 48,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-026-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-026-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-026-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-026-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-026-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-026-o3",
+          "text": "Perfect fourth"
+        }
+      ],
+      "answer_id": "ear-026-o3",
+      "explanation": "The notes are 5 semitones apart: perfect fourth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-027",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-027-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-027-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-027-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-027-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-027-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-027-o1",
+          "text": "Minor third"
+        }
+      ],
+      "answer_id": "ear-027-o4",
+      "explanation": "The notes are 7 semitones apart: perfect fifth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-028",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 43,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 48,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-028-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-028-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-028-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-028-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-028-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-028-o5",
+          "text": "Octave"
+        }
+      ],
+      "answer_id": "ear-028-o3",
+      "explanation": "The notes are 5 semitones apart: perfect fourth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-029",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-029-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-029-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-029-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-029-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-029-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-029-o5",
+          "text": "Octave"
+        }
+      ],
+      "answer_id": "ear-029-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-030",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 46,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 50,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-030-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-030-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-030-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-030-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-030-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-030-o4",
+          "text": "Perfect fifth"
+        }
+      ],
+      "answer_id": "ear-030-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-031",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-031-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-031-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-031-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-031-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-031-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-031-o3",
+          "text": "Perfect fourth"
+        }
+      ],
+      "answer_id": "ear-031-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-032",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 45,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 45,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-032-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-032-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-032-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-032-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-032-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-032-o4",
+          "text": "Perfect fifth"
+        }
+      ],
+      "answer_id": "ear-032-o0",
+      "explanation": "The notes are 0 semitones apart: unison.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-033",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 53,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-033-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-033-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-033-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-033-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-033-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-033-o2",
+          "text": "Major third"
+        }
+      ],
+      "answer_id": "ear-033-o3",
+      "explanation": "The notes are 5 semitones apart: perfect fourth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-034",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 46,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 53,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-034-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-034-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-034-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-034-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-034-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-034-o1",
+          "text": "Minor third"
+        }
+      ],
+      "answer_id": "ear-034-o4",
+      "explanation": "The notes are 7 semitones apart: perfect fifth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-035",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 44,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-035-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-035-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-035-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-035-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-035-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-035-o5",
+          "text": "Octave"
+        }
+      ],
+      "answer_id": "ear-035-o3",
+      "explanation": "The notes are 5 semitones apart: perfect fourth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-036",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 40,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-036-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-036-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-036-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-036-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-036-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-036-o5",
+          "text": "Octave"
+        }
+      ],
+      "answer_id": "ear-036-o4",
+      "explanation": "The notes are 7 semitones apart: perfect fifth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-037",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 40,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 43,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-037-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-037-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-037-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-037-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-037-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-037-o5",
+          "text": "Octave"
+        }
+      ],
+      "answer_id": "ear-037-o1",
+      "explanation": "The notes are 3 semitones apart: minor third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-038",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 41,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 44,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-038-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-038-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-038-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-038-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-038-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-038-o2",
+          "text": "Major third"
+        }
+      ],
+      "answer_id": "ear-038-o1",
+      "explanation": "The notes are 3 semitones apart: minor third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-039",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 40,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 40,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-039-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-039-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-039-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-039-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-039-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-039-o3",
+          "text": "Perfect fourth"
+        }
+      ],
+      "answer_id": "ear-039-o0",
+      "explanation": "The notes are 0 semitones apart: unison.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-040",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-040-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-040-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-040-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-040-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-040-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-040-o3",
+          "text": "Perfect fourth"
+        }
+      ],
+      "answer_id": "ear-040-o4",
+      "explanation": "The notes are 7 semitones apart: perfect fifth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-041",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 45,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-041-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-041-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-041-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-041-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-041-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-041-o5",
+          "text": "Octave"
+        }
+      ],
+      "answer_id": "ear-041-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-042",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 46,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-042-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-042-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-042-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-042-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-042-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-042-o0",
+          "text": "Unison"
+        }
+      ],
+      "answer_id": "ear-042-o1",
+      "explanation": "The notes are 3 semitones apart: minor third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-043",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-043-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-043-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-043-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-043-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-043-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-043-o3",
+          "text": "Perfect fourth"
+        }
+      ],
+      "answer_id": "ear-043-o3",
+      "explanation": "The notes are 5 semitones apart: perfect fourth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-044",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-044-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-044-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-044-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-044-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-044-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-044-o5",
+          "text": "Octave"
+        }
+      ],
+      "answer_id": "ear-044-o4",
+      "explanation": "The notes are 7 semitones apart: perfect fifth.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-045",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-045-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-045-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-045-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-045-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-045-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-045-o1",
+          "text": "Minor third"
+        }
+      ],
+      "answer_id": "ear-045-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-046",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 46,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 58,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-046-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-046-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-046-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-046-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-046-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-046-o4",
+          "text": "Perfect fifth"
+        }
+      ],
+      "answer_id": "ear-046-o5",
+      "explanation": "The notes are 12 semitones apart: octave.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-047",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 62,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-047-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-047-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-047-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-047-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-047-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-047-o2",
+          "text": "Major third"
+        }
+      ],
+      "answer_id": "ear-047-o5",
+      "explanation": "The notes are 12 semitones apart: octave.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-048",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 45,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 45,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-048-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-048-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-048-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-048-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-048-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-048-o5",
+          "text": "Octave"
+        }
+      ],
+      "answer_id": "ear-048-o0",
+      "explanation": "The notes are 0 semitones apart: unison.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-049",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 45,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-049-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-049-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-049-o0",
+          "text": "Unison"
+        },
+        {
+          "id": "ear-049-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-049-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-049-o2",
+          "text": "Major third"
+        }
+      ],
+      "answer_id": "ear-049-o2",
+      "explanation": "The notes are 4 semitones apart: major third.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-050",
+      "mode": "interval",
+      "level": 2,
+      "question": "Name the ascending interval.",
+      "stimuli": [
+        {
+          "midi": 45,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-050-o2",
+          "text": "Major third"
+        },
+        {
+          "id": "ear-050-o5",
+          "text": "Octave"
+        },
+        {
+          "id": "ear-050-o4",
+          "text": "Perfect fifth"
+        },
+        {
+          "id": "ear-050-o1",
+          "text": "Minor third"
+        },
+        {
+          "id": "ear-050-o3",
+          "text": "Perfect fourth"
+        },
+        {
+          "id": "ear-050-o0",
+          "text": "Unison"
+        }
+      ],
+      "answer_id": "ear-050-o5",
+      "explanation": "The notes are 12 semitones apart: octave.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-051",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 53,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 60,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-051-o0",
+          "text": "Major triad"
+        },
+        {
+          "id": "ear-051-o1",
+          "text": "Minor triad"
+        }
+      ],
+      "answer_id": "ear-051-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-052",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-052-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-052-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-052-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-053",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 54,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 58,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 61,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-053-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-053-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-053-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-054",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 49,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 52,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 56,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-054-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-054-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-054-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-055",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 52,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-055-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-055-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-055-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-056",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 51,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-056-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-056-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-056-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-057",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 54,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 58,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 61,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-057-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-057-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-057-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-058",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 52,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 59,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-058-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-058-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-058-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-059",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 52,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 59,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-059-o0",
+          "text": "Major triad"
+        },
+        {
+          "id": "ear-059-o1",
+          "text": "Minor triad"
+        }
+      ],
+      "answer_id": "ear-059-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-060",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 51,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-060-o0",
+          "text": "Major triad"
+        },
+        {
+          "id": "ear-060-o1",
+          "text": "Minor triad"
+        }
+      ],
+      "answer_id": "ear-060-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-061",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 51,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 58,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-061-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-061-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-061-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-062",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 53,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-062-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-062-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-062-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-063",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 51,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 58,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-063-o0",
+          "text": "Major triad"
+        },
+        {
+          "id": "ear-063-o1",
+          "text": "Minor triad"
+        }
+      ],
+      "answer_id": "ear-063-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-064",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-064-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-064-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-064-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-065",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 51,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 58,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-065-o0",
+          "text": "Major triad"
+        },
+        {
+          "id": "ear-065-o1",
+          "text": "Minor triad"
+        }
+      ],
+      "answer_id": "ear-065-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-066",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 51,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 58,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-066-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-066-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-066-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-067",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 54,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 61,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-067-o0",
+          "text": "Major triad"
+        },
+        {
+          "id": "ear-067-o1",
+          "text": "Minor triad"
+        }
+      ],
+      "answer_id": "ear-067-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-068",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 58,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 62,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-068-o0",
+          "text": "Major triad"
+        },
+        {
+          "id": "ear-068-o1",
+          "text": "Minor triad"
+        }
+      ],
+      "answer_id": "ear-068-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-069",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 51,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-069-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-069-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-069-o1",
+      "explanation": "The third is 3 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-070",
+      "mode": "chord_quality",
+      "level": 2,
+      "question": "Which triad is played together?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 52,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0,
+          "duration_seconds": 1.5,
+          "velocity": 0.45
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-070-o1",
+          "text": "Minor triad"
+        },
+        {
+          "id": "ear-070-o0",
+          "text": "Major triad"
+        }
+      ],
+      "answer_id": "ear-070-o0",
+      "explanation": "The third is 4 semitones above the root; the fifth stays seven semitones above it.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-071",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 47,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 59,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 58,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-071-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-071-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-071-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-071-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-071-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-071-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-071-o6",
+          "text": "7"
+        }
+      ],
+      "answer_id": "ear-071-o6",
+      "explanation": "The target is degree 7 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-072",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 40,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 44,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-072-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-072-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-072-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-072-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-072-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-072-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-072-o3",
+          "text": "4"
+        }
+      ],
+      "answer_id": "ear-072-o5",
+      "explanation": "The target is degree 6 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-073",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 46,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 50,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 53,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 58,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-073-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-073-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-073-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-073-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-073-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-073-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-073-o6",
+          "text": "7"
+        }
+      ],
+      "answer_id": "ear-073-o0",
+      "explanation": "The target is degree 1 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-074",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 40,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 44,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-074-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-074-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-074-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-074-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-074-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-074-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-074-o3",
+          "text": "4"
+        }
+      ],
+      "answer_id": "ear-074-o6",
+      "explanation": "The target is degree 7 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-075",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 46,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 50,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 53,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 58,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 53,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-075-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-075-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-075-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-075-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-075-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-075-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-075-o0",
+          "text": "1"
+        }
+      ],
+      "answer_id": "ear-075-o4",
+      "explanation": "The target is degree 5 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-076",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-076-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-076-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-076-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-076-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-076-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-076-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-076-o3",
+          "text": "4"
+        }
+      ],
+      "answer_id": "ear-076-o3",
+      "explanation": "The target is degree 4 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-077",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 55,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 60,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-077-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-077-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-077-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-077-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-077-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-077-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-077-o0",
+          "text": "1"
+        }
+      ],
+      "answer_id": "ear-077-o2",
+      "explanation": "The target is degree 3 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-078",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 45,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 57,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 56,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-078-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-078-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-078-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-078-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-078-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-078-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-078-o2",
+          "text": "3"
+        }
+      ],
+      "answer_id": "ear-078-o6",
+      "explanation": "The target is degree 7 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-079",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 57,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 62,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-079-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-079-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-079-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-079-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-079-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-079-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-079-o2",
+          "text": "3"
+        }
+      ],
+      "answer_id": "ear-079-o1",
+      "explanation": "The target is degree 2 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-080",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 44,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 48,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 56,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-080-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-080-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-080-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-080-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-080-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-080-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-080-o1",
+          "text": "2"
+        }
+      ],
+      "answer_id": "ear-080-o3",
+      "explanation": "The target is degree 4 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-081",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 44,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 48,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 56,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 55,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-081-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-081-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-081-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-081-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-081-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-081-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-081-o6",
+          "text": "7"
+        }
+      ],
+      "answer_id": "ear-081-o6",
+      "explanation": "The target is degree 7 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-082",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 47,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 59,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-082-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-082-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-082-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-082-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-082-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-082-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-082-o6",
+          "text": "7"
+        }
+      ],
+      "answer_id": "ear-082-o3",
+      "explanation": "The target is degree 4 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-083",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 44,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 48,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 56,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 55,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-083-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-083-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-083-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-083-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-083-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-083-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-083-o5",
+          "text": "6"
+        }
+      ],
+      "answer_id": "ear-083-o6",
+      "explanation": "The target is degree 7 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-084",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 42,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-084-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-084-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-084-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-084-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-084-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-084-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-084-o3",
+          "text": "4"
+        }
+      ],
+      "answer_id": "ear-084-o0",
+      "explanation": "The target is degree 1 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-085",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 45,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 57,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-085-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-085-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-085-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-085-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-085-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-085-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-085-o5",
+          "text": "6"
+        }
+      ],
+      "answer_id": "ear-085-o0",
+      "explanation": "The target is degree 1 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-086",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 47,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 59,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-086-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-086-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-086-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-086-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-086-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-086-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-086-o3",
+          "text": "4"
+        }
+      ],
+      "answer_id": "ear-086-o4",
+      "explanation": "The target is degree 5 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-087",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 45,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 57,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 52,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-087-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-087-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-087-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-087-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-087-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-087-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-087-o6",
+          "text": "7"
+        }
+      ],
+      "answer_id": "ear-087-o4",
+      "explanation": "The target is degree 5 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-088",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 43,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 50,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 55,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 50,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-088-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-088-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-088-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-088-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-088-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-088-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-088-o5",
+          "text": "6"
+        }
+      ],
+      "answer_id": "ear-088-o4",
+      "explanation": "The target is degree 5 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-089",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 43,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 50,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 55,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 47,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-089-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-089-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-089-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-089-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-089-o5",
+          "text": "6"
+        },
+        {
+          "id": "ear-089-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-089-o6",
+          "text": "7"
+        }
+      ],
+      "answer_id": "ear-089-o2",
+      "explanation": "The target is degree 3 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-090",
+      "mode": "scale_degree",
+      "level": 3,
+      "question": "After the major-tonic reference, which scale degree is the final note?",
+      "stimuli": [
+        {
+          "midi": 42,
+          "start_seconds": 0.0,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 46,
+          "start_seconds": 0.7,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 49,
+          "start_seconds": 1.4,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 54,
+          "start_seconds": 2.0999999999999996,
+          "duration_seconds": 0.5,
+          "velocity": 0.65
+        },
+        {
+          "midi": 51,
+          "start_seconds": 3.4,
+          "duration_seconds": 0.8,
+          "velocity": 0.65
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-090-o0",
+          "text": "1"
+        },
+        {
+          "id": "ear-090-o2",
+          "text": "3"
+        },
+        {
+          "id": "ear-090-o4",
+          "text": "5"
+        },
+        {
+          "id": "ear-090-o1",
+          "text": "2"
+        },
+        {
+          "id": "ear-090-o3",
+          "text": "4"
+        },
+        {
+          "id": "ear-090-o6",
+          "text": "7"
+        },
+        {
+          "id": "ear-090-o5",
+          "text": "6"
+        }
+      ],
+      "answer_id": "ear-090-o5",
+      "explanation": "The target is degree 6 above the established major tonic.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-091",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-091-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-091-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-091-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-091-o3",
+          "text": "Offbeat eighths"
+        }
+      ],
+      "answer_id": "ear-091-o0",
+      "explanation": "The first four clicks are the count-in; the following bar uses four quarters.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-092",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-092-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-092-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-092-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-092-o0",
+          "text": "Four quarters"
+        }
+      ],
+      "answer_id": "ear-092-o2",
+      "explanation": "The first four clicks are the count-in; the following bar uses two halves.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-093",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-093-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-093-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-093-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-093-o1",
+          "text": "Eight eighths"
+        }
+      ],
+      "answer_id": "ear-093-o1",
+      "explanation": "The first four clicks are the count-in; the following bar uses eight eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-094",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-094-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-094-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-094-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-094-o0",
+          "text": "Four quarters"
+        }
+      ],
+      "answer_id": "ear-094-o1",
+      "explanation": "The first four clicks are the count-in; the following bar uses eight eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-095",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-095-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-095-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-095-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-095-o0",
+          "text": "Four quarters"
+        }
+      ],
+      "answer_id": "ear-095-o0",
+      "explanation": "The first four clicks are the count-in; the following bar uses four quarters.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-096",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-096-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-096-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-096-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-096-o3",
+          "text": "Offbeat eighths"
+        }
+      ],
+      "answer_id": "ear-096-o3",
+      "explanation": "The first four clicks are the count-in; the following bar uses offbeat eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-097",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-097-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-097-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-097-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-097-o3",
+          "text": "Offbeat eighths"
+        }
+      ],
+      "answer_id": "ear-097-o3",
+      "explanation": "The first four clicks are the count-in; the following bar uses offbeat eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-098",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-098-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-098-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-098-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-098-o3",
+          "text": "Offbeat eighths"
+        }
+      ],
+      "answer_id": "ear-098-o0",
+      "explanation": "The first four clicks are the count-in; the following bar uses four quarters.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-099",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-099-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-099-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-099-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-099-o2",
+          "text": "Two halves"
+        }
+      ],
+      "answer_id": "ear-099-o0",
+      "explanation": "The first four clicks are the count-in; the following bar uses four quarters.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-100",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-100-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-100-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-100-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-100-o2",
+          "text": "Two halves"
+        }
+      ],
+      "answer_id": "ear-100-o0",
+      "explanation": "The first four clicks are the count-in; the following bar uses four quarters.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-101",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-101-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-101-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-101-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-101-o3",
+          "text": "Offbeat eighths"
+        }
+      ],
+      "answer_id": "ear-101-o0",
+      "explanation": "The first four clicks are the count-in; the following bar uses four quarters.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-102",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-102-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-102-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-102-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-102-o3",
+          "text": "Offbeat eighths"
+        }
+      ],
+      "answer_id": "ear-102-o1",
+      "explanation": "The first four clicks are the count-in; the following bar uses eight eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-103",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-103-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-103-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-103-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-103-o1",
+          "text": "Eight eighths"
+        }
+      ],
+      "answer_id": "ear-103-o0",
+      "explanation": "The first four clicks are the count-in; the following bar uses four quarters.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-104",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-104-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-104-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-104-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-104-o1",
+          "text": "Eight eighths"
+        }
+      ],
+      "answer_id": "ear-104-o1",
+      "explanation": "The first four clicks are the count-in; the following bar uses eight eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-105",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-105-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-105-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-105-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-105-o2",
+          "text": "Two halves"
+        }
+      ],
+      "answer_id": "ear-105-o3",
+      "explanation": "The first four clicks are the count-in; the following bar uses offbeat eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-106",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.0,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-106-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-106-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-106-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-106-o0",
+          "text": "Four quarters"
+        }
+      ],
+      "answer_id": "ear-106-o1",
+      "explanation": "The first four clicks are the count-in; the following bar uses eight eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-107",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-107-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-107-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-107-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-107-o3",
+          "text": "Offbeat eighths"
+        }
+      ],
+      "answer_id": "ear-107-o3",
+      "explanation": "The first four clicks are the count-in; the following bar uses offbeat eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-108",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-108-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-108-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-108-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-108-o1",
+          "text": "Eight eighths"
+        }
+      ],
+      "answer_id": "ear-108-o3",
+      "explanation": "The first four clicks are the count-in; the following bar uses offbeat eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-109",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.25,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.75,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-109-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-109-o3",
+          "text": "Offbeat eighths"
+        },
+        {
+          "id": "ear-109-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-109-o0",
+          "text": "Four quarters"
+        }
+      ],
+      "answer_id": "ear-109-o3",
+      "explanation": "The first four clicks are the count-in; the following bar uses offbeat eighths.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-110",
+      "mode": "rhythm",
+      "level": 3,
+      "question": "After a four-click count-in at quarter-note 120, identify the bass attack pattern.",
+      "stimuli": [
+        {
+          "voice": "click",
+          "start_seconds": 0,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 0.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 1.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 2.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "voice": "click",
+          "start_seconds": 3.5,
+          "duration_seconds": 0.04,
+          "velocity": 0.25
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 2.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        },
+        {
+          "midi": 45,
+          "start_seconds": 3.5,
+          "duration_seconds": 0.12,
+          "velocity": 0.7
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-110-o1",
+          "text": "Eight eighths"
+        },
+        {
+          "id": "ear-110-o0",
+          "text": "Four quarters"
+        },
+        {
+          "id": "ear-110-o2",
+          "text": "Two halves"
+        },
+        {
+          "id": "ear-110-o3",
+          "text": "Offbeat eighths"
+        }
+      ],
+      "answer_id": "ear-110-o0",
+      "explanation": "The first four clicks are the count-in; the following bar uses four quarters.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-111",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 61,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 50,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 54,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-111-o1",
+          "text": "I–V–vi–IV"
+        },
+        {
+          "id": "ear-111-o0",
+          "text": "I–IV–V–I"
+        }
+      ],
+      "answer_id": "ear-111-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-112",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 61,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 50,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 54,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-112-o0",
+          "text": "I–IV–V–I"
+        },
+        {
+          "id": "ear-112-o1",
+          "text": "I–V–vi–IV"
+        }
+      ],
+      "answer_id": "ear-112-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-113",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 61,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 50,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 54,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-113-o1",
+          "text": "I–V–vi–IV"
+        },
+        {
+          "id": "ear-113-o0",
+          "text": "I–IV–V–I"
+        }
+      ],
+      "answer_id": "ear-113-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-114",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 55,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 60,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 67,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 66,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 69,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-114-o0",
+          "text": "I–IV–V–I"
+        },
+        {
+          "id": "ear-114-o1",
+          "text": "I–V–vi–IV"
+        }
+      ],
+      "answer_id": "ear-114-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-115",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 55,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 60,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 67,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 66,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 69,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-115-o0",
+          "text": "I–IV–V–I"
+        },
+        {
+          "id": "ear-115-o1",
+          "text": "I–V–vi–IV"
+        }
+      ],
+      "answer_id": "ear-115-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-116",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 50,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 54,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 61,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 50,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 54,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-116-o1",
+          "text": "I–V–vi–IV"
+        },
+        {
+          "id": "ear-116-o0",
+          "text": "I–IV–V–I"
+        }
+      ],
+      "answer_id": "ear-116-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-117",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 55,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 60,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 67,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 66,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 69,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-117-o0",
+          "text": "I–IV–V–I"
+        },
+        {
+          "id": "ear-117-o1",
+          "text": "I–V–vi–IV"
+        }
+      ],
+      "answer_id": "ear-117-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-118",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 52,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 60,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 53,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 60,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-118-o0",
+          "text": "I–IV–V–I"
+        },
+        {
+          "id": "ear-118-o1",
+          "text": "I–V–vi–IV"
+        }
+      ],
+      "answer_id": "ear-118-o1",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–V–vi–IV.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-119",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 48,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 52,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 53,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 57,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 60,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 48,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 52,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-119-o0",
+          "text": "I–IV–V–I"
+        },
+        {
+          "id": "ear-119-o1",
+          "text": "I–V–vi–IV"
+        }
+      ],
+      "answer_id": "ear-119-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    },
+    {
+      "id": "ear-120",
+      "mode": "progression",
+      "level": 4,
+      "question": "Each example begins on the tonic major chord. Which progression follows?",
+      "stimuli": [
+        {
+          "midi": 55,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 0.0,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 60,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 64,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 67,
+          "start_seconds": 1.3,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 66,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 69,
+          "start_seconds": 2.6,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 55,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 59,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        },
+        {
+          "midi": 62,
+          "start_seconds": 3.9000000000000004,
+          "duration_seconds": 1.1,
+          "velocity": 0.38
+        }
+      ],
+      "options": [
+        {
+          "id": "ear-120-o1",
+          "text": "I–V–vi–IV"
+        },
+        {
+          "id": "ear-120-o0",
+          "text": "I–IV–V–I"
+        }
+      ],
+      "answer_id": "ear-120-o0",
+      "explanation": "Hear the bass/root movement and compare the third chord quality: I–IV–V–I.",
+      "origin": "original_basspath"
+    }
+  ]
+}

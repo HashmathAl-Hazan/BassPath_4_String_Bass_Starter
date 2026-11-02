@@ -1,0 +1,725 @@
+{
+  "schema_version": "1.0.0",
+  "level": 5,
+  "title": "Advanced studies",
+  "items": [
+    {
+      "id": "l5-01",
+      "slug": "slap-basics",
+      "module_id": "m5-1",
+      "level": 5,
+      "order": 61,
+      "title": "Introduce a controlled thumb attack",
+      "summary": "Slap uses a thumb attack to create a distinct percussive note.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Produce eight controlled thumb attacks with clear rests."
+      ],
+      "prerequisite_ids": [
+        "l4-12"
+      ],
+      "content": {
+        "explanation": [
+          "Slap uses a thumb attack to create a distinct percussive note. Start with a relaxed movement on one lower string, release the string so it can ring, and listen for a clear pitch. Different hand angles can work; a physical demonstration is useful.",
+          "Keep the volume comfortable and stop if the movement feels strained. This is an optional colour, not a requirement for serving a song well. The synthesised example shows the event timing only."
+        ],
+        "guided_steps": [
+          "Observe the linked demonstration before trying the motion.",
+          "Make four light thumb attacks on low A.",
+          "Add the written rests and compare clarity with fingerstyle."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Forcing the thumb through a tense stroke",
+            "correction": "Slow down, reduce force and reset the relaxed movement."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Add the written rests and compare clarity with fingerstyle.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-01"
+      ],
+      "quiz_ids": [
+        "q5-01"
+      ],
+      "resource_ids": [
+        "r34",
+        "r36"
+      ],
+      "tags": [
+        "slap",
+        "optional"
+      ],
+      "completion_criteria": [
+        "Produce eight controlled thumb attacks with clear rests.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-02",
+      "slug": "slap-pop-muting",
+      "module_id": "m5-1",
+      "level": 5,
+      "order": 62,
+      "title": "Balance pops and silence between attacks",
+      "summary": "A pop releases a string after a small controlled pull with a finger.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play a balanced root-and-octave pattern with clean rests."
+      ],
+      "prerequisite_ids": [
+        "l5-01"
+      ],
+      "content": {
+        "explanation": [
+          "A pop releases a string after a small controlled pull with a finger. It can be much louder than a thumb attack, so balance the two at low volume. Use both hands to control unused strings.",
+          "First make each sound separately. Then combine a low root, a rest and an octave pop. Clear gaps reveal whether muting is working. Do not increase tempo until the octave note and low note have comparable intentional volume."
+        ],
+        "guided_steps": [
+          "Practise one gentle octave pop with other strings muted.",
+          "Alternate low A thumb attacks with octave A pops.",
+          "Play four loops and listen for accidental ringing."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Pulling excessively to make every pop loud",
+            "correction": "Use a small release and compare the balance at low volume."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play four loops and listen for accidental ringing.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-02"
+      ],
+      "quiz_ids": [
+        "q5-02"
+      ],
+      "resource_ids": [
+        "r34",
+        "r36"
+      ],
+      "tags": [
+        "slap",
+        "pop",
+        "muting"
+      ],
+      "completion_criteria": [
+        "Play a balanced root-and-octave pattern with clean rests.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-03",
+      "slug": "double-thumb",
+      "module_id": "m5-1",
+      "level": 5,
+      "order": 63,
+      "title": "Explore down-and-up thumb strokes",
+      "summary": "Double thumb uses a controlled downstroke and upstroke to articulate a string.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play four clean down-up pairs separated by silence."
+      ],
+      "prerequisite_ids": [
+        "l5-02"
+      ],
+      "content": {
+        "explanation": [
+          "Double thumb uses a controlled downstroke and upstroke to articulate a string. Learn the return path slowly rather than treating it as two forceful impacts. Compare the volume of both directions before adding other fingers.",
+          "This optional study depends on comfortable basic slap and muting. Work in short bursts followed by silence. If the upstroke catches or tenses the hand, return to a single slow movement and observe a trusted demonstration."
+        ],
+        "guided_steps": [
+          "Practise an unhurried down-and-up pair on one note.",
+          "Match the two attacks in volume.",
+          "Add the scored rest and octave pop only when the pair is controlled."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Speeding the pair before the return stroke is comfortable",
+            "correction": "Isolate the upstroke and lower the tempo."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Add the scored rest and octave pop only when the pair is controlled.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-03"
+      ],
+      "quiz_ids": [
+        "q5-03"
+      ],
+      "resource_ids": [
+        "r35"
+      ],
+      "tags": [
+        "double-thumb",
+        "optional"
+      ],
+      "completion_criteria": [
+        "Play four clean down-up pairs separated by silence.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-04",
+      "slug": "two-hand-tapping",
+      "module_id": "m5-1",
+      "level": 5,
+      "order": 64,
+      "title": "Try a short two-hand tapping phrase",
+      "summary": "In tapping, a finger from the usual plucking hand sounds a fretted note directly on the neck.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play the three-note tapping phrase with a controlled ending."
+      ],
+      "prerequisite_ids": [
+        "l5-03"
+      ],
+      "content": {
+        "explanation": [
+          "In tapping, a finger from the usual plucking hand sounds a fretted note directly on the neck. Prepare the fretting-hand note, tap a higher note, then release into the prepared lower note. Damping remains essential because both hands are on the neck.",
+          "Begin with one string and a short phrase. The goal is a controlled sound at an ordinary volume, not a wide stretch or a fast run. This technique is optional and can be postponed without blocking band practice."
+        ],
+        "guided_steps": [
+          "Prepare C at G-string fret five.",
+          "Tap G at fret twelve with a comfortable fingertip movement.",
+          "Release to the prepared C and mute for the written rest."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Removing every damping contact during the tap",
+            "correction": "Decide which fingers will quiet the unused strings first."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Release to the prepared C and mute for the written rest.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-04"
+      ],
+      "quiz_ids": [
+        "q5-04"
+      ],
+      "resource_ids": [
+        "r40"
+      ],
+      "tags": [
+        "tapping",
+        "optional"
+      ],
+      "completion_criteria": [
+        "Play the three-note tapping phrase with a controlled ending.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-05",
+      "slug": "natural-harmonics",
+      "module_id": "m5-2",
+      "level": 5,
+      "order": 65,
+      "title": "Find the octave harmonic",
+      "summary": "Lightly touch an open string directly above the twelfth fret and pluck, then release the touching finger.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Produce and stop a twelfth-fret natural harmonic repeatedly."
+      ],
+      "prerequisite_ids": [
+        "l5-04"
+      ],
+      "content": {
+        "explanation": [
+          "Lightly touch an open string directly above the twelfth fret and pluck, then release the touching finger. This can emphasise the octave harmonic. Pressing down normally instead produces a fretted note; the pitch may match at twelve, but the production and tone differ.",
+          "Try the G string first and keep other strings muted. Higher harmonic nodes need different pitch rules; this pack scores only the twelfth-fret natural harmonic. The linked tapped-harmonic lesson is an optional extension, not the same movement."
+        ],
+        "guided_steps": [
+          "Compare a fretted G-string twelfth-fret note with a light-touch harmonic.",
+          "Release the touch after the attack and listen.",
+          "Play the harmonic study and damp before each rest."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Pressing the string fully against the fret",
+            "correction": "Touch lightly at the node for the harmonic."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the harmonic study and damp before each rest.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-05"
+      ],
+      "quiz_ids": [
+        "q5-05"
+      ],
+      "resource_ids": [
+        "r38"
+      ],
+      "tags": [
+        "harmonics",
+        "optional"
+      ],
+      "completion_criteria": [
+        "Produce and stop a twelfth-fret natural harmonic repeatedly.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-06",
+      "slug": "extended-harmony",
+      "module_id": "m5-2",
+      "level": 5,
+      "order": 66,
+      "title": "Choose clear notes under extended chord symbols",
+      "summary": "An extension such as a ninth, eleventh or thirteenth adds colour beyond a seventh chord.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Explain C9 versus Cadd9 and create a restrained supporting part."
+      ],
+      "prerequisite_ids": [
+        "l5-05"
+      ],
+      "content": {
+        "explanation": [
+          "An extension such as a ninth, eleventh or thirteenth adds colour beyond a seventh chord. C9 generally implies a dominant-seventh foundation plus D; Cadd9 does not by itself imply Bb. Read the whole symbol and the chart context.",
+          "The bassist need not play every extension. A clear root and purposeful movement can support complex chords while other instruments supply colour. Hear extensions above a stable reference rather than crowding them into a muddy low register."
+        ],
+        "guided_steps": [
+          "Compare the chord tones of C7, C9 and Cadd9 on paper.",
+          "Play a simple C-root part under each reference.",
+          "Add one suitable chord tone while preserving clarity."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Trying to put every extension into a low-register run",
+            "correction": "Choose a clear role and let the ensemble supply other tones."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Add one suitable chord tone while preserving clarity.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-06"
+      ],
+      "quiz_ids": [
+        "q5-06"
+      ],
+      "resource_ids": [
+        "r46",
+        "r14"
+      ],
+      "tags": [
+        "extensions",
+        "harmony"
+      ],
+      "completion_criteria": [
+        "Explain C9 versus Cadd9 and create a restrained supporting part.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-07",
+      "slug": "register-and-voicing",
+      "module_id": "m5-2",
+      "level": 5,
+      "order": 67,
+      "title": "Use register to keep harmony clear",
+      "summary": "Closely spaced low pitches can sound dense.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Explain how register and spacing change clarity."
+      ],
+      "prerequisite_ids": [
+        "l5-06"
+      ],
+      "content": {
+        "explanation": [
+          "Closely spaced low pitches can sound dense. If you try two-note voicings, move them into a higher register and listen to the result. A tenth is a third displaced by an octave, so it can suggest major or minor colour with wider spacing.",
+          "Begin by playing the notes separately; do not force a reach to make them simultaneous. In a band, ask whether a dyad improves the arrangement or duplicates another instrument. The main bass role still needs a clear pulse and foundation."
+        ],
+        "guided_steps": [
+          "Compare C2–E2 separately with C2–E3 separately.",
+          "Locate the wider interval with comfortable positions.",
+          "Try a short high-register answer between low root phrases."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Forcing a wide simultaneous stretch",
+            "correction": "Play the notes sequentially or choose another voicing."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Try a short high-register answer between low root phrases.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-07"
+      ],
+      "quiz_ids": [
+        "q5-07"
+      ],
+      "resource_ids": [
+        "r45",
+        "r14"
+      ],
+      "tags": [
+        "voicing",
+        "register"
+      ],
+      "completion_criteria": [
+        "Explain how register and spacing change clarity.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-08",
+      "slug": "pick-and-tone",
+      "module_id": "m5-2",
+      "level": 5,
+      "order": 68,
+      "title": "Compare pick, fingerstyle and hand position",
+      "summary": "A pick provides another attack shape.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Make an intentional tone choice and explain it with a listening comparison."
+      ],
+      "prerequisite_ids": [
+        "l5-07"
+      ],
+      "content": {
+        "explanation": [
+          "A pick provides another attack shape. Hold it securely without excessive pressure, use small strokes and start with downstrokes before alternating. Compare it with fingerstyle at matched listening volume.",
+          "Plucking nearer the bridge often emphasises a tighter, brighter attack; nearer the neck can feel rounder. Instrument and amplifier settings also affect the result. Change one variable at a time and choose the sound that supports the arrangement."
+        ],
+        "guided_steps": [
+          "Play a repeated-note phrase with fingers.",
+          "Repeat with a pick using small even strokes.",
+          "Compare near-bridge and nearer-neck positions at similar volume."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Assuming one technique is always musically superior",
+            "correction": "Compare the sounds in the actual arrangement."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare near-bridge and nearer-neck positions at similar volume.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-08"
+      ],
+      "quiz_ids": [
+        "q5-08"
+      ],
+      "resource_ids": [
+        "r27",
+        "r52"
+      ],
+      "tags": [
+        "pick",
+        "tone"
+      ],
+      "completion_criteria": [
+        "Make an intentional tone choice and explain it with a listening comparison.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-09",
+      "slug": "direct-recording",
+      "module_id": "m5-3",
+      "level": 5,
+      "order": 69,
+      "title": "Capture a clean direct bass track",
+      "summary": "A suitable instrument input or DI can feed an audio interface without relying on a microphone in the room.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Save a clean test recording with consistent level and a clear file name."
+      ],
+      "prerequisite_ids": [
+        "l5-08"
+      ],
+      "content": {
+        "explanation": [
+          "A suitable instrument input or DI can feed an audio interface without relying on a microphone in the room. Set input gain while playing your strongest expected attacks, leaving headroom instead of clipping. Use the equipment manual for its input mode and connection sequence.",
+          "Monitor comfortably and listen for latency before performing. Record a short test, check that it is clean, then keep the same setup for the take. Browser microphone recording is a useful journal but does not replace a carefully configured recording session."
+        ],
+        "guided_steps": [
+          "Connect through a suitable instrument input and check its mode.",
+          "Record a short loud-and-soft test without clipping.",
+          "Listen for noise, distortion and timing before a full take."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Recording a full part without a test",
+            "correction": "Capture and inspect a short sample first."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Listen for noise, distortion and timing before a full take.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-09"
+      ],
+      "quiz_ids": [
+        "q5-09"
+      ],
+      "resource_ids": [
+        "r51",
+        "r52"
+      ],
+      "tags": [
+        "recording",
+        "DI"
+      ],
+      "completion_criteria": [
+        "Save a clean test recording with consistent level and a clear file name.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-10",
+      "slug": "eq-and-compression",
+      "module_id": "m5-3",
+      "level": 5,
+      "order": 70,
+      "title": "Listen before changing processing",
+      "summary": "EQ adjusts frequency balance; compression changes dynamics according to its settings.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Explain one processing choice using an audible before-and-after comparison."
+      ],
+      "prerequisite_ids": [
+        "l5-09"
+      ],
+      "content": {
+        "explanation": [
+          "EQ adjusts frequency balance; compression changes dynamics according to its settings. Neither automatically repairs incorrect notes, unwanted ringing or an unstable performance. Start from a clean recording and identify a specific problem.",
+          "Compare processed and bypassed sound at similar loudness. A louder version can seem better even when it is less clear. Change one setting, listen in the arrangement, and keep the change only if it serves the part."
+        ],
+        "guided_steps": [
+          "Listen to a dry take and name one problem.",
+          "Try one small EQ or compression adjustment in your recording software.",
+          "Match playback loudness and compare bypassed and processed versions."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Treating louder playback as proof of improvement",
+            "correction": "Level-match the comparison and listen in context."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Match playback loudness and compare bypassed and processed versions.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-10"
+      ],
+      "quiz_ids": [
+        "q5-10"
+      ],
+      "resource_ids": [
+        "r51",
+        "r52"
+      ],
+      "tags": [
+        "mixing",
+        "tone"
+      ],
+      "completion_criteria": [
+        "Explain one processing choice using an audible before-and-after comparison.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-11",
+      "slug": "record-and-review",
+      "module_id": "m5-3",
+      "level": 5,
+      "order": 71,
+      "title": "Review a take one dimension at a time",
+      "summary": "Review time, pitch, note length and noise in separate listening passes.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Document and improve one specific issue between two takes."
+      ],
+      "prerequisite_ids": [
+        "l5-10"
+      ],
+      "content": {
+        "explanation": [
+          "Review time, pitch, note length and noise in separate listening passes. Write observations tied to a bar or phrase, such as a late entry after a rest. A specific observation can become a practice task; a vague judgement cannot.",
+          "Compare two takes at similar volume and choose the one that serves the whole arrangement. Keep an earlier take so you can hear improvement over time. A visual waveform may help locate events, but listening remains necessary."
+        ],
+        "guided_steps": [
+          "Record the same short chart twice.",
+          "Listen once for timing and once for note endings.",
+          "Write one bar-specific correction and rerecord only after practising it."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Changing everything after a vague negative reaction",
+            "correction": "Pick one audible problem with a location."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Write one bar-specific correction and rerecord only after practising it.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-11"
+      ],
+      "quiz_ids": [
+        "q5-11"
+      ],
+      "resource_ids": [
+        "r51",
+        "r52"
+      ],
+      "tags": [
+        "recording",
+        "reflection"
+      ],
+      "completion_criteria": [
+        "Document and improve one specific issue between two takes.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l5-12",
+      "slug": "advanced-musical-check",
+      "module_id": "m5-3",
+      "level": 5,
+      "order": 72,
+      "title": "Use a new technique only where it helps",
+      "summary": "Create a short arrangement using familiar fundamentals and one optional colour you can control.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Deliver a coherent arrangement and justify one technique or tone choice."
+      ],
+      "prerequisite_ids": [
+        "l5-11"
+      ],
+      "content": {
+        "explanation": [
+          "Create a short arrangement using familiar fundamentals and one optional colour you can control. That colour might be a harmonic, a pick attack, a slide or a brief slap figure. You can also choose a purely fingerstyle arrangement.",
+          "Compare a version with the added colour and a simpler version. Keep the one that supports the music. Advanced study should expand choices while preserving time, muting, harmony and clear communication."
+        ],
+        "guided_steps": [
+          "Choose an original sixteen-bar chart.",
+          "Record a simple version and a version with one deliberate colour.",
+          "Compare both and explain which best serves the arrangement."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Keeping a difficult technique because it is difficult",
+            "correction": "Judge its musical contribution and reliability."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare both and explain which best serves the arrangement.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e5-12"
+      ],
+      "quiz_ids": [
+        "q5-12"
+      ],
+      "resource_ids": [
+        "r54",
+        "r51"
+      ],
+      "tags": [
+        "assessment",
+        "arrangement"
+      ],
+      "completion_criteria": [
+        "Deliver a coherent arrangement and justify one technique or tone choice.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": true,
+      "prerequisites_are_recommendations": true
+    }
+  ]
+}

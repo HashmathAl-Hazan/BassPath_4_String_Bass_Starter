@@ -1,0 +1,600 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "id": "milestone-0",
+      "level": 0,
+      "title": "Instrument basics checkpoint",
+      "lesson_ids": [
+        "l0-01",
+        "l0-02",
+        "l0-03",
+        "l0-04",
+        "l0-05",
+        "l0-06",
+        "l0-07",
+        "l0-08",
+        "l0-09",
+        "l0-10",
+        "l0-11",
+        "l0-12"
+      ],
+      "performance_task": [
+        "Tune, settle the instrument and count in one bar.",
+        "Play eight bars: two per open string with alternating fingers.",
+        "Listen back for timing, volume, muting and the ending; record what needs work."
+      ],
+      "criteria": [
+        "Tune EADG and identify instrument parts.",
+        "Produce controlled notes and silence.",
+        "Keep a 60 BPM pulse with relaxed movement.",
+        "Demonstrate all open-string milestone criteria in two controlled takes."
+      ],
+      "rubric": [
+        {
+          "skill": "timing",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "sound_and_muting",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "note_choice",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "form",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "reflection",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        }
+      ],
+      "pass_rule": {
+        "type": "self_assessed",
+        "all_criteria_confirmed": true,
+        "knowledge_quiz_min_percent": 80,
+        "repeat_on_two_separate_sessions": true
+      },
+      "optional": false,
+      "disclaimer": "Self-assessed learning milestone, not a credential or automated assessment of playing."
+    },
+    {
+      "id": "milestone-1",
+      "level": 1,
+      "title": "Absolute beginner checkpoint",
+      "lesson_ids": [
+        "l1-01",
+        "l1-02",
+        "l1-03",
+        "l1-04",
+        "l1-05",
+        "l1-06",
+        "l1-07",
+        "l1-08",
+        "l1-09",
+        "l1-10",
+        "l1-11",
+        "l1-12"
+      ],
+      "performance_task": [
+        "Prepare a 24-bar version of the root-note study with a count-in.",
+        "Record it without restarting for small slips.",
+        "Note one improvement and one next practice target."
+      ],
+      "criteria": [
+        "Read simple tab and note durations.",
+        "Find natural notes near the nut.",
+        "Play a complete root-note arrangement.",
+        "Play a complete 24-bar arrangement with a clear beginning and ending."
+      ],
+      "rubric": [
+        {
+          "skill": "timing",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "sound_and_muting",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "note_choice",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "form",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "reflection",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        }
+      ],
+      "pass_rule": {
+        "type": "self_assessed",
+        "all_criteria_confirmed": true,
+        "knowledge_quiz_min_percent": 80,
+        "repeat_on_two_separate_sessions": true
+      },
+      "optional": false,
+      "disclaimer": "Self-assessed learning milestone, not a credential or automated assessment of playing."
+    },
+    {
+      "id": "milestone-2",
+      "level": 2,
+      "title": "Foundations checkpoint",
+      "lesson_ids": [
+        "l2-01",
+        "l2-02",
+        "l2-03",
+        "l2-04",
+        "l2-05",
+        "l2-06",
+        "l2-07",
+        "l2-08",
+        "l2-09",
+        "l2-10",
+        "l2-11",
+        "l2-12"
+      ],
+      "performance_task": [
+        "Write a two-section chart with eight bars per section.",
+        "Build a sparse verse and a more active chorus using known chord tones.",
+        "Record two full takes and compare timing and space."
+      ],
+      "criteria": [
+        "Use scales and chord tones intentionally.",
+        "Transpose a common progression.",
+        "Hear and match a restricted set of pitches.",
+        "Perform a 16-bar original arrangement in two keys with dependable roots."
+      ],
+      "rubric": [
+        {
+          "skill": "timing",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "sound_and_muting",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "note_choice",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "form",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "reflection",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        }
+      ],
+      "pass_rule": {
+        "type": "self_assessed",
+        "all_criteria_confirmed": true,
+        "knowledge_quiz_min_percent": 80,
+        "repeat_on_two_separate_sessions": true
+      },
+      "optional": false,
+      "disclaimer": "Self-assessed learning milestone, not a credential or automated assessment of playing."
+    },
+    {
+      "id": "milestone-3",
+      "level": 3,
+      "title": "Intermediate checkpoint",
+      "lesson_ids": [
+        "l3-01",
+        "l3-02",
+        "l3-03",
+        "l3-04",
+        "l3-05",
+        "l3-06",
+        "l3-07",
+        "l3-08",
+        "l3-09",
+        "l3-10",
+        "l3-11",
+        "l3-12"
+      ],
+      "performance_task": [
+        "Choose a progression and write its eight-bar form.",
+        "Rehearse the main groove before adding one variation.",
+        "Record two takes and compare using the milestone checklist."
+      ],
+      "criteria": [
+        "Control subdivisions and articulations.",
+        "Follow changes in walking and groove studies.",
+        "Learn and vary a short phrase by ear.",
+        "Deliver two coherent eight-bar takes with a reliable return after the variation."
+      ],
+      "rubric": [
+        {
+          "skill": "timing",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "sound_and_muting",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "note_choice",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "form",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "reflection",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        }
+      ],
+      "pass_rule": {
+        "type": "self_assessed",
+        "all_criteria_confirmed": true,
+        "knowledge_quiz_min_percent": 80,
+        "repeat_on_two_separate_sessions": true
+      },
+      "optional": false,
+      "disclaimer": "Self-assessed learning milestone, not a credential or automated assessment of playing."
+    },
+    {
+      "id": "milestone-4",
+      "level": 4,
+      "title": "Upper-intermediate checkpoint",
+      "lesson_ids": [
+        "l4-01",
+        "l4-02",
+        "l4-03",
+        "l4-04",
+        "l4-05",
+        "l4-06",
+        "l4-07",
+        "l4-08",
+        "l4-09",
+        "l4-10",
+        "l4-11",
+        "l4-12"
+      ],
+      "performance_task": [
+        "Play one chorus with roots only.",
+        "Play a second using one extra chord tone per bar.",
+        "Play a third with one planned approach and a clean ending."
+      ],
+      "criteria": [
+        "Read, transpose and recover in a band context.",
+        "Explore odd meters and harmony in context.",
+        "Improvise without losing the form.",
+        "Improvise three coherent choruses while preserving every chord change."
+      ],
+      "rubric": [
+        {
+          "skill": "timing",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "sound_and_muting",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "note_choice",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "form",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "reflection",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        }
+      ],
+      "pass_rule": {
+        "type": "self_assessed",
+        "all_criteria_confirmed": true,
+        "knowledge_quiz_min_percent": 80,
+        "repeat_on_two_separate_sessions": true
+      },
+      "optional": false,
+      "disclaimer": "Self-assessed learning milestone, not a credential or automated assessment of playing."
+    },
+    {
+      "id": "milestone-5",
+      "level": 5,
+      "title": "Advanced studies checkpoint",
+      "lesson_ids": [
+        "l5-01",
+        "l5-02",
+        "l5-03",
+        "l5-04",
+        "l5-05",
+        "l5-06",
+        "l5-07",
+        "l5-08",
+        "l5-09",
+        "l5-10",
+        "l5-11",
+        "l5-12"
+      ],
+      "performance_task": [
+        "Choose an original sixteen-bar chart.",
+        "Record a simple version and a version with one deliberate colour.",
+        "Compare both and explain which best serves the arrangement."
+      ],
+      "criteria": [
+        "Explore optional techniques comfortably.",
+        "Choose tone and register intentionally.",
+        "Capture and review a clean recording.",
+        "Deliver a coherent arrangement and justify one technique or tone choice."
+      ],
+      "rubric": [
+        {
+          "skill": "timing",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "sound_and_muting",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "note_choice",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "form",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "reflection",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        }
+      ],
+      "pass_rule": {
+        "type": "self_assessed",
+        "all_criteria_confirmed": true,
+        "knowledge_quiz_min_percent": 80,
+        "repeat_on_two_separate_sessions": true
+      },
+      "optional": true,
+      "disclaimer": "Self-assessed learning milestone, not a credential or automated assessment of playing."
+    },
+    {
+      "id": "milestone-6",
+      "level": 6,
+      "title": "Performance and professional practice checkpoint",
+      "lesson_ids": [
+        "l6-01",
+        "l6-02",
+        "l6-03",
+        "l6-04",
+        "l6-05",
+        "l6-06",
+        "l6-07",
+        "l6-08",
+        "l6-09",
+        "l6-10",
+        "l6-11",
+        "l6-12"
+      ],
+      "performance_task": [
+        "Rehearse the three-study set without stopping.",
+        "Record a full run with transitions and endings.",
+        "Complete the self-assessment and choose one next-month focus."
+      ],
+      "criteria": [
+        "Prepare and perform a short set.",
+        "Communicate cues and rehearsal changes.",
+        "Document progress and plan continued learning.",
+        "Perform and review a complete contrasting set with dependable time, form and endings."
+      ],
+      "rubric": [
+        {
+          "skill": "timing",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "sound_and_muting",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "note_choice",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "form",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        },
+        {
+          "skill": "reflection",
+          "scale": [
+            "needs_work",
+            "developing",
+            "consistent"
+          ],
+          "evidence_required": true
+        }
+      ],
+      "pass_rule": {
+        "type": "self_assessed",
+        "all_criteria_confirmed": true,
+        "knowledge_quiz_min_percent": 80,
+        "repeat_on_two_separate_sessions": true
+      },
+      "optional": false,
+      "disclaimer": "Self-assessed learning milestone, not a credential or automated assessment of playing."
+    }
+  ]
+}

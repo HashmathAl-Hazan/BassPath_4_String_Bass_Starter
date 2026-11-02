@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0.0",
+  "pack_title": "BassPath Four-String Bass Learning Pack",
+  "created_on": "2026-10-27",
+  "instrument": "E1–A1–D2–G2",
+  "language": "en",
+  "counts": {
+    "levels": 7,
+    "modules": 21,
+    "lessons": 84,
+    "exercises": 93,
+    "scored_exercises": 60,
+    "knowledge_questions": 84,
+    "ear_questions": 120,
+    "resources": 58,
+    "original_studies": 12,
+    "drum_loops": 10,
+    "glossary_terms": 69,
+    "starter_days": 28
+  },
+  "files": [
+    {
+      "path": "content/curriculum.json",
+      "bytes": 11037,
+      "items": null,
+      "sha256": "78ffa5b236520a6a6ef151736949b0f560867f1af9c8201505847bdb65e2f991"
+    },
+    {
+      "path": "content/ear-training.json",
+      "bytes": 175457,
+      "items": 120,
+      "sha256": "a7b63ed385a1a8fdb0816335945a6f6b94a331d06b32ee954dbbedd611a45ce5"
+    },
+    {
+      "path": "content/exercises.json",
+      "bytes": 230280,
+      "items": 93,
+      "sha256": "ea856f50d4f41fad172c7325e55e5cf29da2c1ebc229c868fd524e97597a1c7a"
+    },
+    {
+      "path": "content/glossary.json",
+      "bytes": 9350,
+      "items": 69,
+      "sha256": "e81815d3ab5352b9176a43ab31e7020d07347468a8e0a6d0c00a1a74dde23c25"
+    },
+    {
+      "path": "content/grooves.json",
+      "bytes": 16520,
+      "items": 10,
+      "sha256": "f72f85eee84e1de70a6a33305a92fa17049f1933a91fa263c5a4a5690aff91ad"
+    },
+    {
+      "path": "content/instrument.json",
+      "bytes": 21536,
+      "items": null,
+      "sha256": "33127416dcc042c06eded92dbc8fdcbe0b3a5f1c09c8c786089b2d81f72f553c"
+    },
+    {
+      "path": "content/lessons-level-0.json",
+      "bytes": 32905,
+      "items": 12,
+      "sha256": "39be3e988246c91aab761fd93356566b38cd9ddb65a1581d15d2eebce2b8da6f"
+    },
+    {
+      "path": "content/lessons-level-1.json",
+      "bytes": 31769,
+      "items": 12,
+      "sha256": "0cf38657145b050d2b8c0c2534e70a031842e3d455582d5e0713ee971b904b1b"
+    },
+    {
+      "path": "content/lessons-level-2.json",
+      "bytes": 31911,
+      "items": 12,
+      "sha256": "1f80e2dfd68ad73501352d074830bb0f1880c2cc76818aa06742382549ef0e85"
+    },
+    {
+      "path": "content/lessons-level-3.json",
+      "bytes": 32952,
+      "items": 12,
+      "sha256": "17749c489116e4951ffa4f558beb2b563d6f3dd6fccc25342f1cf39ce14a5564"
+    },
+    {
+      "path": "content/lessons-level-4.json",
+      "bytes": 32285,
+      "items": 12,
+      "sha256": "7c5275daf878d8fca1760a22d6fda791e7d0318bd7ca88ed3b7b12dc2f70ab82"
+    },
+    {
+      "path": "content/lessons-level-5.json",
+      "bytes": 33021,
+      "items": 12,
+      "sha256": "f3dbb1089274e5f246444f49663d1d0b4aedafc74278417d9418201108bb4268"
+    },
+    {
+      "path": "content/lessons-level-6.json",
+      "bytes": 33055,
+      "items": 12,
+      "sha256": "510090242c2ffee11906e51dd8bdcb6216d4173efc03a2f6ace81c0cc086d3e9"
+    },
+    {
+      "path": "content/milestones.json",
+      "bytes": 15424,
+      "items": 7,
+      "sha256": "aa5fefe30309f516c78abe2ed63d46f8a48411c49b11debf059063fc3fcd80a2"
+    },
+    {
+      "path": "content/practice-plans.json",
+      "bytes": 16484,
+      "items": null,
+      "sha256": "3236e7c738f69a8077c6664c2505d28f58090c617ede680bee201f9ea34ff7c4"
+    },
+    {
+      "path": "content/quizzes.json",
+      "bytes": 61992,
+      "items": 84,
+      "sha256": "e389234605ec7aaf3bf498b16705d9ed24cdd11ae4ff1da5076f35223ab6de4b"
+    },
+    {
+      "path": "content/resources.json",
+      "bytes": 48184,
+      "items": 58,
+      "sha256": "8edd0957a2a349e17703d5051080aa7cd3d41ad6c015f7f52127ac230986bdeb"
+    },
+    {
+      "path": "content/studies.json",
+      "bytes": 25320,
+      "items": 12,
+      "sha256": "986a804c92bbe636a1a857f9bbb1bbc298db5d5e93427992e51389ec00de9fd5"
+    },
+    {
+      "path": "content/theory.json",
+      "bytes": 10419,
+      "items": null,
+      "sha256": "1b85d7fe97163e419e9bcae5b4189c9383d38c224fb08167d777252c8ac98d9f"
+    }
+  ],
+  "agent_read_order": [
+    "BUILD_SPEC.md",
+    "content/manifest.json",
+    "content-types.ts",
+    "content/lessons-level-0.json: read one representative item only",
+    "relevant files as needed"
+  ],
+  "research_scope": "Publisher pages checked on the stated date; JS-only exercises confirmed through official indexes. No claim of video playback verification.",
+  "content_scope": "A substantial self-paced curriculum and optional advanced survey; not an exhaustive conservatoire course or a professional qualification."
+}

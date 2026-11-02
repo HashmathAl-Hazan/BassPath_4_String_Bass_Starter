@@ -1,0 +1,1449 @@
+{
+  "schema_version": "1.0.0",
+  "checked_on": "2026-10-27",
+  "policy": "Publisher links and short original descriptions; no scraped teaching text or media. Free access is not a redistribution license.",
+  "items": [
+    {
+      "id": "r01",
+      "title": "Structured study guide",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/study-guide/",
+      "kind": "guide",
+      "levels": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tags": [
+        "beginner",
+        "theory",
+        "practice"
+      ],
+      "language": "en",
+      "summary": "Free structured reference for technique, reading, harmony and rhythm.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r02",
+      "title": "How to tune your bass",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/basics/how-to-tune-your-bass/",
+      "kind": "lesson",
+      "levels": [
+        0
+      ],
+      "tags": [
+        "tuning",
+        "setup"
+      ],
+      "language": "en",
+      "summary": "Understand tuning before working with a tuner.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r03",
+      "title": "Holding the bass",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/holding-the-bass/",
+      "kind": "lesson",
+      "levels": [
+        0
+      ],
+      "tags": [
+        "posture",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "Observe instrument support and relaxed playing positions.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r04",
+      "title": "Plucking",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/plucking/",
+      "kind": "lesson",
+      "levels": [
+        0,
+        1
+      ],
+      "tags": [
+        "fingerstyle",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "Compare fingerstyle hand movement with your own.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r05",
+      "title": "Fretting",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/fretting/",
+      "kind": "lesson",
+      "levels": [
+        0,
+        1
+      ],
+      "tags": [
+        "fretting",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "Review fretting contact and efficient movement.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r06",
+      "title": "String crossing",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/string-crossing/",
+      "kind": "lesson",
+      "levels": [
+        1,
+        2
+      ],
+      "tags": [
+        "string-crossing",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "Practise moving between strings with control.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r07",
+      "title": "How to read bass tab",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/reading-music/how-to-read-bass-tab/",
+      "kind": "lesson",
+      "levels": [
+        0,
+        1
+      ],
+      "tags": [
+        "tab",
+        "reading"
+      ],
+      "language": "en",
+      "summary": "Learn what string lines and fret numbers represent.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r08",
+      "title": "Roots to chords",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/common-bass-patterns/roots-to-chords/",
+      "kind": "lesson",
+      "levels": [
+        1,
+        2
+      ],
+      "tags": [
+        "roots",
+        "harmony"
+      ],
+      "language": "en",
+      "summary": "Connect bass notes with chord names.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r09",
+      "title": "Octaves",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/common-bass-patterns/octaves/",
+      "kind": "lesson",
+      "levels": [
+        2
+      ],
+      "tags": [
+        "octaves",
+        "fretboard"
+      ],
+      "language": "en",
+      "summary": "Find matching note names in another register.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r10",
+      "title": "Roots and fifths",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/common-bass-patterns/roots-and-fifths/",
+      "kind": "lesson",
+      "levels": [
+        2
+      ],
+      "tags": [
+        "fifths",
+        "harmony"
+      ],
+      "language": "en",
+      "summary": "Build accompaniment using two useful chord tones.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r11",
+      "title": "Playing a steady pulse",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/rhythm/playing-a-steady-pulse/",
+      "kind": "lesson",
+      "levels": [
+        0,
+        1
+      ],
+      "tags": [
+        "timing",
+        "rhythm"
+      ],
+      "language": "en",
+      "summary": "Develop a consistent beat before adding subdivisions.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r12",
+      "title": "The eighth-note subdivision",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/rhythm/the-eighth-note-subdivision/",
+      "kind": "lesson",
+      "levels": [
+        1,
+        2
+      ],
+      "tags": [
+        "rhythm",
+        "eighth-notes"
+      ],
+      "language": "en",
+      "summary": "Divide the beat evenly while counting.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r13",
+      "title": "Shuffle and swing rhythms",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/rhythm/shuffle-and-swing-rhythms/",
+      "kind": "lesson",
+      "levels": [
+        2,
+        3
+      ],
+      "tags": [
+        "swing",
+        "blues"
+      ],
+      "language": "en",
+      "summary": "Compare straight and uneven subdivisions.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r14",
+      "title": "Chord tones are primary",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-chord-patterns/chord-tones-are-primary/",
+      "kind": "lesson",
+      "levels": [
+        2,
+        3
+      ],
+      "tags": [
+        "chord-tones",
+        "harmony"
+      ],
+      "language": "en",
+      "summary": "Relate your strongest notes to the current chord.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r15",
+      "title": "One-octave major scale",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-scales/one-octave-major-scale/",
+      "kind": "lesson",
+      "levels": [
+        2
+      ],
+      "tags": [
+        "major-scale",
+        "theory"
+      ],
+      "language": "en",
+      "summary": "Study a major scale on the instrument.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r16",
+      "title": "One-octave minor triad",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-chord-patterns/one-octave-minor-triad/",
+      "kind": "lesson",
+      "levels": [
+        2
+      ],
+      "tags": [
+        "minor",
+        "arpeggios"
+      ],
+      "language": "en",
+      "summary": "Hear and play a minor chord one note at a time.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r17",
+      "title": "Slash chords",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/reading-music/slash-chords/",
+      "kind": "lesson",
+      "levels": [
+        2,
+        3
+      ],
+      "tags": [
+        "charts",
+        "harmony"
+      ],
+      "language": "en",
+      "summary": "Interpret the bass note after a slash.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r18",
+      "title": "The 12-bar blues form",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/blues-bass/the-12-bar-blues-form/",
+      "kind": "lesson",
+      "levels": [
+        2,
+        3
+      ],
+      "tags": [
+        "blues",
+        "form"
+      ],
+      "language": "en",
+      "summary": "Follow a common twelve-bar harmonic structure.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r19",
+      "title": "Memorizing fretboard note names",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/fretboard-notes/memorizing-fretboard-note-names/",
+      "kind": "lesson",
+      "levels": [
+        1,
+        2,
+        3
+      ],
+      "tags": [
+        "fretboard",
+        "notes"
+      ],
+      "language": "en",
+      "summary": "Use systematic note-location practice.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r20",
+      "title": "Open-string muting",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/open-string-muting/",
+      "kind": "lesson",
+      "levels": [
+        0,
+        1,
+        2
+      ],
+      "tags": [
+        "muting",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "Keep unused open strings quiet.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r21",
+      "title": "The I–V–vi–IV chord progression",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/harmony/the-I-V-vi-IV-chord-progression/",
+      "kind": "lesson",
+      "levels": [
+        2,
+        3
+      ],
+      "tags": [
+        "worship",
+        "progressions"
+      ],
+      "language": "en",
+      "summary": "Connect chord numbers to a familiar harmonic cycle.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r22",
+      "title": "Hammer-ons",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/hammer-ons/",
+      "kind": "lesson",
+      "levels": [
+        3
+      ],
+      "tags": [
+        "articulation",
+        "hammer-on"
+      ],
+      "language": "en",
+      "summary": "Introduce a fretting-hand note attack.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r23",
+      "title": "Pull-offs",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/pull-offs/",
+      "kind": "lesson",
+      "levels": [
+        3
+      ],
+      "tags": [
+        "articulation",
+        "pull-off"
+      ],
+      "language": "en",
+      "summary": "Connect descending notes without a fresh pluck.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r24",
+      "title": "Slides, part 1",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/bass-technique/slides-part-1/",
+      "kind": "lesson",
+      "levels": [
+        3
+      ],
+      "tags": [
+        "articulation",
+        "slide"
+      ],
+      "language": "en",
+      "summary": "Move between pitches while maintaining string contact.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r25",
+      "title": "Secondary dominant chords",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/harmony/secondary-dominant-chords/",
+      "kind": "lesson",
+      "levels": [
+        4,
+        5
+      ],
+      "tags": [
+        "harmony",
+        "secondary-dominants"
+      ],
+      "language": "en",
+      "summary": "Explore dominant function directed at another chord.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r26",
+      "title": "Borrowed chords",
+      "provider": "StudyBass",
+      "url": "https://www.studybass.com/lessons/harmony/borrowed-chords/",
+      "kind": "lesson",
+      "levels": [
+        4,
+        5
+      ],
+      "tags": [
+        "harmony",
+        "modal-interchange"
+      ],
+      "language": "en",
+      "summary": "Explore chords drawn from a parallel mode.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r27",
+      "title": "First bass lesson",
+      "provider": "BassBuzz",
+      "url": "https://www.bassbuzz.com/lessons/first-bass-lesson",
+      "kind": "lesson",
+      "levels": [
+        0
+      ],
+      "tags": [
+        "beginner",
+        "setup",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "A practical first-lesson demonstration for new bassists.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r28",
+      "title": "First lesson: absolute basics",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/beginner-bass-absolute-basics/",
+      "kind": "lesson",
+      "levels": [
+        0
+      ],
+      "tags": [
+        "beginner",
+        "setup",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "A video-led introduction to the instrument and first notes.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r29",
+      "title": "Minor pentatonic scale",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/minor-pentatonic-scale-for-bass-guitar/",
+      "kind": "lesson",
+      "levels": [
+        2,
+        3
+      ],
+      "tags": [
+        "minor-pentatonic",
+        "scales"
+      ],
+      "language": "en",
+      "summary": "Use a five-note minor sound on bass.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r30",
+      "title": "Natural minor scale",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/natural-minor-scale-for-bass-guitar/",
+      "kind": "lesson",
+      "levels": [
+        2
+      ],
+      "tags": [
+        "minor",
+        "scales"
+      ],
+      "language": "en",
+      "summary": "Explore the natural-minor pitch collection.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r31",
+      "title": "Major scale",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/the-major-scale-for-bass-guitar/",
+      "kind": "lesson",
+      "levels": [
+        2
+      ],
+      "tags": [
+        "major-scale",
+        "scales"
+      ],
+      "language": "en",
+      "summary": "Review major-scale construction and fingering.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r32",
+      "title": "Octave patterns for beginners",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/how-to-play-bass-octave-patterns-for-beginners/",
+      "kind": "lesson",
+      "levels": [
+        2
+      ],
+      "tags": [
+        "octaves",
+        "groove"
+      ],
+      "language": "en",
+      "summary": "Apply octave movement to bass patterns.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r33",
+      "title": "Easy bass arpeggios",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/easy-bass-arpeggios-for-beginners/",
+      "kind": "lesson",
+      "levels": [
+        2,
+        3
+      ],
+      "tags": [
+        "arpeggios",
+        "harmony"
+      ],
+      "language": "en",
+      "summary": "Practise outlining harmony through separate notes.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r34",
+      "title": "Getting started with slap bass",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/how-to-play-slap-bass/",
+      "kind": "lesson",
+      "levels": [
+        5
+      ],
+      "tags": [
+        "slap",
+        "pop"
+      ],
+      "language": "en",
+      "summary": "Explore the basic thumb stroke and pop.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r35",
+      "title": "Double-thumb slap",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/double-thumb-slap-made-easy/",
+      "kind": "lesson",
+      "levels": [
+        5
+      ],
+      "tags": [
+        "double-thumb",
+        "slap"
+      ],
+      "language": "en",
+      "summary": "An optional extension after basic slap control.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r36",
+      "title": "Clean up your slap technique",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/clean-slap-technique/",
+      "kind": "lesson",
+      "levels": [
+        5
+      ],
+      "tags": [
+        "slap",
+        "muting"
+      ],
+      "language": "en",
+      "summary": "Review unwanted noise during slap playing.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r37",
+      "title": "Starting walking bass",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/the-right-way-to-start-walking-bass-no-theory-needed/",
+      "kind": "lesson",
+      "levels": [
+        3
+      ],
+      "tags": [
+        "jazz",
+        "walking"
+      ],
+      "language": "en",
+      "summary": "Begin outlining changes before adding a continuous walk.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r38",
+      "title": "Tapped harmonics",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/bass-harmonics-tapped/",
+      "kind": "lesson",
+      "levels": [
+        5
+      ],
+      "tags": [
+        "harmonics",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "Explore a special harmonic articulation.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r39",
+      "title": "Hammer-ons and pull-offs",
+      "provider": "Daric Bennett",
+      "url": "https://daricbennett.com/free-bass-lessons/hammer-ons-pull-offs/",
+      "kind": "lesson",
+      "levels": [
+        3
+      ],
+      "tags": [
+        "articulation",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "A second teaching perspective on legato techniques.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r40",
+      "title": "Two-handed tapping",
+      "provider": "Ari's Bass Blog",
+      "url": "https://arisbassblog.com/two-handed-tapping-on-bass-with-hammerons-and-pulloffs/",
+      "kind": "lesson",
+      "levels": [
+        5
+      ],
+      "tags": [
+        "tapping",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "Explore two-hand coordination and legato.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r41",
+      "title": "Theory lessons",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/lessons",
+      "kind": "guide",
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "theory",
+        "reading"
+      ],
+      "language": "en",
+      "summary": "A free reference library for music fundamentals.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r42",
+      "title": "Staff, clefs and ledger lines",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/lessons/10",
+      "kind": "interactive",
+      "levels": [
+        1
+      ],
+      "tags": [
+        "notation",
+        "reading"
+      ],
+      "language": "en",
+      "summary": "Review the notation system and bass clef.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r43",
+      "title": "Simple and compound meter",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/lessons/15",
+      "kind": "interactive",
+      "levels": [
+        1,
+        2
+      ],
+      "tags": [
+        "meter",
+        "rhythm"
+      ],
+      "language": "en",
+      "summary": "Compare beat groupings and subdivisions.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r44",
+      "title": "Odd meter",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/lessons/16",
+      "kind": "interactive",
+      "levels": [
+        4
+      ],
+      "tags": [
+        "odd-meter",
+        "rhythm"
+      ],
+      "language": "en",
+      "summary": "Explore less familiar groupings of pulses.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r45",
+      "title": "Generic intervals",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/lessons/30",
+      "kind": "interactive",
+      "levels": [
+        2
+      ],
+      "tags": [
+        "intervals",
+        "theory"
+      ],
+      "language": "en",
+      "summary": "Count interval letter distances.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r46",
+      "title": "Seventh chords",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/lessons/45",
+      "kind": "interactive",
+      "levels": [
+        3
+      ],
+      "tags": [
+        "seventh-chords",
+        "harmony"
+      ],
+      "language": "en",
+      "summary": "Compare common seventh-chord structures.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r47",
+      "title": "Roman numeral analysis: triads",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/lessons/44",
+      "kind": "interactive",
+      "levels": [
+        2,
+        3
+      ],
+      "tags": [
+        "roman-numerals",
+        "harmony"
+      ],
+      "language": "en",
+      "summary": "Describe chord function with scale-degree numbers.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r48",
+      "title": "Fretboard note identification",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/exercises/fretboard",
+      "kind": "interactive",
+      "levels": [
+        1,
+        2,
+        3
+      ],
+      "tags": [
+        "fretboard",
+        "quiz"
+      ],
+      "language": "en",
+      "summary": "Practise note names; configure the exercise for bass where supported.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r49",
+      "title": "Interval ear training",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/exercises/ear-interval",
+      "kind": "interactive",
+      "levels": [
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "ear",
+        "intervals"
+      ],
+      "language": "en",
+      "summary": "Listen to intervals and identify their size.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r50",
+      "title": "Chord ear training",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/exercises/ear-chord",
+      "kind": "interactive",
+      "levels": [
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "ear",
+        "chord-quality"
+      ],
+      "language": "en",
+      "summary": "Compare the sound of chord qualities.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "linked_from_official_index; interactive page needs JavaScript",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r51",
+      "title": "How to record bass",
+      "provider": "Focusrite",
+      "url": "https://us.focusrite.com/articles/how-to-record-bass/",
+      "kind": "article",
+      "levels": [
+        5,
+        6
+      ],
+      "tags": [
+        "recording",
+        "DI"
+      ],
+      "language": "en",
+      "summary": "Review direct recording and amplifier recording approaches.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r52",
+      "title": "Recording and mixing bass guitar",
+      "provider": "Shure",
+      "url": "https://www.shure.com/en-US/insights/recording-mixing-bass-guitar",
+      "kind": "article",
+      "levels": [
+        5,
+        6
+      ],
+      "tags": [
+        "recording",
+        "mixing"
+      ],
+      "language": "en",
+      "summary": "Explore recording methods and mix decisions.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r53",
+      "title": "Beginners worship bass course",
+      "provider": "Musicademy",
+      "url": "https://www.musicademy.com/course/beginners-worship-bass-course/",
+      "kind": "course",
+      "levels": [
+        0,
+        1,
+        2
+      ],
+      "tags": [
+        "worship",
+        "band"
+      ],
+      "language": "en",
+      "summary": "Optional structured worship-bass course; subscription required for full access.",
+      "access": "paid_optional",
+      "access_note": "Full course needs a subscription; inspect current terms on provider site.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r54",
+      "title": "Essential groove techniques",
+      "provider": "Scott's Bass Lessons",
+      "url": "https://scottsbasslessons.com/courses/essential-groove-techniques",
+      "kind": "course",
+      "levels": [
+        1,
+        2,
+        3
+      ],
+      "tags": [
+        "groove",
+        "band"
+      ],
+      "language": "en",
+      "summary": "Optional membership course on groove and ensemble playing.",
+      "access": "paid_optional",
+      "access_note": "Full course needs a subscription; inspect current terms on provider site.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r55",
+      "title": "Slap lesson collection",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/slap-bass-lessons/",
+      "kind": "collection",
+      "levels": [
+        5
+      ],
+      "tags": [
+        "slap",
+        "technique"
+      ],
+      "language": "en",
+      "summary": "Browse additional slap demonstrations; follow the original publisher links.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r56",
+      "title": "Walking bass lesson collection",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/walking-bass-lessons/",
+      "kind": "collection",
+      "levels": [
+        3,
+        4,
+        5
+      ],
+      "tags": [
+        "jazz",
+        "walking"
+      ],
+      "language": "en",
+      "summary": "Browse additional walking-bass studies.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r57",
+      "title": "Beginner lesson collection",
+      "provider": "TalkingBass",
+      "url": "https://www.talkingbass.net/beginner-lessons/",
+      "kind": "collection",
+      "levels": [
+        0,
+        1,
+        2
+      ],
+      "tags": [
+        "beginner",
+        "scales"
+      ],
+      "language": "en",
+      "summary": "Browse more beginner demonstrations.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    },
+    {
+      "id": "r58",
+      "title": "Theory and ear exercises",
+      "provider": "musictheory.net",
+      "url": "https://www.musictheory.net/exercises",
+      "kind": "collection",
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "ear",
+        "theory"
+      ],
+      "language": "en",
+      "summary": "Optional browser-based theory and listening drills.",
+      "access": "free_page",
+      "access_note": "Page was accessible; optional downloads, accounts or premium extras may have separate terms.",
+      "checked_on": "2026-10-27",
+      "verification": "publisher_page_opened",
+      "internet_required": true,
+      "required_for_progression": false,
+      "reuse": "external_link_only; third-party text, tabs, media and PDFs are not bundled",
+      "video": null
+    }
+  ]
+}

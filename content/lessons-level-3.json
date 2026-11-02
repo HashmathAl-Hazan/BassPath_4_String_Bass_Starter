@@ -1,0 +1,733 @@
+{
+  "schema_version": "1.0.0",
+  "level": 3,
+  "title": "Intermediate",
+  "items": [
+    {
+      "id": "l3-01",
+      "slug": "triplets-and-swing",
+      "module_id": "m3-1",
+      "level": 3,
+      "order": 37,
+      "title": "Separate triplets from swing",
+      "summary": "Dividing a quarter-note beat into three equal parts creates eighth-note triplets.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Switch between straight eighths, triplets and the study swing without changing the quarter-note pulse."
+      ],
+      "prerequisite_ids": [
+        "l2-12"
+      ],
+      "content": {
+        "explanation": [
+          "Dividing a quarter-note beat into three equal parts creates eighth-note triplets. Count one-trip-let, two-trip-let while the click stays on the beat. A common practice approximation for swung eighths uses the first and third of those three slots.",
+          "Real swing changes with tempo and style; a fixed two-to-one ratio is only a study model. Compare straight eighths, full triplets and a long-short pair on the same pitch before changing notes."
+        ],
+        "guided_steps": [
+          "Clap three equal syllables per click.",
+          "Play full triplets on G.",
+          "Play the swing pattern and compare its long-short spacing with straight eighths."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Treating swing as a new time signature",
+            "correction": "Keep the meter and change subdivision placement."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the swing pattern and compare its long-short spacing with straight eighths.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-01",
+        "v-triplet"
+      ],
+      "quiz_ids": [
+        "q3-01"
+      ],
+      "resource_ids": [
+        "r13",
+        "r43"
+      ],
+      "tags": [
+        "swing",
+        "triplets"
+      ],
+      "completion_criteria": [
+        "Switch between straight eighths, triplets and the study swing without changing the quarter-note pulse.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-02",
+      "slug": "sixteenth-grid",
+      "module_id": "m3-1",
+      "level": 3,
+      "order": 38,
+      "title": "Place notes on a sixteenth-note grid",
+      "summary": "Four equal sixteenth notes fit one quarter-note beat.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Repeat four bars of the sixteenth pattern with clear rests."
+      ],
+      "prerequisite_ids": [
+        "l3-01"
+      ],
+      "content": {
+        "explanation": [
+          "Four equal sixteenth notes fit one quarter-note beat. Count 1 e and a, then repeat for beats two, three and four. The hand may remain quiet on most slots while the internal count continues.",
+          "Begin at a slow tempo. Clap the first and last sixteenths of each beat, then play them on one pitch. Do not confuse a short note with a fast tempo: the quarter-note click remains your reference."
+        ],
+        "guided_steps": [
+          "Speak all sixteen subdivisions in a bar.",
+          "Clap slots one and a of each beat.",
+          "Play the scored pattern, damping during rests."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Compressing the last subdivision before the next beat",
+            "correction": "Divide the beat equally and practise the a-to-one transition."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the scored pattern, damping during rests.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-02"
+      ],
+      "quiz_ids": [
+        "q3-02"
+      ],
+      "resource_ids": [
+        "r12",
+        "r41"
+      ],
+      "tags": [
+        "sixteenth",
+        "rhythm"
+      ],
+      "completion_criteria": [
+        "Repeat four bars of the sixteenth pattern with clear rests.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-03",
+      "slug": "ghost-notes",
+      "module_id": "m3-1",
+      "level": 3,
+      "order": 39,
+      "title": "Use muted attacks as rhythm",
+      "summary": "A ghost note is a muted percussive attack without a clearly sustained pitch.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Distinguish pitched notes, ghost attacks and silence in four clean loops."
+      ],
+      "prerequisite_ids": [
+        "l3-02"
+      ],
+      "content": {
+        "explanation": [
+          "A ghost note is a muted percussive attack without a clearly sustained pitch. Touch the string lightly with the fretting hand and pluck gently. Avoid touching only at a strong harmonic node if that creates an unwanted ringing tone.",
+          "Keep ghost attacks quieter than the main notes. They should support the rhythm, not obscure where the chord begins. First alternate a pitched note with a muted attack; then add rests so the three sounds remain distinct."
+        ],
+        "guided_steps": [
+          "Alternate one fretted A and one muted attack.",
+          "Make a rest after each pair and compare all three sounds.",
+          "Play the ghost study quietly with the click."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Squeezing the muted string against the fret",
+            "correction": "Use damping contact without fretting a clear pitch."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the ghost study quietly with the click.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-03"
+      ],
+      "quiz_ids": [
+        "q3-03"
+      ],
+      "resource_ids": [
+        "r20",
+        "r36"
+      ],
+      "tags": [
+        "ghost",
+        "muting"
+      ],
+      "completion_criteria": [
+        "Distinguish pitched notes, ghost attacks and silence in four clean loops.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-04",
+      "slug": "legato-and-slides",
+      "module_id": "m3-1",
+      "level": 3,
+      "order": 40,
+      "title": "Connect notes with hammer-ons, pull-offs and slides",
+      "summary": "A hammer-on sounds a higher fretted note through the fretting hand after an initial pluck.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Demonstrate all three connections slowly with similar note volume."
+      ],
+      "prerequisite_ids": [
+        "l3-03"
+      ],
+      "content": {
+        "explanation": [
+          "A hammer-on sounds a higher fretted note through the fretting hand after an initial pluck. A pull-off releases a higher note to a lower note already prepared on the same string. A slide moves between frets while maintaining useful contact.",
+          "Work with two nearby notes and compare their volumes. Pull-offs need a controlled release, not a large sideways yank. For a slide, hear the destination before moving and arrive on its intended beat. Synth playback demonstrates timing and pitch, not the physical technique."
+        ],
+        "guided_steps": [
+          "Pluck D at A-string fret five and hammer to E at seven.",
+          "Prepare D and release E into it for a pull-off.",
+          "Slide C to D on the A string, then compare all three approaches."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Using extra force to make the second note louder",
+            "correction": "Reduce the gap, prepare the destination and balance the first attack."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Slide C to D on the A string, then compare all three approaches.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-04",
+        "v-pull",
+        "v-slide"
+      ],
+      "quiz_ids": [
+        "q3-04"
+      ],
+      "resource_ids": [
+        "r22",
+        "r23",
+        "r24",
+        "r39"
+      ],
+      "tags": [
+        "legato",
+        "articulation"
+      ],
+      "completion_criteria": [
+        "Demonstrate all three connections slowly with similar note volume.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-05",
+      "slug": "seventh-chords",
+      "module_id": "m3-2",
+      "level": 3,
+      "order": 41,
+      "title": "Hear and outline seventh chords",
+      "summary": "Adding a seventh to a triad gives four chord tones.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Build and distinguish major7, dominant7 and minor7 on C."
+      ],
+      "prerequisite_ids": [
+        "l3-04"
+      ],
+      "content": {
+        "explanation": [
+          "Adding a seventh to a triad gives four chord tones. Cmaj7 is C–E–G–B, C7 is C–E–G–Bb, and Cm7 is C–Eb–G–Bb. Notice that major seven and dominant seven differ even though both have a major third.",
+          "Play the root, third, fifth and seventh separately. Compare one changed note at a time. A chord symbol is useful only when you connect it to a sound and a playable location."
+        ],
+        "guided_steps": [
+          "Name and play the C7 arpeggio.",
+          "Change Bb to B and hear Cmaj7.",
+          "Change E to Eb with Bb retained and hear Cm7."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Treating every symbol containing 7 as the same chord",
+            "correction": "Read the quality and identify both third and seventh."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Change E to Eb with Bb retained and hear Cm7.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-05"
+      ],
+      "quiz_ids": [
+        "q3-05"
+      ],
+      "resource_ids": [
+        "r46",
+        "r33"
+      ],
+      "tags": [
+        "seventh-chords",
+        "harmony"
+      ],
+      "completion_criteria": [
+        "Build and distinguish major7, dominant7 and minor7 on C.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-06",
+      "slug": "voice-leading",
+      "module_id": "m3-2",
+      "level": 3,
+      "order": 42,
+      "title": "Move smoothly between chord tones",
+      "summary": "Voice leading connects notes with purposeful movement.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play and explain the C–B–A–F bass line under its slash chords."
+      ],
+      "prerequisite_ids": [
+        "l3-05"
+      ],
+      "content": {
+        "explanation": [
+          "Voice leading connects notes with purposeful movement. In a bass part, a nearby chord tone can create a smoother line than jumping to every new root in the same register. Keep the requested bass note when a slash chord specifies it.",
+          "Compare C–G/B–Am–F with C–G–Am–F. The first bass line descends C–B–A before moving to F. Smoothness is one option; roots and larger leaps may suit a different arrangement."
+        ],
+        "guided_steps": [
+          "Locate C, B, A and F around the first five frets.",
+          "Play the slash progression one note per bar.",
+          "Compare it with the root-only version and describe the difference."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Choosing nearby notes without checking the chord",
+            "correction": "Confirm the note belongs to the intended harmony or written bass instruction."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare it with the root-only version and describe the difference.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-06"
+      ],
+      "quiz_ids": [
+        "q3-06"
+      ],
+      "resource_ids": [
+        "r17",
+        "r14"
+      ],
+      "tags": [
+        "voice-leading",
+        "charts"
+      ],
+      "completion_criteria": [
+        "Play and explain the C–B–A–F bass line under its slash chords.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-07",
+      "slug": "approach-notes",
+      "module_id": "m3-2",
+      "level": 3,
+      "order": 43,
+      "title": "Aim a passing note at a destination",
+      "summary": "An approach note leads into an intended target, often a chord tone on the next strong beat.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Resolve four approaches to their planned chord roots on time."
+      ],
+      "prerequisite_ids": [
+        "l3-06"
+      ],
+      "content": {
+        "explanation": [
+          "An approach note leads into an intended target, often a chord tone on the next strong beat. A chromatic approach sits one semitone above or below that target. Its usefulness comes from the resolution, not from being in a scale shape.",
+          "Practise the arrival first. For C to D, try C then C# briefly before D. Over a different harmony that C# may be tense; keep it deliberate and short until your ear understands its effect."
+        ],
+        "guided_steps": [
+          "Play the next chord root exactly on beat one.",
+          "Add one semitone-below approach on beat four of the previous bar.",
+          "Repeat the full C–Dm–G–C study without extending the fill."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Holding the approach instead of reaching the target",
+            "correction": "Shorten it and rehearse the next downbeat first."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat the full C–Dm–G–C study without extending the fill.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-07"
+      ],
+      "quiz_ids": [
+        "q3-07"
+      ],
+      "resource_ids": [
+        "r14",
+        "r37"
+      ],
+      "tags": [
+        "chromatic",
+        "passing-notes"
+      ],
+      "completion_criteria": [
+        "Resolve four approaches to their planned chord roots on time.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-08",
+      "slug": "walking-bass",
+      "module_id": "m3-2",
+      "level": 3,
+      "order": 44,
+      "title": "Build a simple walking line",
+      "summary": "A basic walk often places one note on each quarter beat.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play the four-bar walk and explain the two chromatic approaches."
+      ],
+      "prerequisite_ids": [
+        "l3-07"
+      ],
+      "content": {
+        "explanation": [
+          "A basic walk often places one note on each quarter beat. Start by outlining the chord with roots, thirds and fifths; use a nearby approach to connect to the next chord. The exact note choice depends on the chart and style.",
+          "In the original C–Dm–G–C study, identify each bar before playing. C# leads to D and F# leads to G as brief approaches. Keep the pulse even and make the harmony clear before experimenting with more chromatic movement."
+        ],
+        "guided_steps": [
+          "Play only the four roots for one chorus.",
+          "Name each chord tone in the written walking study.",
+          "Add the approach notes and record two uninterrupted loops."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Choosing four random scale notes for every bar",
+            "correction": "Plan strong chord tones and the arrival at the next change."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Add the approach notes and record two uninterrupted loops.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-08"
+      ],
+      "quiz_ids": [
+        "q3-08"
+      ],
+      "resource_ids": [
+        "r37",
+        "r56"
+      ],
+      "tags": [
+        "walking",
+        "jazz"
+      ],
+      "completion_criteria": [
+        "Play the four-bar walk and explain the two chromatic approaches.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-09",
+      "slug": "rock-pop-and-disco",
+      "module_id": "m3-3",
+      "level": 3,
+      "order": 45,
+      "title": "Change feel with repeated notes and octaves",
+      "summary": "A rock or pop part may rely on repeated eighth notes, while a disco-inspired part often uses octave motion.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play two contrasting textures with stable timing and quiet unused strings."
+      ],
+      "prerequisite_ids": [
+        "l3-08"
+      ],
+      "content": {
+        "explanation": [
+          "A rock or pop part may rely on repeated eighth notes, while a disco-inspired part often uses octave motion. These are starting textures, not complete definitions of genres. Note length and accents can change the feel without changing the pitches.",
+          "Play a short repeated-note groove and then an octave version. Keep both at the same tempo. Choose the version that fits the drum pattern and leaves the melody clear."
+        ],
+        "guided_steps": [
+          "Play steady A eighths at a comfortable tempo.",
+          "Alternate low A and octave A with clean string skipping.",
+          "Try a sparse verse followed by an octave chorus."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Letting octave jumps increase the tempo",
+            "correction": "Keep the click fixed and shorten unnecessary movement."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Try a sparse verse followed by an octave chorus.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-09"
+      ],
+      "quiz_ids": [
+        "q3-09"
+      ],
+      "resource_ids": [
+        "r32",
+        "r54"
+      ],
+      "tags": [
+        "styles",
+        "octaves"
+      ],
+      "completion_criteria": [
+        "Play two contrasting textures with stable timing and quiet unused strings.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-10",
+      "slug": "space-and-style",
+      "module_id": "m3-3",
+      "level": 3,
+      "order": 46,
+      "title": "Explore space in reggae and roots-based grooves",
+      "summary": "Different arrangements distribute weight differently across a bar.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Maintain a spacious repeated groove for one minute without adding unplanned attacks."
+      ],
+      "prerequisite_ids": [
+        "l3-09"
+      ],
+      "content": {
+        "explanation": [
+          "Different arrangements distribute weight differently across a bar. A spacious reggae-inspired study can leave beat one silent while a country-inspired study alternates a root and fifth. These exercises illustrate choices; neither is a rule for every recording in that style.",
+          "Listen for where the drummer places weight, how long bass notes ring and how phrases repeat. Try one sparse pattern for a full minute before adding a fill. The empty space should feel intentional."
+        ],
+        "guided_steps": [
+          "Count through the silent first beat of the scored study.",
+          "Keep the pitched notes full and the rests clear.",
+          "Compare with two half-note roots and fifths over the same pulse."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Filling every rest because the line feels empty",
+            "correction": "Repeat the sparse pattern until the space feels stable."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare with two half-note roots and fifths over the same pulse.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-10",
+        "v-country"
+      ],
+      "quiz_ids": [
+        "q3-10"
+      ],
+      "resource_ids": [
+        "r11",
+        "r54"
+      ],
+      "tags": [
+        "styles",
+        "space"
+      ],
+      "completion_criteria": [
+        "Maintain a spacious repeated groove for one minute without adding unplanned attacks.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-11",
+      "slug": "listen-by-layers",
+      "module_id": "m3-3",
+      "level": 3,
+      "order": 47,
+      "title": "Learn a short phrase by ear",
+      "summary": "Separate a phrase into rhythm, pitch contour and note locations.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Reconstruct a two-bar original phrase with its main pitches and rests."
+      ],
+      "prerequisite_ids": [
+        "l3-10"
+      ],
+      "content": {
+        "explanation": [
+          "Separate a phrase into rhythm, pitch contour and note locations. Listen to one or two bars, tap the rhythm, then find the first pitch with a reference. Work in small pieces instead of guessing through an entire song.",
+          "After finding the notes, compare durations and rests. Write your own tab only after you can sing or imagine the phrase. A lawful recording or the original ear-training examples can be repeated privately for this practice."
+        ],
+        "guided_steps": [
+          "Listen to one short original motif without watching its notes.",
+          "Tap its rhythm and hum or imagine its contour.",
+          "Find the notes, reveal the score, and correct one detail."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Looking at tab before trying to hear the phrase",
+            "correction": "Delay the answer reveal until after a real listening attempt."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Find the notes, reveal the score, and correct one detail.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-11"
+      ],
+      "quiz_ids": [
+        "q3-11"
+      ],
+      "resource_ids": [
+        "r49",
+        "r58"
+      ],
+      "tags": [
+        "ear",
+        "transcription"
+      ],
+      "completion_criteria": [
+        "Reconstruct a two-bar original phrase with its main pitches and rests.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l3-12",
+      "slug": "intermediate-check",
+      "module_id": "m3-3",
+      "level": 3,
+      "order": 48,
+      "title": "Perform a groove and explain your choices",
+      "summary": "Choose one original progression and create an eight-bar part.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Deliver two coherent eight-bar takes with a reliable return after the variation."
+      ],
+      "prerequisite_ids": [
+        "l3-11"
+      ],
+      "content": {
+        "explanation": [
+          "Choose one original progression and create an eight-bar part. Include a stable main pattern, one intentional variation and a clear return. Use a fill only if you can land at the next section on time.",
+          "Listen back separately for time, note endings and harmonic clarity. Ask a bandmate or teacher for one practical observation when available. A recording is evidence of this performance, not a permanent label of your ability."
+        ],
+        "guided_steps": [
+          "Choose a progression and write its eight-bar form.",
+          "Rehearse the main groove before adding one variation.",
+          "Record two takes and compare using the milestone checklist."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Judging a performance only by difficult techniques",
+            "correction": "Evaluate time, sound, harmony and recovery first."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Record two takes and compare using the milestone checklist.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e3-12"
+      ],
+      "quiz_ids": [
+        "q3-12"
+      ],
+      "resource_ids": [
+        "r14",
+        "r54"
+      ],
+      "tags": [
+        "assessment",
+        "composition"
+      ],
+      "completion_criteria": [
+        "Deliver two coherent eight-bar takes with a reliable return after the variation.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    }
+  ]
+}

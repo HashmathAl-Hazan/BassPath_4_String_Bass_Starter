@@ -1,0 +1,410 @@
+{
+  "schema_version": "1.0.0",
+  "templates": [
+    {
+      "id": "daily-30",
+      "title": "Thirty-minute practice",
+      "total_minutes": 30,
+      "blocks": [
+        {
+          "id": "setup",
+          "minutes": 3,
+          "action": "Tune, settle posture, play a relaxed warm-up."
+        },
+        {
+          "id": "technique",
+          "minutes": 7,
+          "action": "Repeat one current practical drill slowly."
+        },
+        {
+          "id": "lesson",
+          "minutes": 8,
+          "action": "Read a small part of a lesson, then demonstrate it on the bass."
+        },
+        {
+          "id": "application",
+          "minutes": 7,
+          "action": "Apply the idea to an original study or an appropriate groove."
+        },
+        {
+          "id": "ear-and-log",
+          "minutes": 5,
+          "action": "Do a short ear drill, record an observation and choose the next target."
+        }
+      ]
+    },
+    {
+      "id": "short-10",
+      "title": "Ten-minute minimum session",
+      "total_minutes": 10,
+      "blocks": [
+        {
+          "id": "setup",
+          "minutes": 2,
+          "action": "Tune and relax."
+        },
+        {
+          "id": "focus",
+          "minutes": 6,
+          "action": "Repeat one current drill with the pulse."
+        },
+        {
+          "id": "log",
+          "minutes": 2,
+          "action": "Listen and write one specific observation."
+        }
+      ]
+    }
+  ],
+  "starter_days": [
+    {
+      "day": 1,
+      "title": "Focus: Meet the bass and its job",
+      "lesson_ids": [
+        "l0-01",
+        "l0-02"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 2,
+      "title": "Focus: Support the instrument and relax",
+      "lesson_ids": [
+        "l0-03",
+        "l0-04"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 3,
+      "title": "Focus: Make a controlled fingerstyle note",
+      "lesson_ids": [
+        "l0-05"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 4,
+      "title": "Focus: Alternate index and middle fingers",
+      "lesson_ids": [
+        "l0-06"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 5,
+      "title": "Focus: Fret a note with light pressure",
+      "lesson_ids": [
+        "l0-07"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 6,
+      "title": "Focus: Stop notes and silence unused strings",
+      "lesson_ids": [
+        "l0-08"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 7,
+      "title": "Review and listening",
+      "lesson_ids": [],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "review",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 8,
+      "title": "Focus: Find the pulse and count four",
+      "lesson_ids": [
+        "l0-09"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 9,
+      "title": "Focus: Read four-string tablature",
+      "lesson_ids": [
+        "l0-10"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 10,
+      "title": "Focus: Listen for high and low",
+      "lesson_ids": [
+        "l0-11"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 11,
+      "title": "Focus: Complete the open-string milestone",
+      "lesson_ids": [
+        "l0-12"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 12,
+      "title": "Review and listening",
+      "lesson_ids": [],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "review",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 13,
+      "title": "Focus: Whole, half and quarter notes",
+      "lesson_ids": [
+        "l1-01"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 14,
+      "title": "Review and listening",
+      "lesson_ids": [],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "review",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 15,
+      "title": "Focus: Divide a beat into two",
+      "lesson_ids": [
+        "l1-02"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 16,
+      "title": "Focus: Read your first bass-clef notes",
+      "lesson_ids": [
+        "l1-03"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 17,
+      "title": "Focus: Hear 3/4 and 6/8",
+      "lesson_ids": [
+        "l1-04"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 18,
+      "title": "Focus: Find natural notes near the nut",
+      "lesson_ids": [
+        "l1-05"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 19,
+      "title": "Focus: Move the hand instead of forcing a stretch",
+      "lesson_ids": [
+        "l1-06"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 20,
+      "title": "Focus: Cross strings without losing time",
+      "lesson_ids": [
+        "l1-07"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 21,
+      "title": "Review and listening",
+      "lesson_ids": [],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "review",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 22,
+      "title": "Focus: Change volume and note length deliberately",
+      "lesson_ids": [
+        "l1-08"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 23,
+      "title": "Focus: Follow a four-chord root-note part",
+      "lesson_ids": [
+        "l1-09"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 24,
+      "title": "Focus: Listen to the kick drum",
+      "lesson_ids": [
+        "l1-10"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 25,
+      "title": "Focus: Follow sections and stop together",
+      "lesson_ids": [
+        "l1-11"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 26,
+      "title": "Focus: Record your first complete arrangement",
+      "lesson_ids": [
+        "l1-12"
+      ],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "new_or_repeat",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 27,
+      "title": "Review and listening",
+      "lesson_ids": [],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "review",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    },
+    {
+      "day": 28,
+      "title": "Review and listening",
+      "lesson_ids": [],
+      "minutes": 30,
+      "session_template_id": "daily-30",
+      "mode": "review",
+      "instructions": "Repeat your current lesson instead if its playing checks are not yet reliable. Do not skip fundamentals to keep up with the calendar.",
+      "review_rule": "Use due reviews and one previous exercise; for a lighter day listen and annotate instead of demanding speed."
+    }
+  ],
+  "weekly_cycle": [
+    "New concept or current unfinished lesson",
+    "Repeat and slow down weak spots",
+    "Apply to an original musical study",
+    "Ear training and fretboard recall",
+    "Play a complete short arrangement",
+    "Record and review",
+    "Light listening, review or rest"
+  ],
+  "scheduling": {
+    "timezone": "device local; store IANA zone in settings",
+    "session_date": "local YYYY-MM-DD plus UTC timestamp",
+    "due_review_days": [
+      1,
+      3,
+      7,
+      14,
+      30
+    ],
+    "on_missed_day": "resume; no penalty or forced catch-up",
+    "new_lesson_rule": "suggest first unfinished core lesson whose recommended foundations are completed; let learner browse and override",
+    "weekly_minutes_are_goal_not_gate": true
+  }
+}

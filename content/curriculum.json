@@ -1,0 +1,527 @@
+{
+  "schema_version": "1.0.0",
+  "title": "BassPath",
+  "subtitle": "Four strings. A steady pulse. A clear next step.",
+  "audience": "Complete beginner progressing toward independent worship and band playing.",
+  "instrument_id": "bass-4-standard",
+  "daily_minutes": 30,
+  "levels": [
+    {
+      "id": "level-0",
+      "number": 0,
+      "title": "Instrument basics",
+      "module_ids": [
+        "m0-1",
+        "m0-2",
+        "m0-3"
+      ],
+      "lesson_ids": [
+        "l0-01",
+        "l0-02",
+        "l0-03",
+        "l0-04",
+        "l0-05",
+        "l0-06",
+        "l0-07",
+        "l0-08",
+        "l0-09",
+        "l0-10",
+        "l0-11",
+        "l0-12"
+      ],
+      "goals": [
+        "Tune EADG and identify instrument parts.",
+        "Produce controlled notes and silence.",
+        "Keep a 60 BPM pulse with relaxed movement."
+      ],
+      "milestone_id": "milestone-0",
+      "optional": false,
+      "suggested_practice_weeks": null,
+      "pace_note": "Self-paced. Repeat sessions until the criteria are reliable; no fixed completion deadline."
+    },
+    {
+      "id": "level-1",
+      "number": 1,
+      "title": "Absolute beginner",
+      "module_ids": [
+        "m1-1",
+        "m1-2",
+        "m1-3"
+      ],
+      "lesson_ids": [
+        "l1-01",
+        "l1-02",
+        "l1-03",
+        "l1-04",
+        "l1-05",
+        "l1-06",
+        "l1-07",
+        "l1-08",
+        "l1-09",
+        "l1-10",
+        "l1-11",
+        "l1-12"
+      ],
+      "goals": [
+        "Read simple tab and note durations.",
+        "Find natural notes near the nut.",
+        "Play a complete root-note arrangement."
+      ],
+      "milestone_id": "milestone-1",
+      "optional": false,
+      "suggested_practice_weeks": null,
+      "pace_note": "Self-paced. Repeat sessions until the criteria are reliable; no fixed completion deadline."
+    },
+    {
+      "id": "level-2",
+      "number": 2,
+      "title": "Foundations",
+      "module_ids": [
+        "m2-1",
+        "m2-2",
+        "m2-3"
+      ],
+      "lesson_ids": [
+        "l2-01",
+        "l2-02",
+        "l2-03",
+        "l2-04",
+        "l2-05",
+        "l2-06",
+        "l2-07",
+        "l2-08",
+        "l2-09",
+        "l2-10",
+        "l2-11",
+        "l2-12"
+      ],
+      "goals": [
+        "Use scales and chord tones intentionally.",
+        "Transpose a common progression.",
+        "Hear and match a restricted set of pitches."
+      ],
+      "milestone_id": "milestone-2",
+      "optional": false,
+      "suggested_practice_weeks": null,
+      "pace_note": "Self-paced. Repeat sessions until the criteria are reliable; no fixed completion deadline."
+    },
+    {
+      "id": "level-3",
+      "number": 3,
+      "title": "Intermediate",
+      "module_ids": [
+        "m3-1",
+        "m3-2",
+        "m3-3"
+      ],
+      "lesson_ids": [
+        "l3-01",
+        "l3-02",
+        "l3-03",
+        "l3-04",
+        "l3-05",
+        "l3-06",
+        "l3-07",
+        "l3-08",
+        "l3-09",
+        "l3-10",
+        "l3-11",
+        "l3-12"
+      ],
+      "goals": [
+        "Control subdivisions and articulations.",
+        "Follow changes in walking and groove studies.",
+        "Learn and vary a short phrase by ear."
+      ],
+      "milestone_id": "milestone-3",
+      "optional": false,
+      "suggested_practice_weeks": null,
+      "pace_note": "Self-paced. Repeat sessions until the criteria are reliable; no fixed completion deadline."
+    },
+    {
+      "id": "level-4",
+      "number": 4,
+      "title": "Upper-intermediate",
+      "module_ids": [
+        "m4-1",
+        "m4-2",
+        "m4-3"
+      ],
+      "lesson_ids": [
+        "l4-01",
+        "l4-02",
+        "l4-03",
+        "l4-04",
+        "l4-05",
+        "l4-06",
+        "l4-07",
+        "l4-08",
+        "l4-09",
+        "l4-10",
+        "l4-11",
+        "l4-12"
+      ],
+      "goals": [
+        "Read, transpose and recover in a band context.",
+        "Explore odd meters and harmony in context.",
+        "Improvise without losing the form."
+      ],
+      "milestone_id": "milestone-4",
+      "optional": false,
+      "suggested_practice_weeks": null,
+      "pace_note": "Self-paced. Repeat sessions until the criteria are reliable; no fixed completion deadline."
+    },
+    {
+      "id": "level-5",
+      "number": 5,
+      "title": "Advanced studies",
+      "module_ids": [
+        "m5-1",
+        "m5-2",
+        "m5-3"
+      ],
+      "lesson_ids": [
+        "l5-01",
+        "l5-02",
+        "l5-03",
+        "l5-04",
+        "l5-05",
+        "l5-06",
+        "l5-07",
+        "l5-08",
+        "l5-09",
+        "l5-10",
+        "l5-11",
+        "l5-12"
+      ],
+      "goals": [
+        "Explore optional techniques comfortably.",
+        "Choose tone and register intentionally.",
+        "Capture and review a clean recording."
+      ],
+      "milestone_id": "milestone-5",
+      "optional": true,
+      "suggested_practice_weeks": null,
+      "pace_note": "Self-paced. Repeat sessions until the criteria are reliable; no fixed completion deadline."
+    },
+    {
+      "id": "level-6",
+      "number": 6,
+      "title": "Performance and professional practice",
+      "module_ids": [
+        "m6-1",
+        "m6-2",
+        "m6-3"
+      ],
+      "lesson_ids": [
+        "l6-01",
+        "l6-02",
+        "l6-03",
+        "l6-04",
+        "l6-05",
+        "l6-06",
+        "l6-07",
+        "l6-08",
+        "l6-09",
+        "l6-10",
+        "l6-11",
+        "l6-12"
+      ],
+      "goals": [
+        "Prepare and perform a short set.",
+        "Communicate cues and rehearsal changes.",
+        "Document progress and plan continued learning."
+      ],
+      "milestone_id": "milestone-6",
+      "optional": false,
+      "suggested_practice_weeks": null,
+      "pace_note": "Self-paced. Repeat sessions until the criteria are reliable; no fixed completion deadline."
+    }
+  ],
+  "modules": [
+    {
+      "id": "m0-1",
+      "level": 0,
+      "title": "Meet your bass",
+      "order": 1,
+      "lesson_ids": [
+        "l0-01",
+        "l0-02",
+        "l0-03",
+        "l0-04"
+      ]
+    },
+    {
+      "id": "m0-2",
+      "level": 0,
+      "title": "Control the sound",
+      "order": 2,
+      "lesson_ids": [
+        "l0-05",
+        "l0-06",
+        "l0-07",
+        "l0-08"
+      ]
+    },
+    {
+      "id": "m0-3",
+      "level": 0,
+      "title": "Your first practice routine",
+      "order": 3,
+      "lesson_ids": [
+        "l0-09",
+        "l0-10",
+        "l0-11",
+        "l0-12"
+      ]
+    },
+    {
+      "id": "m1-1",
+      "level": 1,
+      "title": "Time and reading",
+      "order": 4,
+      "lesson_ids": [
+        "l1-01",
+        "l1-02",
+        "l1-03",
+        "l1-04"
+      ]
+    },
+    {
+      "id": "m1-2",
+      "level": 1,
+      "title": "The first five frets",
+      "order": 5,
+      "lesson_ids": [
+        "l1-05",
+        "l1-06",
+        "l1-07",
+        "l1-08"
+      ]
+    },
+    {
+      "id": "m1-3",
+      "level": 1,
+      "title": "Play a simple part",
+      "order": 6,
+      "lesson_ids": [
+        "l1-09",
+        "l1-10",
+        "l1-11",
+        "l1-12"
+      ]
+    },
+    {
+      "id": "m2-1",
+      "level": 2,
+      "title": "Intervals and scales",
+      "order": 7,
+      "lesson_ids": [
+        "l2-01",
+        "l2-02",
+        "l2-03",
+        "l2-04"
+      ]
+    },
+    {
+      "id": "m2-2",
+      "level": 2,
+      "title": "Chords and useful patterns",
+      "order": 8,
+      "lesson_ids": [
+        "l2-05",
+        "l2-06",
+        "l2-07",
+        "l2-08"
+      ]
+    },
+    {
+      "id": "m2-3",
+      "level": 2,
+      "title": "First harmonic applications",
+      "order": 9,
+      "lesson_ids": [
+        "l2-09",
+        "l2-10",
+        "l2-11",
+        "l2-12"
+      ]
+    },
+    {
+      "id": "m3-1",
+      "level": 3,
+      "title": "Rhythm and articulation",
+      "order": 10,
+      "lesson_ids": [
+        "l3-01",
+        "l3-02",
+        "l3-03",
+        "l3-04"
+      ]
+    },
+    {
+      "id": "m3-2",
+      "level": 3,
+      "title": "Harmony on the move",
+      "order": 11,
+      "lesson_ids": [
+        "l3-05",
+        "l3-06",
+        "l3-07",
+        "l3-08"
+      ]
+    },
+    {
+      "id": "m3-3",
+      "level": 3,
+      "title": "Styles and listening",
+      "order": 12,
+      "lesson_ids": [
+        "l3-09",
+        "l3-10",
+        "l3-11",
+        "l3-12"
+      ]
+    },
+    {
+      "id": "m4-1",
+      "level": 4,
+      "title": "Band and chart fluency",
+      "order": 13,
+      "lesson_ids": [
+        "l4-01",
+        "l4-02",
+        "l4-03",
+        "l4-04"
+      ]
+    },
+    {
+      "id": "m4-2",
+      "level": 4,
+      "title": "Rhythmic and harmonic depth",
+      "order": 14,
+      "lesson_ids": [
+        "l4-05",
+        "l4-06",
+        "l4-07",
+        "l4-08"
+      ]
+    },
+    {
+      "id": "m4-3",
+      "level": 4,
+      "title": "Independent musicianship",
+      "order": 15,
+      "lesson_ids": [
+        "l4-09",
+        "l4-10",
+        "l4-11",
+        "l4-12"
+      ]
+    },
+    {
+      "id": "m5-1",
+      "level": 5,
+      "title": "Optional expressive techniques",
+      "order": 16,
+      "lesson_ids": [
+        "l5-01",
+        "l5-02",
+        "l5-03",
+        "l5-04"
+      ]
+    },
+    {
+      "id": "m5-2",
+      "level": 5,
+      "title": "Harmony and tone",
+      "order": 17,
+      "lesson_ids": [
+        "l5-05",
+        "l5-06",
+        "l5-07",
+        "l5-08"
+      ]
+    },
+    {
+      "id": "m5-3",
+      "level": 5,
+      "title": "Recording craft",
+      "order": 18,
+      "lesson_ids": [
+        "l5-09",
+        "l5-10",
+        "l5-11",
+        "l5-12"
+      ]
+    },
+    {
+      "id": "m6-1",
+      "level": 6,
+      "title": "Prepare the set",
+      "order": 19,
+      "lesson_ids": [
+        "l6-01",
+        "l6-02",
+        "l6-03",
+        "l6-04"
+      ]
+    },
+    {
+      "id": "m6-2",
+      "level": 6,
+      "title": "Work with people",
+      "order": 20,
+      "lesson_ids": [
+        "l6-05",
+        "l6-06",
+        "l6-07",
+        "l6-08"
+      ]
+    },
+    {
+      "id": "m6-3",
+      "level": 6,
+      "title": "Deliver and develop",
+      "order": 21,
+      "lesson_ids": [
+        "l6-09",
+        "l6-10",
+        "l6-11",
+        "l6-12"
+      ]
+    }
+  ],
+  "progression": {
+    "all_content_browsable": true,
+    "suggestions_not_locks": true,
+    "core_levels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "optional_levels": [
+      5
+    ],
+    "require_paid_resources": false,
+    "lesson_completion": "learner checks practical criteria and passes the linked quiz; opening a page is not completion",
+    "level_completion": "all required lessons completed and milestone confirmed in two distinct sessions",
+    "review_intervals_days": [
+      1,
+      3,
+      7,
+      14,
+      30
+    ]
+  },
+  "teaching_policy": [
+    "Time and sound before speed.",
+    "Read, listen, play, review.",
+    "Theory is applied on the instrument.",
+    "Every session includes active playing or listening.",
+    "No promise of professional mastery on a fixed schedule."
+  ]
+}

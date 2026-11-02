@@ -1,0 +1,1059 @@
+{
+  "schema_version": "1.0.0",
+  "id": "bass-4-standard",
+  "name": "Four-string fretted electric bass",
+  "tuning_low_to_high": [
+    "E1",
+    "A1",
+    "D2",
+    "G2"
+  ],
+  "strings": [
+    {
+      "number": 4,
+      "name": "E",
+      "open_midi": 28,
+      "sounding_octave": 1,
+      "frequency_hz": 41.2034
+    },
+    {
+      "number": 3,
+      "name": "A",
+      "open_midi": 33,
+      "sounding_octave": 1,
+      "frequency_hz": 55.0
+    },
+    {
+      "number": 2,
+      "name": "D",
+      "open_midi": 38,
+      "sounding_octave": 2,
+      "frequency_hz": 73.4162
+    },
+    {
+      "number": 1,
+      "name": "G",
+      "open_midi": 43,
+      "sounding_octave": 2,
+      "frequency_hz": 97.9989
+    }
+  ],
+  "default_max_fret": 12,
+  "supported_max_fret": 24,
+  "tab_display_top_to_bottom": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "fretboard": [
+    {
+      "string": 4,
+      "fret": 0,
+      "midi": 28,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 1,
+      "frequency_hz": 41.2034
+    },
+    {
+      "string": 4,
+      "fret": 1,
+      "midi": 29,
+      "pitch_class": 5,
+      "sharp_name": "F",
+      "flat_name": "F",
+      "sounding_octave": 1,
+      "frequency_hz": 43.6535
+    },
+    {
+      "string": 4,
+      "fret": 2,
+      "midi": 30,
+      "pitch_class": 6,
+      "sharp_name": "F#",
+      "flat_name": "Gb",
+      "sounding_octave": 1,
+      "frequency_hz": 46.2493
+    },
+    {
+      "string": 4,
+      "fret": 3,
+      "midi": 31,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 1,
+      "frequency_hz": 48.9994
+    },
+    {
+      "string": 4,
+      "fret": 4,
+      "midi": 32,
+      "pitch_class": 8,
+      "sharp_name": "G#",
+      "flat_name": "Ab",
+      "sounding_octave": 1,
+      "frequency_hz": 51.9131
+    },
+    {
+      "string": 4,
+      "fret": 5,
+      "midi": 33,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 1,
+      "frequency_hz": 55.0
+    },
+    {
+      "string": 4,
+      "fret": 6,
+      "midi": 34,
+      "pitch_class": 10,
+      "sharp_name": "A#",
+      "flat_name": "Bb",
+      "sounding_octave": 1,
+      "frequency_hz": 58.2705
+    },
+    {
+      "string": 4,
+      "fret": 7,
+      "midi": 35,
+      "pitch_class": 11,
+      "sharp_name": "B",
+      "flat_name": "B",
+      "sounding_octave": 1,
+      "frequency_hz": 61.7354
+    },
+    {
+      "string": 4,
+      "fret": 8,
+      "midi": 36,
+      "pitch_class": 0,
+      "sharp_name": "C",
+      "flat_name": "C",
+      "sounding_octave": 2,
+      "frequency_hz": 65.4064
+    },
+    {
+      "string": 4,
+      "fret": 9,
+      "midi": 37,
+      "pitch_class": 1,
+      "sharp_name": "C#",
+      "flat_name": "Db",
+      "sounding_octave": 2,
+      "frequency_hz": 69.2957
+    },
+    {
+      "string": 4,
+      "fret": 10,
+      "midi": 38,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 2,
+      "frequency_hz": 73.4162
+    },
+    {
+      "string": 4,
+      "fret": 11,
+      "midi": 39,
+      "pitch_class": 3,
+      "sharp_name": "D#",
+      "flat_name": "Eb",
+      "sounding_octave": 2,
+      "frequency_hz": 77.7817
+    },
+    {
+      "string": 4,
+      "fret": 12,
+      "midi": 40,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 2,
+      "frequency_hz": 82.4069
+    },
+    {
+      "string": 4,
+      "fret": 13,
+      "midi": 41,
+      "pitch_class": 5,
+      "sharp_name": "F",
+      "flat_name": "F",
+      "sounding_octave": 2,
+      "frequency_hz": 87.3071
+    },
+    {
+      "string": 4,
+      "fret": 14,
+      "midi": 42,
+      "pitch_class": 6,
+      "sharp_name": "F#",
+      "flat_name": "Gb",
+      "sounding_octave": 2,
+      "frequency_hz": 92.4986
+    },
+    {
+      "string": 4,
+      "fret": 15,
+      "midi": 43,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 2,
+      "frequency_hz": 97.9989
+    },
+    {
+      "string": 4,
+      "fret": 16,
+      "midi": 44,
+      "pitch_class": 8,
+      "sharp_name": "G#",
+      "flat_name": "Ab",
+      "sounding_octave": 2,
+      "frequency_hz": 103.8262
+    },
+    {
+      "string": 4,
+      "fret": 17,
+      "midi": 45,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 2,
+      "frequency_hz": 110.0
+    },
+    {
+      "string": 4,
+      "fret": 18,
+      "midi": 46,
+      "pitch_class": 10,
+      "sharp_name": "A#",
+      "flat_name": "Bb",
+      "sounding_octave": 2,
+      "frequency_hz": 116.5409
+    },
+    {
+      "string": 4,
+      "fret": 19,
+      "midi": 47,
+      "pitch_class": 11,
+      "sharp_name": "B",
+      "flat_name": "B",
+      "sounding_octave": 2,
+      "frequency_hz": 123.4708
+    },
+    {
+      "string": 4,
+      "fret": 20,
+      "midi": 48,
+      "pitch_class": 0,
+      "sharp_name": "C",
+      "flat_name": "C",
+      "sounding_octave": 3,
+      "frequency_hz": 130.8128
+    },
+    {
+      "string": 4,
+      "fret": 21,
+      "midi": 49,
+      "pitch_class": 1,
+      "sharp_name": "C#",
+      "flat_name": "Db",
+      "sounding_octave": 3,
+      "frequency_hz": 138.5913
+    },
+    {
+      "string": 4,
+      "fret": 22,
+      "midi": 50,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 3,
+      "frequency_hz": 146.8324
+    },
+    {
+      "string": 4,
+      "fret": 23,
+      "midi": 51,
+      "pitch_class": 3,
+      "sharp_name": "D#",
+      "flat_name": "Eb",
+      "sounding_octave": 3,
+      "frequency_hz": 155.5635
+    },
+    {
+      "string": 4,
+      "fret": 24,
+      "midi": 52,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 3,
+      "frequency_hz": 164.8138
+    },
+    {
+      "string": 3,
+      "fret": 0,
+      "midi": 33,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 1,
+      "frequency_hz": 55.0
+    },
+    {
+      "string": 3,
+      "fret": 1,
+      "midi": 34,
+      "pitch_class": 10,
+      "sharp_name": "A#",
+      "flat_name": "Bb",
+      "sounding_octave": 1,
+      "frequency_hz": 58.2705
+    },
+    {
+      "string": 3,
+      "fret": 2,
+      "midi": 35,
+      "pitch_class": 11,
+      "sharp_name": "B",
+      "flat_name": "B",
+      "sounding_octave": 1,
+      "frequency_hz": 61.7354
+    },
+    {
+      "string": 3,
+      "fret": 3,
+      "midi": 36,
+      "pitch_class": 0,
+      "sharp_name": "C",
+      "flat_name": "C",
+      "sounding_octave": 2,
+      "frequency_hz": 65.4064
+    },
+    {
+      "string": 3,
+      "fret": 4,
+      "midi": 37,
+      "pitch_class": 1,
+      "sharp_name": "C#",
+      "flat_name": "Db",
+      "sounding_octave": 2,
+      "frequency_hz": 69.2957
+    },
+    {
+      "string": 3,
+      "fret": 5,
+      "midi": 38,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 2,
+      "frequency_hz": 73.4162
+    },
+    {
+      "string": 3,
+      "fret": 6,
+      "midi": 39,
+      "pitch_class": 3,
+      "sharp_name": "D#",
+      "flat_name": "Eb",
+      "sounding_octave": 2,
+      "frequency_hz": 77.7817
+    },
+    {
+      "string": 3,
+      "fret": 7,
+      "midi": 40,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 2,
+      "frequency_hz": 82.4069
+    },
+    {
+      "string": 3,
+      "fret": 8,
+      "midi": 41,
+      "pitch_class": 5,
+      "sharp_name": "F",
+      "flat_name": "F",
+      "sounding_octave": 2,
+      "frequency_hz": 87.3071
+    },
+    {
+      "string": 3,
+      "fret": 9,
+      "midi": 42,
+      "pitch_class": 6,
+      "sharp_name": "F#",
+      "flat_name": "Gb",
+      "sounding_octave": 2,
+      "frequency_hz": 92.4986
+    },
+    {
+      "string": 3,
+      "fret": 10,
+      "midi": 43,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 2,
+      "frequency_hz": 97.9989
+    },
+    {
+      "string": 3,
+      "fret": 11,
+      "midi": 44,
+      "pitch_class": 8,
+      "sharp_name": "G#",
+      "flat_name": "Ab",
+      "sounding_octave": 2,
+      "frequency_hz": 103.8262
+    },
+    {
+      "string": 3,
+      "fret": 12,
+      "midi": 45,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 2,
+      "frequency_hz": 110.0
+    },
+    {
+      "string": 3,
+      "fret": 13,
+      "midi": 46,
+      "pitch_class": 10,
+      "sharp_name": "A#",
+      "flat_name": "Bb",
+      "sounding_octave": 2,
+      "frequency_hz": 116.5409
+    },
+    {
+      "string": 3,
+      "fret": 14,
+      "midi": 47,
+      "pitch_class": 11,
+      "sharp_name": "B",
+      "flat_name": "B",
+      "sounding_octave": 2,
+      "frequency_hz": 123.4708
+    },
+    {
+      "string": 3,
+      "fret": 15,
+      "midi": 48,
+      "pitch_class": 0,
+      "sharp_name": "C",
+      "flat_name": "C",
+      "sounding_octave": 3,
+      "frequency_hz": 130.8128
+    },
+    {
+      "string": 3,
+      "fret": 16,
+      "midi": 49,
+      "pitch_class": 1,
+      "sharp_name": "C#",
+      "flat_name": "Db",
+      "sounding_octave": 3,
+      "frequency_hz": 138.5913
+    },
+    {
+      "string": 3,
+      "fret": 17,
+      "midi": 50,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 3,
+      "frequency_hz": 146.8324
+    },
+    {
+      "string": 3,
+      "fret": 18,
+      "midi": 51,
+      "pitch_class": 3,
+      "sharp_name": "D#",
+      "flat_name": "Eb",
+      "sounding_octave": 3,
+      "frequency_hz": 155.5635
+    },
+    {
+      "string": 3,
+      "fret": 19,
+      "midi": 52,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 3,
+      "frequency_hz": 164.8138
+    },
+    {
+      "string": 3,
+      "fret": 20,
+      "midi": 53,
+      "pitch_class": 5,
+      "sharp_name": "F",
+      "flat_name": "F",
+      "sounding_octave": 3,
+      "frequency_hz": 174.6141
+    },
+    {
+      "string": 3,
+      "fret": 21,
+      "midi": 54,
+      "pitch_class": 6,
+      "sharp_name": "F#",
+      "flat_name": "Gb",
+      "sounding_octave": 3,
+      "frequency_hz": 184.9972
+    },
+    {
+      "string": 3,
+      "fret": 22,
+      "midi": 55,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 3,
+      "frequency_hz": 195.9977
+    },
+    {
+      "string": 3,
+      "fret": 23,
+      "midi": 56,
+      "pitch_class": 8,
+      "sharp_name": "G#",
+      "flat_name": "Ab",
+      "sounding_octave": 3,
+      "frequency_hz": 207.6523
+    },
+    {
+      "string": 3,
+      "fret": 24,
+      "midi": 57,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 3,
+      "frequency_hz": 220.0
+    },
+    {
+      "string": 2,
+      "fret": 0,
+      "midi": 38,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 2,
+      "frequency_hz": 73.4162
+    },
+    {
+      "string": 2,
+      "fret": 1,
+      "midi": 39,
+      "pitch_class": 3,
+      "sharp_name": "D#",
+      "flat_name": "Eb",
+      "sounding_octave": 2,
+      "frequency_hz": 77.7817
+    },
+    {
+      "string": 2,
+      "fret": 2,
+      "midi": 40,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 2,
+      "frequency_hz": 82.4069
+    },
+    {
+      "string": 2,
+      "fret": 3,
+      "midi": 41,
+      "pitch_class": 5,
+      "sharp_name": "F",
+      "flat_name": "F",
+      "sounding_octave": 2,
+      "frequency_hz": 87.3071
+    },
+    {
+      "string": 2,
+      "fret": 4,
+      "midi": 42,
+      "pitch_class": 6,
+      "sharp_name": "F#",
+      "flat_name": "Gb",
+      "sounding_octave": 2,
+      "frequency_hz": 92.4986
+    },
+    {
+      "string": 2,
+      "fret": 5,
+      "midi": 43,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 2,
+      "frequency_hz": 97.9989
+    },
+    {
+      "string": 2,
+      "fret": 6,
+      "midi": 44,
+      "pitch_class": 8,
+      "sharp_name": "G#",
+      "flat_name": "Ab",
+      "sounding_octave": 2,
+      "frequency_hz": 103.8262
+    },
+    {
+      "string": 2,
+      "fret": 7,
+      "midi": 45,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 2,
+      "frequency_hz": 110.0
+    },
+    {
+      "string": 2,
+      "fret": 8,
+      "midi": 46,
+      "pitch_class": 10,
+      "sharp_name": "A#",
+      "flat_name": "Bb",
+      "sounding_octave": 2,
+      "frequency_hz": 116.5409
+    },
+    {
+      "string": 2,
+      "fret": 9,
+      "midi": 47,
+      "pitch_class": 11,
+      "sharp_name": "B",
+      "flat_name": "B",
+      "sounding_octave": 2,
+      "frequency_hz": 123.4708
+    },
+    {
+      "string": 2,
+      "fret": 10,
+      "midi": 48,
+      "pitch_class": 0,
+      "sharp_name": "C",
+      "flat_name": "C",
+      "sounding_octave": 3,
+      "frequency_hz": 130.8128
+    },
+    {
+      "string": 2,
+      "fret": 11,
+      "midi": 49,
+      "pitch_class": 1,
+      "sharp_name": "C#",
+      "flat_name": "Db",
+      "sounding_octave": 3,
+      "frequency_hz": 138.5913
+    },
+    {
+      "string": 2,
+      "fret": 12,
+      "midi": 50,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 3,
+      "frequency_hz": 146.8324
+    },
+    {
+      "string": 2,
+      "fret": 13,
+      "midi": 51,
+      "pitch_class": 3,
+      "sharp_name": "D#",
+      "flat_name": "Eb",
+      "sounding_octave": 3,
+      "frequency_hz": 155.5635
+    },
+    {
+      "string": 2,
+      "fret": 14,
+      "midi": 52,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 3,
+      "frequency_hz": 164.8138
+    },
+    {
+      "string": 2,
+      "fret": 15,
+      "midi": 53,
+      "pitch_class": 5,
+      "sharp_name": "F",
+      "flat_name": "F",
+      "sounding_octave": 3,
+      "frequency_hz": 174.6141
+    },
+    {
+      "string": 2,
+      "fret": 16,
+      "midi": 54,
+      "pitch_class": 6,
+      "sharp_name": "F#",
+      "flat_name": "Gb",
+      "sounding_octave": 3,
+      "frequency_hz": 184.9972
+    },
+    {
+      "string": 2,
+      "fret": 17,
+      "midi": 55,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 3,
+      "frequency_hz": 195.9977
+    },
+    {
+      "string": 2,
+      "fret": 18,
+      "midi": 56,
+      "pitch_class": 8,
+      "sharp_name": "G#",
+      "flat_name": "Ab",
+      "sounding_octave": 3,
+      "frequency_hz": 207.6523
+    },
+    {
+      "string": 2,
+      "fret": 19,
+      "midi": 57,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 3,
+      "frequency_hz": 220.0
+    },
+    {
+      "string": 2,
+      "fret": 20,
+      "midi": 58,
+      "pitch_class": 10,
+      "sharp_name": "A#",
+      "flat_name": "Bb",
+      "sounding_octave": 3,
+      "frequency_hz": 233.0819
+    },
+    {
+      "string": 2,
+      "fret": 21,
+      "midi": 59,
+      "pitch_class": 11,
+      "sharp_name": "B",
+      "flat_name": "B",
+      "sounding_octave": 3,
+      "frequency_hz": 246.9417
+    },
+    {
+      "string": 2,
+      "fret": 22,
+      "midi": 60,
+      "pitch_class": 0,
+      "sharp_name": "C",
+      "flat_name": "C",
+      "sounding_octave": 4,
+      "frequency_hz": 261.6256
+    },
+    {
+      "string": 2,
+      "fret": 23,
+      "midi": 61,
+      "pitch_class": 1,
+      "sharp_name": "C#",
+      "flat_name": "Db",
+      "sounding_octave": 4,
+      "frequency_hz": 277.1826
+    },
+    {
+      "string": 2,
+      "fret": 24,
+      "midi": 62,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 4,
+      "frequency_hz": 293.6648
+    },
+    {
+      "string": 1,
+      "fret": 0,
+      "midi": 43,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 2,
+      "frequency_hz": 97.9989
+    },
+    {
+      "string": 1,
+      "fret": 1,
+      "midi": 44,
+      "pitch_class": 8,
+      "sharp_name": "G#",
+      "flat_name": "Ab",
+      "sounding_octave": 2,
+      "frequency_hz": 103.8262
+    },
+    {
+      "string": 1,
+      "fret": 2,
+      "midi": 45,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 2,
+      "frequency_hz": 110.0
+    },
+    {
+      "string": 1,
+      "fret": 3,
+      "midi": 46,
+      "pitch_class": 10,
+      "sharp_name": "A#",
+      "flat_name": "Bb",
+      "sounding_octave": 2,
+      "frequency_hz": 116.5409
+    },
+    {
+      "string": 1,
+      "fret": 4,
+      "midi": 47,
+      "pitch_class": 11,
+      "sharp_name": "B",
+      "flat_name": "B",
+      "sounding_octave": 2,
+      "frequency_hz": 123.4708
+    },
+    {
+      "string": 1,
+      "fret": 5,
+      "midi": 48,
+      "pitch_class": 0,
+      "sharp_name": "C",
+      "flat_name": "C",
+      "sounding_octave": 3,
+      "frequency_hz": 130.8128
+    },
+    {
+      "string": 1,
+      "fret": 6,
+      "midi": 49,
+      "pitch_class": 1,
+      "sharp_name": "C#",
+      "flat_name": "Db",
+      "sounding_octave": 3,
+      "frequency_hz": 138.5913
+    },
+    {
+      "string": 1,
+      "fret": 7,
+      "midi": 50,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 3,
+      "frequency_hz": 146.8324
+    },
+    {
+      "string": 1,
+      "fret": 8,
+      "midi": 51,
+      "pitch_class": 3,
+      "sharp_name": "D#",
+      "flat_name": "Eb",
+      "sounding_octave": 3,
+      "frequency_hz": 155.5635
+    },
+    {
+      "string": 1,
+      "fret": 9,
+      "midi": 52,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 3,
+      "frequency_hz": 164.8138
+    },
+    {
+      "string": 1,
+      "fret": 10,
+      "midi": 53,
+      "pitch_class": 5,
+      "sharp_name": "F",
+      "flat_name": "F",
+      "sounding_octave": 3,
+      "frequency_hz": 174.6141
+    },
+    {
+      "string": 1,
+      "fret": 11,
+      "midi": 54,
+      "pitch_class": 6,
+      "sharp_name": "F#",
+      "flat_name": "Gb",
+      "sounding_octave": 3,
+      "frequency_hz": 184.9972
+    },
+    {
+      "string": 1,
+      "fret": 12,
+      "midi": 55,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 3,
+      "frequency_hz": 195.9977
+    },
+    {
+      "string": 1,
+      "fret": 13,
+      "midi": 56,
+      "pitch_class": 8,
+      "sharp_name": "G#",
+      "flat_name": "Ab",
+      "sounding_octave": 3,
+      "frequency_hz": 207.6523
+    },
+    {
+      "string": 1,
+      "fret": 14,
+      "midi": 57,
+      "pitch_class": 9,
+      "sharp_name": "A",
+      "flat_name": "A",
+      "sounding_octave": 3,
+      "frequency_hz": 220.0
+    },
+    {
+      "string": 1,
+      "fret": 15,
+      "midi": 58,
+      "pitch_class": 10,
+      "sharp_name": "A#",
+      "flat_name": "Bb",
+      "sounding_octave": 3,
+      "frequency_hz": 233.0819
+    },
+    {
+      "string": 1,
+      "fret": 16,
+      "midi": 59,
+      "pitch_class": 11,
+      "sharp_name": "B",
+      "flat_name": "B",
+      "sounding_octave": 3,
+      "frequency_hz": 246.9417
+    },
+    {
+      "string": 1,
+      "fret": 17,
+      "midi": 60,
+      "pitch_class": 0,
+      "sharp_name": "C",
+      "flat_name": "C",
+      "sounding_octave": 4,
+      "frequency_hz": 261.6256
+    },
+    {
+      "string": 1,
+      "fret": 18,
+      "midi": 61,
+      "pitch_class": 1,
+      "sharp_name": "C#",
+      "flat_name": "Db",
+      "sounding_octave": 4,
+      "frequency_hz": 277.1826
+    },
+    {
+      "string": 1,
+      "fret": 19,
+      "midi": 62,
+      "pitch_class": 2,
+      "sharp_name": "D",
+      "flat_name": "D",
+      "sounding_octave": 4,
+      "frequency_hz": 293.6648
+    },
+    {
+      "string": 1,
+      "fret": 20,
+      "midi": 63,
+      "pitch_class": 3,
+      "sharp_name": "D#",
+      "flat_name": "Eb",
+      "sounding_octave": 4,
+      "frequency_hz": 311.127
+    },
+    {
+      "string": 1,
+      "fret": 21,
+      "midi": 64,
+      "pitch_class": 4,
+      "sharp_name": "E",
+      "flat_name": "E",
+      "sounding_octave": 4,
+      "frequency_hz": 329.6276
+    },
+    {
+      "string": 1,
+      "fret": 22,
+      "midi": 65,
+      "pitch_class": 5,
+      "sharp_name": "F",
+      "flat_name": "F",
+      "sounding_octave": 4,
+      "frequency_hz": 349.2282
+    },
+    {
+      "string": 1,
+      "fret": 23,
+      "midi": 66,
+      "pitch_class": 6,
+      "sharp_name": "F#",
+      "flat_name": "Gb",
+      "sounding_octave": 4,
+      "frequency_hz": 369.9944
+    },
+    {
+      "string": 1,
+      "fret": 24,
+      "midi": 67,
+      "pitch_class": 7,
+      "sharp_name": "G",
+      "flat_name": "G",
+      "sounding_octave": 4,
+      "frequency_hz": 391.9954
+    }
+  ],
+  "conventions": {
+    "pitch": "All MIDI and octave values are sounding pitch. Conventional bass notation is written one octave higher.",
+    "time": "PPQ = 96 ticks per quarter note. Events use absolute start_tick from zero.",
+    "strings": "1=highest/thinnest G; 4=lowest/thickest E. Never reverse this in tabs.",
+    "spelling": "Sharp/flat names are display alternatives; key-aware spelling needs scale degree logic (e.g. F# major uses E#, not F).",
+    "range": "All supplied exercises fit standard EADG; no low B or retuning is needed.",
+    "harmonics": "Only a touched 12th-fret natural harmonic is represented by a scored event; its pitch is open-string MIDI + 12."
+  }
+}

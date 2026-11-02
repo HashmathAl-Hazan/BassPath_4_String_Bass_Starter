@@ -1,0 +1,350 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "id": "term-01",
+      "term": "Pulse",
+      "definition": "A regular underlying beat."
+    },
+    {
+      "id": "term-02",
+      "term": "Tempo",
+      "definition": "The speed of the pulse, with a stated beat unit."
+    },
+    {
+      "id": "term-03",
+      "term": "BPM",
+      "definition": "Beats per minute; specify quarter, dotted quarter or another unit."
+    },
+    {
+      "id": "term-04",
+      "term": "Bar",
+      "definition": "A group of beats defined by the meter."
+    },
+    {
+      "id": "term-05",
+      "term": "Meter",
+      "definition": "The repeating organisation of beats and subdivisions."
+    },
+    {
+      "id": "term-06",
+      "term": "Subdivision",
+      "definition": "A smaller equal division of a beat."
+    },
+    {
+      "id": "term-07",
+      "term": "Quarter note",
+      "definition": "A duration equal to one quarter of a whole note."
+    },
+    {
+      "id": "term-08",
+      "term": "Eighth note",
+      "definition": "Half the duration of a quarter note."
+    },
+    {
+      "id": "term-09",
+      "term": "Sixteenth note",
+      "definition": "One quarter the duration of a quarter note."
+    },
+    {
+      "id": "term-10",
+      "term": "Dotted note",
+      "definition": "A note length increased by half its original value."
+    },
+    {
+      "id": "term-11",
+      "term": "Triplet",
+      "definition": "Three equal events fitted into the time normally occupied by two of the same written value."
+    },
+    {
+      "id": "term-12",
+      "term": "Rest",
+      "definition": "A measured period of silence."
+    },
+    {
+      "id": "term-13",
+      "term": "Tie",
+      "definition": "A link joining durations of the same pitch into one sustained sound."
+    },
+    {
+      "id": "term-14",
+      "term": "Syncopation",
+      "definition": "Rhythmic emphasis away from expected strong beats."
+    },
+    {
+      "id": "term-15",
+      "term": "Swing",
+      "definition": "Unequal subdivision placement whose feel varies with tempo and style."
+    },
+    {
+      "id": "term-16",
+      "term": "Accent",
+      "definition": "A deliberately emphasised attack."
+    },
+    {
+      "id": "term-17",
+      "term": "Dynamics",
+      "definition": "Relative loudness and its changes."
+    },
+    {
+      "id": "term-18",
+      "term": "Articulation",
+      "definition": "How a note begins, connects and ends."
+    },
+    {
+      "id": "term-19",
+      "term": "Staccato",
+      "definition": "Shortened, separated note articulation."
+    },
+    {
+      "id": "term-20",
+      "term": "Legato",
+      "definition": "A connected articulation between notes."
+    },
+    {
+      "id": "term-21",
+      "term": "Pitch",
+      "definition": "How high or low a tone sounds."
+    },
+    {
+      "id": "term-22",
+      "term": "Semitone",
+      "definition": "The smallest step in standard twelve-tone equal temperament; one fret on this bass."
+    },
+    {
+      "id": "term-23",
+      "term": "Whole tone",
+      "definition": "Two semitones."
+    },
+    {
+      "id": "term-24",
+      "term": "Octave",
+      "definition": "Twelve semitones; a doubling or halving of frequency."
+    },
+    {
+      "id": "term-25",
+      "term": "Interval",
+      "definition": "The distance between two pitches, described by letter span and quality."
+    },
+    {
+      "id": "term-26",
+      "term": "Root",
+      "definition": "The note used to name and organise a chord."
+    },
+    {
+      "id": "term-27",
+      "term": "Tonic",
+      "definition": "The tonal centre or first degree of a key."
+    },
+    {
+      "id": "term-28",
+      "term": "Scale degree",
+      "definition": "A numbered relationship to a scale tonic."
+    },
+    {
+      "id": "term-29",
+      "term": "Scale",
+      "definition": "An ordered pitch collection within a musical context."
+    },
+    {
+      "id": "term-30",
+      "term": "Key",
+      "definition": "A tonal framework centred on a tonic."
+    },
+    {
+      "id": "term-31",
+      "term": "Triad",
+      "definition": "A three-note chord often built from root, third and fifth."
+    },
+    {
+      "id": "term-32",
+      "term": "Arpeggio",
+      "definition": "Chord tones sounded in sequence."
+    },
+    {
+      "id": "term-33",
+      "term": "Chord tone",
+      "definition": "A pitch belonging to the currently considered chord."
+    },
+    {
+      "id": "term-34",
+      "term": "Passing note",
+      "definition": "A note connecting more structural notes."
+    },
+    {
+      "id": "term-35",
+      "term": "Approach note",
+      "definition": "A note chosen to lead into a target."
+    },
+    {
+      "id": "term-36",
+      "term": "Dominant seventh",
+      "definition": "A major triad plus a minor seventh."
+    },
+    {
+      "id": "term-37",
+      "term": "Major seventh chord",
+      "definition": "A major triad plus a major seventh."
+    },
+    {
+      "id": "term-38",
+      "term": "Minor seventh chord",
+      "definition": "A minor triad plus a minor seventh."
+    },
+    {
+      "id": "term-39",
+      "term": "Slash chord",
+      "definition": "A chord symbol with a specified bass pitch after the slash."
+    },
+    {
+      "id": "term-40",
+      "term": "Inversion",
+      "definition": "A chord arrangement with a chord member other than the root in the bass."
+    },
+    {
+      "id": "term-41",
+      "term": "Pedal point",
+      "definition": "A sustained or repeated note under changing harmony."
+    },
+    {
+      "id": "term-42",
+      "term": "Mode",
+      "definition": "A pitch collection understood around a particular tonal centre and context."
+    },
+    {
+      "id": "term-43",
+      "term": "Transposition",
+      "definition": "Moving musical relationships into another key or pitch level."
+    },
+    {
+      "id": "term-44",
+      "term": "Voicing",
+      "definition": "The register and spacing chosen for chord tones."
+    },
+    {
+      "id": "term-45",
+      "term": "Register",
+      "definition": "A portion of the available pitch range."
+    },
+    {
+      "id": "term-46",
+      "term": "Fret",
+      "definition": "A metal division that helps set the vibrating string length."
+    },
+    {
+      "id": "term-47",
+      "term": "Open string",
+      "definition": "A string played without fretting it."
+    },
+    {
+      "id": "term-48",
+      "term": "Muting",
+      "definition": "Controlling or stopping unwanted string vibration."
+    },
+    {
+      "id": "term-49",
+      "term": "Ghost note",
+      "definition": "A muted percussive attack without a clear sustained pitch."
+    },
+    {
+      "id": "term-50",
+      "term": "Hammer-on",
+      "definition": "A higher note sounded by a fretting-hand attack after an initial note."
+    },
+    {
+      "id": "term-51",
+      "term": "Pull-off",
+      "definition": "A controlled release from a higher note into a prepared lower note on the same string."
+    },
+    {
+      "id": "term-52",
+      "term": "Slide",
+      "definition": "A movement between pitches while maintaining string contact."
+    },
+    {
+      "id": "term-53",
+      "term": "Harmonic",
+      "definition": "A higher partial of a vibrating string, sometimes isolated by light contact."
+    },
+    {
+      "id": "term-54",
+      "term": "Slap",
+      "definition": "A percussive thumb-based bass attack."
+    },
+    {
+      "id": "term-55",
+      "term": "Pop",
+      "definition": "A controlled finger release producing a bright percussive attack."
+    },
+    {
+      "id": "term-56",
+      "term": "Tablature",
+      "definition": "A string-and-fret representation; rhythm must also be specified."
+    },
+    {
+      "id": "term-57",
+      "term": "Bass clef",
+      "definition": "The F clef used to locate pitches on a staff."
+    },
+    {
+      "id": "term-58",
+      "term": "DI",
+      "definition": "A direct-injection device or connection method for routing an instrument signal."
+    },
+    {
+      "id": "term-59",
+      "term": "Clipping",
+      "definition": "Signal distortion caused by exceeding a stage's usable level."
+    },
+    {
+      "id": "term-60",
+      "term": "Latency",
+      "definition": "Delay between an action and the heard or processed result."
+    },
+    {
+      "id": "term-61",
+      "term": "Headroom",
+      "definition": "Available level above a signal before clipping."
+    },
+    {
+      "id": "term-62",
+      "term": "EQ",
+      "definition": "Frequency-balance adjustment."
+    },
+    {
+      "id": "term-63",
+      "term": "Compression",
+      "definition": "Level-dependent dynamic-range processing."
+    },
+    {
+      "id": "term-64",
+      "term": "Count-in",
+      "definition": "A preparatory beat pattern establishing tempo and entry."
+    },
+    {
+      "id": "term-65",
+      "term": "Form",
+      "definition": "The order and lengths of musical sections."
+    },
+    {
+      "id": "term-66",
+      "term": "Cue",
+      "definition": "An agreed signal for a musical action."
+    },
+    {
+      "id": "term-67",
+      "term": "Motif",
+      "definition": "A short recognisable musical idea."
+    },
+    {
+      "id": "term-68",
+      "term": "Groove",
+      "definition": "The combined rhythmic feel of attacks, durations and accents."
+    },
+    {
+      "id": "term-69",
+      "term": "PPQ",
+      "definition": "Ticks per quarter note, the timing resolution used by these data files."
+    }
+  ]
+}

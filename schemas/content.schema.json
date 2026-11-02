@@ -1,0 +1,982 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BassPath core content contracts",
+  "description": "Use the matching $defs entry per file; semantic checks live in scripts/validate-content.mjs. Additional fields are preserved for forward-compatible content.",
+  "oneOf": [
+    {
+      "$ref": "#/$defs/lessonFile"
+    },
+    {
+      "$ref": "#/$defs/exerciseFile"
+    },
+    {
+      "$ref": "#/$defs/quizFile"
+    },
+    {
+      "$ref": "#/$defs/resourceFile"
+    },
+    {
+      "$ref": "#/$defs/earFile"
+    }
+  ],
+  "$defs": {
+    "event": {
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": {
+            "start_tick": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_ticks": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "kind": {
+              "const": "note"
+            },
+            "string": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 4
+            },
+            "fret": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 24
+            },
+            "midi": {
+              "type": "integer",
+              "minimum": 28,
+              "maximum": 67
+            },
+            "articulation": {
+              "enum": [
+                "normal",
+                "hammer-on",
+                "pull-off",
+                "slide",
+                "slap",
+                "pop",
+                "thumb-down",
+                "thumb-up",
+                "natural-harmonic",
+                "tap"
+              ]
+            },
+            "velocity": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "maximum": 1
+            }
+          },
+          "required": [
+            "start_tick",
+            "duration_ticks",
+            "kind",
+            "string",
+            "fret",
+            "midi",
+            "articulation",
+            "velocity"
+          ],
+          "additionalProperties": true
+        },
+        {
+          "type": "object",
+          "properties": {
+            "start_tick": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_ticks": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "kind": {
+              "const": "rest"
+            }
+          },
+          "required": [
+            "start_tick",
+            "duration_ticks",
+            "kind"
+          ],
+          "additionalProperties": true
+        },
+        {
+          "type": "object",
+          "properties": {
+            "start_tick": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "duration_ticks": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "kind": {
+              "const": "ghost"
+            },
+            "string": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 4
+            },
+            "velocity": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "maximum": 1
+            }
+          },
+          "required": [
+            "start_tick",
+            "duration_ticks",
+            "kind",
+            "string",
+            "velocity"
+          ],
+          "additionalProperties": true
+        }
+      ]
+    },
+    "score": {
+      "type": "object",
+      "properties": {
+        "ppq": {
+          "const": 96
+        },
+        "meter": {
+          "type": "object",
+          "properties": {
+            "numerator": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "denominator": {
+              "enum": [
+                4,
+                8
+              ]
+            }
+          },
+          "required": [
+            "numerator",
+            "denominator"
+          ],
+          "additionalProperties": true
+        },
+        "bars": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "events": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/event"
+          },
+          "minItems": 1
+        },
+        "loop_count": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "tempo_unit_ticks": {
+          "enum": [
+            48,
+            96,
+            144
+          ]
+        },
+        "gate_ratio": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "maximum": 1
+        },
+        "count_in_bars": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "swing_is_already_encoded": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "ppq",
+        "meter",
+        "bars",
+        "events",
+        "loop_count",
+        "tempo_unit_ticks",
+        "gate_ratio",
+        "count_in_bars",
+        "swing_is_already_encoded"
+      ],
+      "additionalProperties": true
+    },
+    "tempo": {
+      "type": "object",
+      "properties": {
+        "start_bpm": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "target_bpm": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "increase_by": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "clean_repetitions": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "bpm_unit": {
+          "enum": [
+            "quarter",
+            "dotted-quarter",
+            "eighth"
+          ]
+        }
+      },
+      "required": [
+        "start_bpm",
+        "target_bpm",
+        "increase_by",
+        "clean_repetitions",
+        "bpm_unit"
+      ],
+      "additionalProperties": true
+    },
+    "lesson": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "slug": {
+          "type": "string",
+          "minLength": 1
+        },
+        "module_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 6
+        },
+        "order": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "estimated_minutes": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "objectives": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "prerequisite_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 0
+        },
+        "content": {
+          "type": "object",
+          "properties": {
+            "explanation": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 2
+            },
+            "guided_steps": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "minItems": 3
+            },
+            "common_mistakes": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "problem": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "correction": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "problem",
+                  "correction"
+                ],
+                "additionalProperties": true
+              },
+              "minItems": 1
+            },
+            "musical_application": {
+              "type": "string",
+              "minLength": 1
+            },
+            "reflection": {
+              "type": "string",
+              "minLength": 1
+            },
+            "assignment": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "explanation",
+            "guided_steps",
+            "common_mistakes",
+            "musical_application",
+            "reflection",
+            "assignment"
+          ],
+          "additionalProperties": true
+        },
+        "exercise_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "quiz_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "resource_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "completion_criteria": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "optional": {
+          "type": "boolean"
+        },
+        "prerequisites_are_recommendations": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "id",
+        "slug",
+        "module_id",
+        "level",
+        "order",
+        "title",
+        "summary",
+        "estimated_minutes",
+        "objectives",
+        "prerequisite_ids",
+        "content",
+        "exercise_ids",
+        "quiz_ids",
+        "resource_ids",
+        "tags",
+        "completion_criteria",
+        "optional",
+        "prerequisites_are_recommendations"
+      ],
+      "additionalProperties": true
+    },
+    "exercise": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "lesson_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 6
+        },
+        "kind": {
+          "enum": [
+            "scored",
+            "task"
+          ]
+        },
+        "origin": {
+          "const": "original_basspath"
+        },
+        "duration_minutes": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "instructions": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "completion_criteria": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "recording_optional": {
+          "type": "boolean"
+        },
+        "tempo": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/tempo"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "score": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/score"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "lesson_id",
+        "title",
+        "level",
+        "kind",
+        "origin",
+        "duration_minutes",
+        "instructions",
+        "completion_criteria",
+        "recording_optional",
+        "tempo",
+        "score"
+      ],
+      "additionalProperties": true,
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "kind": {
+                "const": "task"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "score": {
+                "type": "null"
+              },
+              "tempo": {
+                "type": "null"
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "score": {
+                "$ref": "#/$defs/score"
+              },
+              "tempo": {
+                "$ref": "#/$defs/tempo"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "option": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "id",
+        "text"
+      ],
+      "additionalProperties": true
+    },
+    "quiz": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "lesson_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 6
+        },
+        "kind": {
+          "const": "single_choice"
+        },
+        "question": {
+          "type": "string",
+          "minLength": 1
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/option"
+          },
+          "minItems": 2
+        },
+        "answer_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "explanation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "source": {
+          "const": "original_basspath"
+        }
+      },
+      "required": [
+        "id",
+        "lesson_id",
+        "level",
+        "kind",
+        "question",
+        "options",
+        "answer_id",
+        "explanation",
+        "tags",
+        "source"
+      ],
+      "additionalProperties": true
+    },
+    "resource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "provider": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "kind": {
+          "type": "string",
+          "minLength": 1
+        },
+        "levels": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 6
+          },
+          "minItems": 1
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "language": {
+          "type": "string",
+          "minLength": 1
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "access": {
+          "enum": [
+            "free_page",
+            "paid_optional"
+          ]
+        },
+        "access_note": {
+          "type": "string",
+          "minLength": 1
+        },
+        "checked_on": {
+          "type": "string",
+          "format": "date"
+        },
+        "verification": {
+          "type": "string",
+          "minLength": 1
+        },
+        "internet_required": {
+          "const": true
+        },
+        "required_for_progression": {
+          "const": false
+        },
+        "reuse": {
+          "type": "string",
+          "minLength": 1
+        },
+        "video": {
+          "type": "null"
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "provider",
+        "url",
+        "kind",
+        "levels",
+        "tags",
+        "language",
+        "summary",
+        "access",
+        "access_note",
+        "checked_on",
+        "verification",
+        "internet_required",
+        "required_for_progression",
+        "reuse",
+        "video"
+      ],
+      "additionalProperties": true
+    },
+    "stimulus": {
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": {
+            "start_seconds": {
+              "type": "number",
+              "minimum": 0
+            },
+            "duration_seconds": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "velocity": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "maximum": 1
+            },
+            "midi": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 127
+            }
+          },
+          "required": [
+            "start_seconds",
+            "duration_seconds",
+            "velocity",
+            "midi"
+          ],
+          "additionalProperties": true
+        },
+        {
+          "type": "object",
+          "properties": {
+            "start_seconds": {
+              "type": "number",
+              "minimum": 0
+            },
+            "duration_seconds": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "velocity": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "maximum": 1
+            },
+            "voice": {
+              "const": "click"
+            }
+          },
+          "required": [
+            "start_seconds",
+            "duration_seconds",
+            "velocity",
+            "voice"
+          ],
+          "additionalProperties": true
+        }
+      ]
+    },
+    "earQuestion": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "mode": {
+          "enum": [
+            "direction",
+            "interval",
+            "chord_quality",
+            "scale_degree",
+            "rhythm",
+            "progression"
+          ]
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 6
+        },
+        "question": {
+          "type": "string",
+          "minLength": 1
+        },
+        "stimuli": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/stimulus"
+          },
+          "minItems": 1
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/option"
+          },
+          "minItems": 2
+        },
+        "answer_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "explanation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "origin": {
+          "const": "original_basspath"
+        }
+      },
+      "required": [
+        "id",
+        "mode",
+        "level",
+        "question",
+        "stimuli",
+        "options",
+        "answer_id",
+        "explanation",
+        "origin"
+      ],
+      "additionalProperties": true
+    },
+    "lessonFile": {
+      "type": "object",
+      "properties": {
+        "schema_version": {
+          "const": "1.0.0"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/lesson"
+          },
+          "minItems": 1
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 6
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "schema_version",
+        "items",
+        "level",
+        "title"
+      ],
+      "additionalProperties": true
+    },
+    "exerciseFile": {
+      "type": "object",
+      "properties": {
+        "schema_version": {
+          "const": "1.0.0"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/exercise"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "schema_version",
+        "items"
+      ],
+      "additionalProperties": true
+    },
+    "quizFile": {
+      "type": "object",
+      "properties": {
+        "schema_version": {
+          "const": "1.0.0"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/quiz"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "schema_version",
+        "items"
+      ],
+      "additionalProperties": true
+    },
+    "resourceFile": {
+      "type": "object",
+      "properties": {
+        "schema_version": {
+          "const": "1.0.0"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/resource"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "schema_version",
+        "items"
+      ],
+      "additionalProperties": true
+    },
+    "earFile": {
+      "type": "object",
+      "properties": {
+        "schema_version": {
+          "const": "1.0.0"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/earQuestion"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "schema_version",
+        "items"
+      ],
+      "additionalProperties": true
+    }
+  }
+}

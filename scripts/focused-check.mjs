@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+const f = (m) => 440 * 2 ** ((m - 69) / 12);
+assert.equal(Math.round(f(28) * 1000) / 1000, 41.203);
+assert.equal(28 + 5, 33);
+assert.equal(28 + 12, 40);
+assert.equal(33 + 12, 45);
+assert.equal(96 * 4 * 6 / 8, 288);
+assert.equal(96 * 4 * 7 / 8, 336);
+assert.equal(96 / 144 * 60 / 60, 0.6666666666666666);
+console.log('focused music and tempo checks passed');

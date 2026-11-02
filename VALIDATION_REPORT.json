@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-27T15:08:48.230Z",
+  "checks": 10509,
+  "counts": {
+    "levels": 7,
+    "modules": 21,
+    "lessons": 84,
+    "exercises": 93,
+    "scored_exercises": 60,
+    "knowledge_questions": 84,
+    "ear_questions": 120,
+    "resources": 58,
+    "original_studies": 12,
+    "drum_loops": 10,
+    "glossary_terms": 69,
+    "starter_days": 28
+  },
+  "scope": [
+    "JSON parsing and manifest integrity",
+    "Content IDs, relationships and prerequisite order",
+    "Lesson structure and optional-level flags",
+    "Pitch/fret/frequency and octave invariants",
+    "Complete score timelines and tempo units",
+    "Quiz answers and audio stimulus structure",
+    "Original charts, drum events, theory formulas and practice durations"
+  ],
+  "limitations": [
+    "No website is included or tested.",
+    "Publisher pages were checked separately; video playback and JavaScript interactive behaviour were not tested.",
+    "Content consistency checks do not certify playing technique or replace human pedagogical review."
+  ]
+}

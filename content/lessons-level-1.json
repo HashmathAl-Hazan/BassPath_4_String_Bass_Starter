@@ -1,0 +1,723 @@
+{
+  "schema_version": "1.0.0",
+  "level": 1,
+  "title": "Absolute beginner",
+  "items": [
+    {
+      "id": "l1-01",
+      "slug": "durations-rests",
+      "module_id": "m1-1",
+      "level": 1,
+      "order": 13,
+      "title": "Whole, half and quarter notes",
+      "summary": "In 4/4, a whole note fills four quarter-note beats and a half note fills two.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Hold and stop notes at their correct boundaries for four loops."
+      ],
+      "prerequisite_ids": [
+        "l0-12"
+      ],
+      "content": {
+        "explanation": [
+          "In 4/4, a whole note fills four quarter-note beats and a half note fills two. The pulse continues while a note rings. A rest occupies time just as a note does.",
+          "Count through sustained notes and stop at the intended boundary. Long notes reveal whether you know where the next bar begins; they are not time to stop listening."
+        ],
+        "guided_steps": [
+          "Count four clicks while sustaining open E.",
+          "Sustain A for two clicks and mute for two.",
+          "Alternate long notes and rests without losing bar one."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Counting only when plucking",
+            "correction": "Keep counting through both sustain and silence."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Alternate long notes and rests without losing bar one.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-01"
+      ],
+      "quiz_ids": [
+        "q1-01"
+      ],
+      "resource_ids": [
+        "r11",
+        "r41"
+      ],
+      "tags": [
+        "rhythm",
+        "rests"
+      ],
+      "completion_criteria": [
+        "Hold and stop notes at their correct boundaries for four loops.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-02",
+      "slug": "eighth-notes",
+      "module_id": "m1-1",
+      "level": 1,
+      "order": 14,
+      "title": "Divide a beat into two",
+      "summary": "Count eighth notes as 1 and 2 and 3 and 4 and.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play four loops of evenly spaced eighth notes at 60 BPM."
+      ],
+      "prerequisite_ids": [
+        "l1-01"
+      ],
+      "content": {
+        "explanation": [
+          "Count eighth notes as 1 and 2 and 3 and 4 and. Each spoken syllable occupies equal time. The numbers coincide with the quarter-note click; the ands fall halfway between.",
+          "Speak and tap before playing. Keep attacks small enough that doubling the note rate does not double your tension. Start slowly and check that the offbeats do not arrive late."
+        ],
+        "guided_steps": [
+          "Speak the eight syllables over four clicks.",
+          "Tap all eight while the click stays on the numbers.",
+          "Play even eighth notes and alternate fingers."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Putting every syllable on a separate quarter-note click",
+            "correction": "Fit one number and one and inside each click interval."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play even eighth notes and alternate fingers.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-02"
+      ],
+      "quiz_ids": [
+        "q1-02"
+      ],
+      "resource_ids": [
+        "r12"
+      ],
+      "tags": [
+        "rhythm",
+        "eighth-notes"
+      ],
+      "completion_criteria": [
+        "Play four loops of evenly spaced eighth notes at 60 BPM.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-03",
+      "slug": "bass-clef",
+      "module_id": "m1-1",
+      "level": 1,
+      "order": 15,
+      "title": "Read your first bass-clef notes",
+      "summary": "Standard notation describes pitch with a staff and clef.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Name four bass-clef notes and locate their corresponding sounding bass positions."
+      ],
+      "prerequisite_ids": [
+        "l1-02"
+      ],
+      "content": {
+        "explanation": [
+          "Standard notation describes pitch with a staff and clef. In bass clef the lines, bottom to top, are G, B, D, F and A; the spaces are A, C, E and G. Learn a few notes and connect them to the instrument rather than memorising an entire page first.",
+          "Electric bass conventionally sounds one octave below its written notation. BassPath stores sounding MIDI, so a notation renderer must apply this octave convention once. Tab and notation describe the same performance differently."
+        ],
+        "guided_steps": [
+          "Locate the staff lines and spaces and name them slowly.",
+          "Find sounding open A1 and D2 on the instrument and compare their written A2 and D3.",
+          "Read four chosen notes before checking the tab."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Adding the octave transposition twice",
+            "correction": "Keep sounding MIDI separate from written notation."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Read four chosen notes before checking the tab.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-03"
+      ],
+      "quiz_ids": [
+        "q1-03"
+      ],
+      "resource_ids": [
+        "r42"
+      ],
+      "tags": [
+        "notation",
+        "reading"
+      ],
+      "completion_criteria": [
+        "Name four bass-clef notes and locate their corresponding sounding bass positions.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-04",
+      "slug": "three-and-six",
+      "module_id": "m1-1",
+      "level": 1,
+      "order": 16,
+      "title": "Hear 3/4 and 6/8",
+      "summary": "In 3/4, feel three quarter-note beats: 1, 2, 3.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Explain the grouping difference and play four loops of the 6/8 study."
+      ],
+      "prerequisite_ids": [
+        "l1-03"
+      ],
+      "content": {
+        "explanation": [
+          "In 3/4, feel three quarter-note beats: 1, 2, 3. In 6/8, commonly feel two larger beats, each split into three eighth notes: ONE two three FOUR five six. Both bars contain six eighth notes, but the grouping differs.",
+          "The tempo label must say what counts as a beat. Here 6/8 BPM refers to dotted-quarter beats. At dotted-quarter 60, there are two clicks per bar and six eighth-note subdivisions; changing the display to eighth-note 180 describes the same speed."
+        ],
+        "guided_steps": [
+          "Clap three equal quarter beats, then two groups of three eighths.",
+          "Play the 6/8 study with accents on subdivisions one and four.",
+          "Say which BPM unit you are using before starting."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Treating 6/8 as six quarter-note beats",
+            "correction": "Group six eighths into two dotted-quarter beats."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Say which BPM unit you are using before starting.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-04"
+      ],
+      "quiz_ids": [
+        "q1-04"
+      ],
+      "resource_ids": [
+        "r43"
+      ],
+      "tags": [
+        "meter",
+        "worship"
+      ],
+      "completion_criteria": [
+        "Explain the grouping difference and play four loops of the 6/8 study.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-05",
+      "slug": "natural-note-map",
+      "module_id": "m1-2",
+      "level": 1,
+      "order": 17,
+      "title": "Find natural notes near the nut",
+      "summary": "The musical alphabet cycles A through G.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Identify eight natural-note locations within frets zero to five."
+      ],
+      "prerequisite_ids": [
+        "l1-04"
+      ],
+      "content": {
+        "explanation": [
+          "The musical alphabet cycles A through G. B to C and E to F are one fret apart; other neighbouring natural letters are two frets apart. An open string gives you a starting landmark.",
+          "On E, frets zero, one, three and five are E, F, G and A. On A, zero, two, three and five are A, B, C and D. Say the names while playing so fret numbers gradually become meaningful sounds."
+        ],
+        "guided_steps": [
+          "Name E-string open through fret five.",
+          "Repeat on A and notice the one-fret B–C gap.",
+          "Play the natural-note study and name each note aloud."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Putting a two-fret gap between every natural note",
+            "correction": "Remember E–F and B–C are adjacent frets."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the natural-note study and name each note aloud.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-05"
+      ],
+      "quiz_ids": [
+        "q1-05"
+      ],
+      "resource_ids": [
+        "r19"
+      ],
+      "tags": [
+        "fretboard",
+        "notes"
+      ],
+      "completion_criteria": [
+        "Identify eight natural-note locations within frets zero to five.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-06",
+      "slug": "small-shifts",
+      "module_id": "m1-2",
+      "level": 1,
+      "order": 18,
+      "title": "Move the hand instead of forcing a stretch",
+      "summary": "A shift moves your hand to another area of the neck.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Make eight accurate, comfortable shifts without losing the pulse."
+      ],
+      "prerequisite_ids": [
+        "l1-05"
+      ],
+      "content": {
+        "explanation": [
+          "A shift moves your hand to another area of the neck. Release unnecessary pressure, move to the destination and place the next note near its fret. Keep the pulse steady during the movement.",
+          "At low frets, one finger per fret may be uncomfortable. A compact fingering and a small shift are valid alternatives. Practise landing accurately before increasing speed; the movement should not produce a loud slide unless you intend one."
+        ],
+        "guided_steps": [
+          "Locate A-string frets five and seven without playing.",
+          "Move between them slowly with light pressure released.",
+          "Play alternating notes while checking relaxed wrist movement."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Stretching to avoid any movement",
+            "correction": "Use a controlled shift that fits your hand."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play alternating notes while checking relaxed wrist movement.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-06"
+      ],
+      "quiz_ids": [
+        "q1-06"
+      ],
+      "resource_ids": [
+        "r05",
+        "r03"
+      ],
+      "tags": [
+        "fretting",
+        "shifting"
+      ],
+      "completion_criteria": [
+        "Make eight accurate, comfortable shifts without losing the pulse.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-07",
+      "slug": "string-crossing",
+      "module_id": "m1-2",
+      "level": 1,
+      "order": 19,
+      "title": "Cross strings without losing time",
+      "summary": "A string change needs both hands to arrive together.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Cross all four strings in both directions for four clean loops."
+      ],
+      "prerequisite_ids": [
+        "l1-06"
+      ],
+      "content": {
+        "explanation": [
+          "A string change needs both hands to arrive together. Look ahead to the next string while the current note sounds. Alternate fingers slowly and keep the unused strings damped.",
+          "Begin with adjacent strings and the same fret so the pitch task is simple. Listen especially to the note immediately after each crossing; it often becomes late or louder. Later, compare strict alternation with intentional raking."
+        ],
+        "guided_steps": [
+          "Play the fifth fret on each string from E toward G.",
+          "Reverse the route with strict alternation.",
+          "Repeat at a tempo where every change remains quiet and even."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Moving the plucking hand only after the next beat",
+            "correction": "Prepare the crossing during the previous note."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat at a tempo where every change remains quiet and even.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-07"
+      ],
+      "quiz_ids": [
+        "q1-07"
+      ],
+      "resource_ids": [
+        "r06",
+        "r20"
+      ],
+      "tags": [
+        "string-crossing",
+        "muting"
+      ],
+      "completion_criteria": [
+        "Cross all four strings in both directions for four clean loops.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-08",
+      "slug": "dynamics-length",
+      "module_id": "m1-2",
+      "level": 1,
+      "order": 20,
+      "title": "Change volume and note length deliberately",
+      "summary": "Dynamics describe relative loudness.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Perform soft/louder and short/long versions without changing tempo."
+      ],
+      "prerequisite_ids": [
+        "l1-07"
+      ],
+      "content": {
+        "explanation": [
+          "Dynamics describe relative loudness. Articulation includes how a note starts and ends. A short quiet note and a long quiet note can support the same chord very differently.",
+          "Practise one variable at a time: first make a phrase softer without slowing it, then shorten the notes without changing their start times. Use gentle damping to create clear gaps. Your volume should not jump accidentally when a different finger plays."
+        ],
+        "guided_steps": [
+          "Play the quarter-note study softly for one loop.",
+          "Repeat more firmly while keeping the same tempo.",
+          "Repeat with short note endings and compare the feel."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Playing faster when louder",
+            "correction": "Keep the click unchanged and separate energy from tempo."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat with short note endings and compare the feel.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-08"
+      ],
+      "quiz_ids": [
+        "q1-08"
+      ],
+      "resource_ids": [
+        "r04",
+        "r20"
+      ],
+      "tags": [
+        "dynamics",
+        "articulation"
+      ],
+      "completion_criteria": [
+        "Perform soft/louder and short/long versions without changing tempo.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-09",
+      "slug": "root-note-part",
+      "module_id": "m1-3",
+      "level": 1,
+      "order": 21,
+      "title": "Follow a four-chord root-note part",
+      "summary": "The root gives a chord its basic letter name.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play four uninterrupted cycles of G–D–Em–C using correct roots."
+      ],
+      "prerequisite_ids": [
+        "l1-08"
+      ],
+      "content": {
+        "explanation": [
+          "The root gives a chord its basic letter name. For G, D, Em and C, begin with bass notes G, D, E and C. The minor suffix changes the chord quality but does not change its root letter.",
+          "Play one sustained note per bar first. Read one chord ahead and plan the next location. This is already a useful accompaniment pattern when the ensemble needs space."
+        ],
+        "guided_steps": [
+          "Locate G, D, E and C before starting.",
+          "Play one note per bar through the four-chord cycle.",
+          "Repeat with four quarter notes per chord only after the changes are reliable."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Treating Em as an unrelated root name",
+            "correction": "Read the root E first; the suffix describes quality."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat with four quarter notes per chord only after the changes are reliable.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-09"
+      ],
+      "quiz_ids": [
+        "q1-09"
+      ],
+      "resource_ids": [
+        "r08",
+        "r21"
+      ],
+      "tags": [
+        "worship",
+        "roots"
+      ],
+      "completion_criteria": [
+        "Play four uninterrupted cycles of G–D–Em–C using correct roots.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-10",
+      "slug": "kick-and-space",
+      "module_id": "m1-3",
+      "level": 1,
+      "order": 22,
+      "title": "Listen to the kick drum",
+      "summary": "The kick drum often marks important low-frequency attacks.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Maintain a simple root part with a drum loop for one minute."
+      ],
+      "prerequisite_ids": [
+        "l1-09"
+      ],
+      "content": {
+        "explanation": [
+          "The kick drum often marks important low-frequency attacks. Try matching a few of those attacks with your bass while keeping the chord changes clear. You do not have to copy every drum hit.",
+          "Start with a sparse drum pattern and leave the snare room. Listen to the whole groove, not only your hands. A consistent simple part usually helps more than a busy part that loses the form."
+        ],
+        "guided_steps": [
+          "Count a drum loop before playing.",
+          "Put bass attacks on beats one and three, leaving space on the others.",
+          "Try one extra attack and decide whether the groove becomes clearer."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Copying every percussion hit",
+            "correction": "Choose attacks that support the main pulse and harmony."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Try one extra attack and decide whether the groove becomes clearer.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-10"
+      ],
+      "quiz_ids": [
+        "q1-10"
+      ],
+      "resource_ids": [
+        "r54",
+        "r11"
+      ],
+      "tags": [
+        "band",
+        "groove"
+      ],
+      "completion_criteria": [
+        "Maintain a simple root part with a drum loop for one minute.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-11",
+      "slug": "form-and-cues",
+      "module_id": "m1-3",
+      "level": 1,
+      "order": 23,
+      "title": "Follow sections and stop together",
+      "summary": "Song form is the order of sections such as intro, verse, chorus and bridge.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Follow the 24-bar form and stop at the agreed ending."
+      ],
+      "prerequisite_ids": [
+        "l1-10"
+      ],
+      "content": {
+        "explanation": [
+          "Song form is the order of sections such as intro, verse, chorus and bridge. Mark how many bars each section lasts and keep counting while a note is held or while you are silent.",
+          "A count-in establishes tempo and the entry. An ending may be a held note, a coordinated cutoff or a repeating section led by a cue. Confirm the plan with the group and look up at transitions."
+        ],
+        "guided_steps": [
+          "Write an original form: four bars intro, eight verse, eight chorus, four ending.",
+          "Play the root cycle while announcing each section.",
+          "Practise a count-in and a clean agreed cutoff."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Looking down continuously during transitions",
+            "correction": "Learn the notes well enough to watch for cues."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Practise a count-in and a clean agreed cutoff.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-11"
+      ],
+      "quiz_ids": [
+        "q1-11"
+      ],
+      "resource_ids": [
+        "r53",
+        "r08"
+      ],
+      "tags": [
+        "form",
+        "band"
+      ],
+      "completion_criteria": [
+        "Follow the 24-bar form and stop at the agreed ending.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l1-12",
+      "slug": "beginner-performance",
+      "module_id": "m1-3",
+      "level": 1,
+      "order": 24,
+      "title": "Record your first complete arrangement",
+      "summary": "Combine a steady root part, clear section lengths and a planned ending into one small performance.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play a complete 24-bar arrangement with a clear beginning and ending."
+      ],
+      "prerequisite_ids": [
+        "l1-11"
+      ],
+      "content": {
+        "explanation": [
+          "Combine a steady root part, clear section lengths and a planned ending into one small performance. Use the original four-chord study rather than needing a commercial song transcription.",
+          "Listen back once for timing and once for unwanted ringing. Choose one issue to repair, record again, and compare. A complete controlled take is stronger evidence than playing one difficult bar repeatedly."
+        ],
+        "guided_steps": [
+          "Prepare a 24-bar version of the root-note study with a count-in.",
+          "Record it without restarting for small slips.",
+          "Note one improvement and one next practice target."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Restarting after every small error",
+            "correction": "Keep the form and review the error after the take."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Note one improvement and one next practice target.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e1-12"
+      ],
+      "quiz_ids": [
+        "q1-12"
+      ],
+      "resource_ids": [
+        "r11",
+        "r08"
+      ],
+      "tags": [
+        "assessment",
+        "performance"
+      ],
+      "completion_criteria": [
+        "Play a complete 24-bar arrangement with a clear beginning and ending.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    }
+  ]
+}

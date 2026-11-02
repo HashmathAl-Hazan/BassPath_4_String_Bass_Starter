@@ -1,0 +1,726 @@
+{
+  "schema_version": "1.0.0",
+  "level": 6,
+  "title": "Performance and professional practice",
+  "items": [
+    {
+      "id": "l6-01",
+      "slug": "plan-a-set",
+      "module_id": "m6-1",
+      "level": 6,
+      "order": 73,
+      "title": "Prepare a short set with realistic priorities",
+      "summary": "List each piece, key, meter, tempo, form and ending.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Prepare a three-piece set plan with complete performance information."
+      ],
+      "prerequisite_ids": [
+        "l4-12"
+      ],
+      "content": {
+        "explanation": [
+          "List each piece, key, meter, tempo, form and ending. Identify the difficult transitions, then allocate practice time to those points. A set requires reliable beginnings and endings as well as accurate middle sections.",
+          "Use the original practice studies or music you are authorised to use. Choose material at a controllable level and leave time to rehearse the complete sequence. This level is preparation practice, not a promise of professional readiness."
+        ],
+        "guided_steps": [
+          "Choose three contrasting original studies.",
+          "Write their keys, forms and endings in order.",
+          "Practise the transition from the end of one to the count-in of the next."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Practising only the most impressive section",
+            "correction": "Prioritise entrances, transitions and complete form."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Practise the transition from the end of one to the count-in of the next.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-01"
+      ],
+      "quiz_ids": [
+        "q6-01"
+      ],
+      "resource_ids": [
+        "r53",
+        "r54"
+      ],
+      "tags": [
+        "setlist",
+        "performance"
+      ],
+      "completion_criteria": [
+        "Prepare a three-piece set plan with complete performance information.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-02",
+      "slug": "learn-new-material",
+      "module_id": "m6-1",
+      "level": 6,
+      "order": 74,
+      "title": "Learn a new part through repeated focused passes",
+      "summary": "First hear the whole form.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Learn and perform a new short study from its chart and reference."
+      ],
+      "prerequisite_ids": [
+        "l6-01"
+      ],
+      "content": {
+        "explanation": [
+          "First hear the whole form. On the next pass, identify roots and important rhythmic features. Then work on difficult transitions in short loops before restoring them to the full arrangement.",
+          "Use a reference recording when you have lawful access and compare it with the agreed chart. If versions differ, resolve the arrangement with the group. Your aim is a reliable part for this performance, not a guessed mixture of recordings."
+        ],
+        "guided_steps": [
+          "Map an original study after one full listen.",
+          "Work on its hardest two-bar transition.",
+          "Play the complete form and check the chart against the result."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Combining incompatible versions without agreement",
+            "correction": "Confirm which arrangement the group will perform."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the complete form and check the chart against the result.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-02"
+      ],
+      "quiz_ids": [
+        "q6-02"
+      ],
+      "resource_ids": [
+        "r08",
+        "r54"
+      ],
+      "tags": [
+        "repertoire",
+        "ear"
+      ],
+      "completion_criteria": [
+        "Learn and perform a new short study from its chart and reference.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-03",
+      "slug": "make-readable-charts",
+      "module_id": "m6-1",
+      "level": 6,
+      "order": 75,
+      "title": "Write a chart another player can follow",
+      "summary": "A usable chart states key, meter and tempo unit, gives chord durations, and labels sections and endings.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Produce a chart with no missing chord durations or ambiguous ending."
+      ],
+      "prerequisite_ids": [
+        "l6-02"
+      ],
+      "content": {
+        "explanation": [
+          "A usable chart states key, meter and tempo unit, gives chord durations, and labels sections and endings. Use enough spacing that a player can see the form at a glance. Explain nonstandard symbols.",
+          "Test the chart by following it without relying on memory. A chart should support communication; it does not need to contain every decorative note. Keep arrangement notes separate from private practice comments."
+        ],
+        "guided_steps": [
+          "Write a one-page chart for your original arrangement.",
+          "Mark split bars, repeats and the ending.",
+          "Ask someone to describe the form from the chart or read it after a break."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Using private shorthand without a legend",
+            "correction": "Define the symbol or use a clear standard label."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Ask someone to describe the form from the chart or read it after a break.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-03"
+      ],
+      "quiz_ids": [
+        "q6-03"
+      ],
+      "resource_ids": [
+        "r17",
+        "r47"
+      ],
+      "tags": [
+        "charts",
+        "communication"
+      ],
+      "completion_criteria": [
+        "Produce a chart with no missing chord durations or ambiguous ending.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-04",
+      "slug": "soundcheck",
+      "module_id": "m6-1",
+      "level": 6,
+      "order": 76,
+      "title": "Use soundcheck to establish a usable sound",
+      "summary": "Check the signal path, tuning and monitoring before the rehearsal or performance begins.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Complete a brief organised soundcheck with a clear monitoring request."
+      ],
+      "prerequisite_ids": [
+        "l6-03"
+      ],
+      "content": {
+        "explanation": [
+          "Check the signal path, tuning and monitoring before the rehearsal or performance begins. Start with controlled level and play a representative part when asked so the engineer can hear real attack and dynamics.",
+          "Communicate one specific adjustment at a time. Stop playing while instructions are given. Keep a simple backup plan for a cable or battery issue where relevant, and follow the venue and equipment instructions."
+        ],
+        "guided_steps": [
+          "Trace the bass-to-amplifier or interface path.",
+          "Play the same short test phrase at performance intensity.",
+          "Practise asking for one clear monitoring adjustment."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Playing continuously while others need to communicate",
+            "correction": "Stop and listen between requested sound checks."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Practise asking for one clear monitoring adjustment.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-04"
+      ],
+      "quiz_ids": [
+        "q6-04"
+      ],
+      "resource_ids": [
+        "r51",
+        "r53"
+      ],
+      "tags": [
+        "soundcheck",
+        "band"
+      ],
+      "completion_criteria": [
+        "Complete a brief organised soundcheck with a clear monitoring request.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-05",
+      "slug": "visual-cues",
+      "module_id": "m6-2",
+      "level": 6,
+      "order": 77,
+      "title": "Agree on repeats, cutoffs and entries",
+      "summary": "Visual cues work best when everyone knows their meaning.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Respond to a repeat, dynamic change and cutoff without losing the form."
+      ],
+      "prerequisite_ids": [
+        "l6-04"
+      ],
+      "content": {
+        "explanation": [
+          "Visual cues work best when everyone knows their meaning. Confirm how the leader will signal another repeat, the final chorus and a cutoff. Maintain the count while looking up so a cue does not distract you from time.",
+          "Practise with planned signals or a partner. If a cue is unclear in rehearsal, ask for a shared convention. A quiet bass part may make the transition clearer than a fill."
+        ],
+        "guided_steps": [
+          "Agree on three simple signals with a partner or simulate a cue sequence.",
+          "Play a root cycle while looking up at transitions.",
+          "Repeat once, reduce dynamics and stop on the planned signal."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Inventing private signals during performance",
+            "correction": "Agree on meanings before the run-through."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat once, reduce dynamics and stop on the planned signal.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-05"
+      ],
+      "quiz_ids": [
+        "q6-05"
+      ],
+      "resource_ids": [
+        "r53",
+        "r54"
+      ],
+      "tags": [
+        "cues",
+        "worship"
+      ],
+      "completion_criteria": [
+        "Respond to a repeat, dynamic change and cutoff without losing the form.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-06",
+      "slug": "ensemble-listening",
+      "module_id": "m6-2",
+      "level": 6,
+      "order": 78,
+      "title": "Listen across the rhythm section",
+      "summary": "Divide your attention between the drummer, the harmonic instruments and the melody.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Describe and demonstrate one change that improves the ensemble sound."
+      ],
+      "prerequisite_ids": [
+        "l6-05"
+      ],
+      "content": {
+        "explanation": [
+          "Divide your attention between the drummer, the harmonic instruments and the melody. Notice whether the bass note lengths reinforce or blur the groove. Adjust density and register when another instrument occupies the same space.",
+          "In rehearsal, change one musical choice and ask whether the result is clearer. Being supportive includes keeping your own time and harmony dependable, not merely turning down or copying every kick."
+        ],
+        "guided_steps": [
+          "Play a simple groove while focusing on the kick for one pass.",
+          "Focus on the melody and leave space in the next pass.",
+          "Compare two note-length choices with the same rhythm."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Listening only for your own volume",
+            "correction": "Attend to the combined rhythm and harmonic clarity."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare two note-length choices with the same rhythm.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-06"
+      ],
+      "quiz_ids": [
+        "q6-06"
+      ],
+      "resource_ids": [
+        "r54",
+        "r20"
+      ],
+      "tags": [
+        "ensemble",
+        "groove"
+      ],
+      "completion_criteria": [
+        "Describe and demonstrate one change that improves the ensemble sound.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-07",
+      "slug": "adapt-to-changes",
+      "module_id": "m6-2",
+      "level": 6,
+      "order": 79,
+      "title": "Handle a key or arrangement change calmly",
+      "summary": "When a key changes, confirm the new tonic and translate the chart using degrees.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Perform a revised chart with the new key and section lengths."
+      ],
+      "prerequisite_ids": [
+        "l6-06"
+      ],
+      "content": {
+        "explanation": [
+          "When a key changes, confirm the new tonic and translate the chart using degrees. Check the range and choose playable octaves on E–A–D–G. If a section is shortened or repeated, mark its new length clearly.",
+          "Rehearse the changed entry and exit before playing the full piece. Simplify the bass line while the new form becomes reliable. Keeping the performance together matters more than preserving every decorative note."
+        ],
+        "guided_steps": [
+          "Transpose one study up a whole tone.",
+          "Shorten its verse by four bars and mark the new chart.",
+          "Rehearse both changed transitions before a full run."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Trying to keep an old fingering despite a new key or range",
+            "correction": "Rebuild notes and positions from the revised chart."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Rehearse both changed transitions before a full run.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-07"
+      ],
+      "quiz_ids": [
+        "q6-07"
+      ],
+      "resource_ids": [
+        "r47",
+        "r21"
+      ],
+      "tags": [
+        "adaptability",
+        "transposition"
+      ],
+      "completion_criteria": [
+        "Perform a revised chart with the new key and section lengths.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-08",
+      "slug": "rehearsal-habits",
+      "module_id": "m6-2",
+      "level": 6,
+      "order": 80,
+      "title": "Make rehearsals productive",
+      "summary": "Arrive prepared, tune before the agreed start and keep your materials organised.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Create a clear preparation list and three actionable rehearsal notes."
+      ],
+      "prerequisite_ids": [
+        "l6-07"
+      ],
+      "content": {
+        "explanation": [
+          "Arrive prepared, tune before the agreed start and keep your materials organised. When a problem appears, name its bar and describe what happened. Agree on one correction, then try the section again.",
+          "Keep feedback about audible musical behaviour and listen to other perspectives. Record notes after the rehearsal so the next session begins with the agreed version. Reliability grows from these repeatable habits."
+        ],
+        "guided_steps": [
+          "Prepare your chart and a short list of unresolved transitions.",
+          "Simulate a rehearsal note that names a bar and an action.",
+          "Write the agreed correction beside the chart."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Using vague criticism without a location",
+            "correction": "Describe the specific entry, note length or section that needs work."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Write the agreed correction beside the chart.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-08"
+      ],
+      "quiz_ids": [
+        "q6-08"
+      ],
+      "resource_ids": [
+        "r54"
+      ],
+      "tags": [
+        "rehearsal",
+        "communication"
+      ],
+      "completion_criteria": [
+        "Create a clear preparation list and three actionable rehearsal notes.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-09",
+      "slug": "session-handoff",
+      "module_id": "m6-3",
+      "level": 6,
+      "order": 81,
+      "title": "Deliver a clearly labelled recording",
+      "summary": "Confirm the requested file format, sample rate, bit depth, start point and whether the recipient wants dry or processed audio.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Prepare a labelled export that matches a stated mock brief."
+      ],
+      "prerequisite_ids": [
+        "l6-08"
+      ],
+      "content": {
+        "explanation": [
+          "Confirm the requested file format, sample rate, bit depth, start point and whether the recipient wants dry or processed audio. Keep exported files aligned to the agreed start so they can be placed in the session without guesswork.",
+          "Listen to the actual export from beginning to end and check its name before delivering it. Keep the original recording. Browser recordings may use compressed formats; use suitable recording software if a session requires another format."
+        ],
+        "guided_steps": [
+          "Write a mock delivery brief with format and start-point requirements.",
+          "Export one original take with a clear version name.",
+          "Listen to that exported file and compare it with the brief."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Assuming the project playback proves the export is correct",
+            "correction": "Open and listen to the exported file itself."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Listen to that exported file and compare it with the brief.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-09"
+      ],
+      "quiz_ids": [
+        "q6-09"
+      ],
+      "resource_ids": [
+        "r51",
+        "r52"
+      ],
+      "tags": [
+        "recording",
+        "delivery"
+      ],
+      "completion_criteria": [
+        "Prepare a labelled export that matches a stated mock brief.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-10",
+      "slug": "choose-performance-evidence",
+      "module_id": "m6-3",
+      "level": 6,
+      "order": 82,
+      "title": "Select examples that show your current playing",
+      "summary": "Choose short complete examples that show steady time, clear sound and musical judgement.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Select two complete contrasting examples and explain their purpose."
+      ],
+      "prerequisite_ids": [
+        "l6-09"
+      ],
+      "content": {
+        "explanation": [
+          "Choose short complete examples that show steady time, clear sound and musical judgement. One simple groove and one contrasting arrangement can communicate more than an unstructured collection of fast passages.",
+          "State your role accurately and use original or authorised material. Keep older takes for private comparison, but select current work for a performance portfolio. Ask for feedback on concrete skills rather than a single overall label."
+        ],
+        "guided_steps": [
+          "Choose two contrasting original recordings.",
+          "Describe the musical role and the skill each demonstrates.",
+          "Check that each excerpt has a clear beginning and ending."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Selecting only the most complex fragments",
+            "correction": "Include complete phrases that demonstrate dependable musicianship."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Check that each excerpt has a clear beginning and ending.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-10"
+      ],
+      "quiz_ids": [
+        "q6-10"
+      ],
+      "resource_ids": [
+        "r51",
+        "r54"
+      ],
+      "tags": [
+        "portfolio",
+        "reflection"
+      ],
+      "completion_criteria": [
+        "Select two complete contrasting examples and explain their purpose.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-11",
+      "slug": "maintain-a-practice-cycle",
+      "module_id": "m6-3",
+      "level": 6,
+      "order": 83,
+      "title": "Keep improving after the course",
+      "summary": "Use a repeating cycle: observe one limitation, choose a focused drill, apply it in music, then review a new recording.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Write a one-week plan linked to an observed performance need."
+      ],
+      "prerequisite_ids": [
+        "l6-10"
+      ],
+      "content": {
+        "explanation": [
+          "Use a repeating cycle: observe one limitation, choose a focused drill, apply it in music, then review a new recording. Rotate timing, ear work, fretboard knowledge and repertoire so one favourite topic does not take every session.",
+          "Keep a realistic daily duration and include lighter days. Review progress over weeks rather than judging every practice by speed. A teacher or experienced bandmate can help identify blind spots that an app cannot hear or see."
+        ],
+        "guided_steps": [
+          "Choose one issue from your latest recording.",
+          "Schedule a drill, an application and a review in the next week.",
+          "Compare the new take and decide the next focus."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Repeating familiar material without a question",
+            "correction": "Give each short practice block one measurable focus."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare the new take and decide the next focus.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-11"
+      ],
+      "quiz_ids": [
+        "q6-11"
+      ],
+      "resource_ids": [
+        "r01",
+        "r58"
+      ],
+      "tags": [
+        "practice",
+        "reflection"
+      ],
+      "completion_criteria": [
+        "Write a one-week plan linked to an observed performance need.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l6-12",
+      "slug": "final-performance",
+      "module_id": "m6-3",
+      "level": 6,
+      "order": 84,
+      "title": "Deliver a complete set and review it honestly",
+      "summary": "Prepare three contrasting original studies at tempos you can control.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Perform and review a complete contrasting set with dependable time, form and endings."
+      ],
+      "prerequisite_ids": [
+        "l6-11"
+      ],
+      "content": {
+        "explanation": [
+          "Prepare three contrasting original studies at tempos you can control. Include clear count-ins, section changes and endings. Use simple parts where they serve the arrangement and recover calmly from small slips.",
+          "Review time, sound, harmony, form and communication separately. Record evidence and choose the next development target. Completing this milestone reflects the work demonstrated here; it is not a professional certification or a guarantee of readiness for every musical situation."
+        ],
+        "guided_steps": [
+          "Rehearse the three-study set without stopping.",
+          "Record a full run with transitions and endings.",
+          "Complete the self-assessment and choose one next-month focus."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Calling completion permanent mastery of all bass playing",
+            "correction": "Describe the demonstrated skills and continue reviewing new situations."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Complete the self-assessment and choose one next-month focus.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e6-12"
+      ],
+      "quiz_ids": [
+        "q6-12"
+      ],
+      "resource_ids": [
+        "r54",
+        "r51"
+      ],
+      "tags": [
+        "assessment",
+        "performance"
+      ],
+      "completion_criteria": [
+        "Perform and review a complete contrasting set with dependable time, form and endings.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    }
+  ]
+}

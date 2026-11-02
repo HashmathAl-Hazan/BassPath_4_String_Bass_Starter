@@ -1,0 +1,727 @@
+{
+  "schema_version": "1.0.0",
+  "level": 2,
+  "title": "Foundations",
+  "items": [
+    {
+      "id": "l2-01",
+      "slug": "semitones-intervals",
+      "module_id": "m2-1",
+      "level": 2,
+      "order": 25,
+      "title": "Measure distance between notes",
+      "summary": "An interval is the distance between two pitches.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Locate one-semitone, major-third, perfect-fifth and octave distances."
+      ],
+      "prerequisite_ids": [
+        "l1-12"
+      ],
+      "content": {
+        "explanation": [
+          "An interval is the distance between two pitches. One fret is a semitone; two frets make a whole tone. Twelve semitones make an octave. Count the distance from a starting pitch, not the number of notes your fingers touch.",
+          "Interval names also depend on letter names. C to E is a third because C–D–E spans three letters; its four semitones make it a major third. Start by comparing unison, third, fifth and octave sounds."
+        ],
+        "guided_steps": [
+          "Play a note, then the next fret and hear one semitone.",
+          "Compare a three-fret and four-fret distance.",
+          "Use the interval reference to find fifths and octaves."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Counting the starting fret as one semitone",
+            "correction": "Measure the movement from the starting fret."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Use the interval reference to find fifths and octaves.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-01"
+      ],
+      "quiz_ids": [
+        "q2-01"
+      ],
+      "resource_ids": [
+        "r45",
+        "r09"
+      ],
+      "tags": [
+        "intervals",
+        "theory"
+      ],
+      "completion_criteria": [
+        "Locate one-semitone, major-third, perfect-fifth and octave distances.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-02",
+      "slug": "major-scale",
+      "module_id": "m2-1",
+      "level": 2,
+      "order": 26,
+      "title": "Build and hear the major scale",
+      "summary": "The major-scale step pattern is whole, whole, half, whole, whole, whole, half.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play C major evenly and identify both half-step positions."
+      ],
+      "prerequisite_ids": [
+        "l2-01"
+      ],
+      "content": {
+        "explanation": [
+          "The major-scale step pattern is whole, whole, half, whole, whole, whole, half. In C this produces C, D, E, F, G, A, B, C. The half steps occur between degrees three–four and seven–eight.",
+          "Play slowly while saying degree numbers. Then use only degrees one, three and five to hear how the scale contains a major chord. A scale pattern helps locate notes; a bass part still needs rhythm and meaningful note choices."
+        ],
+        "guided_steps": [
+          "Speak the C-major names before playing.",
+          "Play the one-octave study up and then down.",
+          "Find degrees one, three and five inside it."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Memorising only a shape",
+            "correction": "Say note names and scale degrees as you play."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Find degrees one, three and five inside it.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-02"
+      ],
+      "quiz_ids": [
+        "q2-02"
+      ],
+      "resource_ids": [
+        "r15",
+        "r31"
+      ],
+      "tags": [
+        "scales",
+        "major-scale"
+      ],
+      "completion_criteria": [
+        "Play C major evenly and identify both half-step positions.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-03",
+      "slug": "natural-minor",
+      "module_id": "m2-1",
+      "level": 2,
+      "order": 27,
+      "title": "Compare major and natural minor",
+      "summary": "Natural minor has degrees 1, 2, flat 3, 4, 5, flat 6 and flat 7 compared with the major scale on the same root.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play A natural minor and explain its relationship to C major."
+      ],
+      "prerequisite_ids": [
+        "l2-02"
+      ],
+      "content": {
+        "explanation": [
+          "Natural minor has degrees 1, 2, flat 3, 4, 5, flat 6 and flat 7 compared with the major scale on the same root. A natural minor contains A, B, C, D, E, F and G.",
+          "C major and A minor share notes but have different tonal centres. End phrases on A and listen to how that changes the sense of rest. The chord underneath matters more than which fretboard shape you use."
+        ],
+        "guided_steps": [
+          "Play A natural minor and say its names.",
+          "Compare A–C with A–C sharp to hear minor and major thirds.",
+          "End a short original phrase on A."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Calling any C-major fingering C major in every context",
+            "correction": "Listen for the tonal centre and harmony."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. End a short original phrase on A.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-03"
+      ],
+      "quiz_ids": [
+        "q2-03"
+      ],
+      "resource_ids": [
+        "r30"
+      ],
+      "tags": [
+        "scales",
+        "minor"
+      ],
+      "completion_criteria": [
+        "Play A natural minor and explain its relationship to C major.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-04",
+      "slug": "pentatonic-blues",
+      "module_id": "m2-1",
+      "level": 2,
+      "order": 28,
+      "title": "Use pentatonic and blues colours",
+      "summary": "A minor pentatonic uses A, C, D, E and G: degrees 1, flat 3, 4, 5 and flat 7.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Create two short phrases and distinguish the extra blues-scale note."
+      ],
+      "prerequisite_ids": [
+        "l2-03"
+      ],
+      "content": {
+        "explanation": [
+          "A minor pentatonic uses A, C, D, E and G: degrees 1, flat 3, 4, 5 and flat 7. Adding flat 5 gives A, C, D, E flat, E and G, a common minor blues collection.",
+          "Avoid running the whole pattern continuously. Make a short phrase, leave a rest, and answer it. A blues note can create tension, so listen to where it resolves rather than treating every scale note as equally settled."
+        ],
+        "guided_steps": [
+          "Play A minor pentatonic without rushing.",
+          "Compare D–E flat–E and hear the added colour.",
+          "Make a two-bar call and response using three notes."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Filling every beat with a scale run",
+            "correction": "Limit the phrase to three notes and include silence."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Make a two-bar call and response using three notes.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-04",
+        "v-penta"
+      ],
+      "quiz_ids": [
+        "q2-04"
+      ],
+      "resource_ids": [
+        "r29"
+      ],
+      "tags": [
+        "scales",
+        "blues"
+      ],
+      "completion_criteria": [
+        "Create two short phrases and distinguish the extra blues-scale note.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-05",
+      "slug": "root-fifth-octave",
+      "module_id": "m2-2",
+      "level": 2,
+      "order": 29,
+      "title": "Build roots, fifths and octaves",
+      "summary": "From C, the root is C, the perfect fifth is G and the octave is another C.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play root–fifth and root–octave patterns cleanly in two locations."
+      ],
+      "prerequisite_ids": [
+        "l2-04"
+      ],
+      "content": {
+        "explanation": [
+          "From C, the root is C, the perfect fifth is G and the octave is another C. On standard bass, an octave can often be found two strings toward the thinner side and two frets higher.",
+          "Roots establish the chord; fifths and octaves offer movement without introducing the third. Check both hands when skipping a string. Do not let the skipped string ring accidentally."
+        ],
+        "guided_steps": [
+          "Find C at A-string fret three and G at D-string fret five.",
+          "Find the octave C at G-string fret five.",
+          "Alternate root and fifth, then root and octave with clean muting."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Letting the skipped string sound",
+            "correction": "Prepare damping before crossing to the target string."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Alternate root and fifth, then root and octave with clean muting.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-05",
+        "v-fifth"
+      ],
+      "quiz_ids": [
+        "q2-05"
+      ],
+      "resource_ids": [
+        "r09",
+        "r10",
+        "r32"
+      ],
+      "tags": [
+        "octaves",
+        "fifths"
+      ],
+      "completion_criteria": [
+        "Play root–fifth and root–octave patterns cleanly in two locations.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-06",
+      "slug": "major-minor-triads",
+      "module_id": "m2-2",
+      "level": 2,
+      "order": 30,
+      "title": "Outline major and minor triads",
+      "summary": "A triad contains a root, third and fifth.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Build major and minor triads on two roots and hear the changed third."
+      ],
+      "prerequisite_ids": [
+        "l2-05"
+      ],
+      "content": {
+        "explanation": [
+          "A triad contains a root, third and fifth. A major triad uses a major third; a minor triad lowers that third by a semitone. C major is C–E–G, while C minor is C–E flat–G.",
+          "Playing chord notes one after another is an arpeggio. Bassists often outline harmony this way instead of strumming a full chord. Compare the third carefully, because it tells a strong part of the chord-quality story."
+        ],
+        "guided_steps": [
+          "Play C–E–G as separate notes.",
+          "Lower E to E flat and compare the sound.",
+          "Play the A-minor arpeggio study while naming its notes."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Changing the root to turn a major chord into minor",
+            "correction": "Keep the root and fifth; lower the third."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play the A-minor arpeggio study while naming its notes.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-06",
+        "v-major-triad"
+      ],
+      "quiz_ids": [
+        "q2-06"
+      ],
+      "resource_ids": [
+        "r16",
+        "r33"
+      ],
+      "tags": [
+        "triads",
+        "arpeggios"
+      ],
+      "completion_criteria": [
+        "Build major and minor triads on two roots and hear the changed third.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-07",
+      "slug": "numbers-and-keys",
+      "module_id": "m2-2",
+      "level": 2,
+      "order": 31,
+      "title": "Read chord numbers in a key",
+      "summary": "Scale degrees let you describe a progression independently of its key.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Translate and play I–V–vi–IV in G and C."
+      ],
+      "prerequisite_ids": [
+        "l2-06"
+      ],
+      "content": {
+        "explanation": [
+          "Scale degrees let you describe a progression independently of its key. In a major key, the basic triad qualities are major, minor, minor, major, major, minor and diminished. Uppercase Roman numerals normally indicate major chords; lowercase indicates minor.",
+          "In G major, I–V–vi–IV means G–D–Em–C. In C major the same functions are C–G–Am–F. Changing key changes the root names while preserving the harmonic roles."
+        ],
+        "guided_steps": [
+          "Write the G-major scale and number each note.",
+          "Translate I–V–vi–IV into G-major chord names.",
+          "Translate it into C and play the new roots."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Keeping the same letters after changing key",
+            "correction": "Rebuild the numbers from the new tonic."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Translate it into C and play the new roots.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-07"
+      ],
+      "quiz_ids": [
+        "q2-07"
+      ],
+      "resource_ids": [
+        "r21",
+        "r47"
+      ],
+      "tags": [
+        "harmony",
+        "worship"
+      ],
+      "completion_criteria": [
+        "Translate and play I–V–vi–IV in G and C.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-08",
+      "slug": "chord-symbols-slash",
+      "module_id": "m2-2",
+      "level": 2,
+      "order": 32,
+      "title": "Read chord symbols and slash bass notes",
+      "summary": "A chord symbol gives a root letter and a quality: Am is A minor, C is normally C major, and G7 is G dominant seventh.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Choose correct bass notes for four slash-chord examples."
+      ],
+      "prerequisite_ids": [
+        "l2-07"
+      ],
+      "content": {
+        "explanation": [
+          "A chord symbol gives a root letter and a quality: Am is A minor, C is normally C major, and G7 is G dominant seventh. A slash chord specifies a bass note after the slash. C/E means a C-major chord with E in the bass.",
+          "The letter after the slash is not a second chord to play later. Read ahead and locate that bass pitch. Slash notes can create a smooth line even while the chord above changes less."
+        ],
+        "guided_steps": [
+          "Read C, Am, G7 and C/E aloud.",
+          "Find E as a bass note under a C chord.",
+          "Compare the chart C–G/B–Am–F using bass notes C–B–A–F."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Ignoring the note after the slash",
+            "correction": "Treat it as the specified bass note."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Compare the chart C–G/B–Am–F using bass notes C–B–A–F.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-08"
+      ],
+      "quiz_ids": [
+        "q2-08"
+      ],
+      "resource_ids": [
+        "r17"
+      ],
+      "tags": [
+        "charts",
+        "harmony"
+      ],
+      "completion_criteria": [
+        "Choose correct bass notes for four slash-chord examples.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-09",
+      "slug": "syncopation",
+      "module_id": "m2-3",
+      "level": 2,
+      "order": 33,
+      "title": "Count rests and offbeat attacks",
+      "summary": "Syncopation shifts attention toward weaker beats or subdivisions.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Repeat the offbeat pattern four times without shifting the pulse."
+      ],
+      "prerequisite_ids": [
+        "l2-08"
+      ],
+      "content": {
+        "explanation": [
+          "Syncopation shifts attention toward weaker beats or subdivisions. Count every eighth-note slot, including those where you do not play. A note on the and of two still has a precise place between clicks.",
+          "Clap the rhythm before adding pitches. If the pattern feels rushed, simplify it to one root and return to the full counting grid. Silence is part of the pattern, not a gap in your attention."
+        ],
+        "guided_steps": [
+          "Count 1 and 2 and 3 and 4 and continuously.",
+          "Clap the study while saying the silent slots.",
+          "Play on one root, then add the second note."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Skipping the spoken count during rests",
+            "correction": "Keep the full subdivision running internally."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Play on one root, then add the second note.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-09"
+      ],
+      "quiz_ids": [
+        "q2-09"
+      ],
+      "resource_ids": [
+        "r12"
+      ],
+      "tags": [
+        "syncopation",
+        "rhythm"
+      ],
+      "completion_criteria": [
+        "Repeat the offbeat pattern four times without shifting the pulse.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-10",
+      "slug": "blues-form",
+      "module_id": "m2-3",
+      "level": 2,
+      "order": 34,
+      "title": "Keep your place in twelve-bar blues",
+      "summary": "A basic twelve-bar blues can use I for four bars, IV for two, I for two, then V, IV, I, I.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Play three complete twelve-bar cycles with correct changes."
+      ],
+      "prerequisite_ids": [
+        "l2-09"
+      ],
+      "content": {
+        "explanation": [
+          "A basic twelve-bar blues can use I for four bars, IV for two, I for two, then V, IV, I, I. Variations are common, so read the actual chart instead of assuming every blues is identical.",
+          "In A, the roots are A, D and E. Begin with one root per bar and count the bar numbers. Only add fifths or a walking idea after the form stays reliable without watching every chord."
+        ],
+        "guided_steps": [
+          "Write the twelve root letters for an A blues.",
+          "Play one sustained root per bar and count aloud.",
+          "Repeat using root and fifth while preserving the same form."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Playing a memorised riff while losing the bar count",
+            "correction": "Return to long roots and count twelve bars."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Repeat using root and fifth while preserving the same form.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-10"
+      ],
+      "quiz_ids": [
+        "q2-10"
+      ],
+      "resource_ids": [
+        "r18",
+        "r10"
+      ],
+      "tags": [
+        "blues",
+        "form"
+      ],
+      "completion_criteria": [
+        "Play three complete twelve-bar cycles with correct changes.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-11",
+      "slug": "pitch-matching",
+      "module_id": "m2-3",
+      "level": 2,
+      "order": 35,
+      "title": "Find a heard note on the neck",
+      "summary": "Relative-pitch practice compares a target with a known reference.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Match at least four of five restricted-range pitches without revealing them first."
+      ],
+      "prerequisite_ids": [
+        "l2-10"
+      ],
+      "content": {
+        "explanation": [
+          "Relative-pitch practice compares a target with a known reference. Listen, sing or imagine the note, then search a small region of the neck. Ask whether your attempt is above or below the target and narrow the distance.",
+          "Start with the four open-string pitches or frets zero to five on one string. Reveal the answer only after a real attempt. Matching a pitch is different from identifying which physical string made it, because the same pitch can occur in several places."
+        ],
+        "guided_steps": [
+          "Listen to a target with a reference tone available.",
+          "Try a nearby fret and decide higher or lower.",
+          "Match five targets and name at least one playable location for each."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Assuming a sound identifies a unique string",
+            "correction": "Accept any position producing the target pitch unless the task specifies a string."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Match five targets and name at least one playable location for each.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-11"
+      ],
+      "quiz_ids": [
+        "q2-11"
+      ],
+      "resource_ids": [
+        "r49",
+        "r48"
+      ],
+      "tags": [
+        "ear",
+        "fretboard"
+      ],
+      "completion_criteria": [
+        "Match at least four of five restricted-range pitches without revealing them first.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    },
+    {
+      "id": "l2-12",
+      "slug": "foundation-arrangement",
+      "module_id": "m2-3",
+      "level": 2,
+      "order": 36,
+      "title": "Create a bass part from chord tones",
+      "summary": "Use C–G–Am–F as an original study.",
+      "estimated_minutes": 10,
+      "objectives": [
+        "Perform a 16-bar original arrangement in two keys with dependable roots."
+      ],
+      "prerequisite_ids": [
+        "l2-11"
+      ],
+      "content": {
+        "explanation": [
+          "Use C–G–Am–F as an original study. Begin with roots, then choose one fifth or octave where the phrase needs movement. Let chord changes and the drum pattern decide where notes belong.",
+          "Make the verse sparse and the chorus slightly more active without raising the tempo. A fill is a brief transition, so leave room to arrive on the next root. Judge the whole phrase, not the number of notes."
+        ],
+        "guided_steps": [
+          "Write a two-section chart with eight bars per section.",
+          "Build a sparse verse and a more active chorus using known chord tones.",
+          "Record two full takes and compare timing and space."
+        ],
+        "common_mistakes": [
+          {
+            "problem": "Adding a fill that misses the next root",
+            "correction": "Shorten the fill and practise the arrival first."
+          }
+        ],
+        "musical_application": "Use this idea in the linked exercise, then apply it to an original study suited to your current level. Record two full takes and compare timing and space.",
+        "reflection": "What improved, what was still difficult, and what will you repeat next session?",
+        "assignment": "Complete the linked exercise. Record a short take or write an honest self-check; do not increase speed until control is repeatable."
+      },
+      "exercise_ids": [
+        "e2-12"
+      ],
+      "quiz_ids": [
+        "q2-12"
+      ],
+      "resource_ids": [
+        "r14",
+        "r21"
+      ],
+      "tags": [
+        "composition",
+        "assessment"
+      ],
+      "completion_criteria": [
+        "Perform a 16-bar original arrangement in two keys with dependable roots.",
+        "Explain the main idea in your own words and pass the knowledge check."
+      ],
+      "assessment_method": "knowledge check plus learner self-assessment; no automatic playing-quality grading",
+      "mastery_status_default": "not_assessed",
+      "content_origin": "original_basspath",
+      "resource_relationship": "optional further reading and demonstrations; not reproduced or endorsed by publishers",
+      "optional": false,
+      "prerequisites_are_recommendations": true
+    }
+  ]
+}

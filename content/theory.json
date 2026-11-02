@@ -1,0 +1,697 @@
+{
+  "schema_version": "1.0.0",
+  "scales": [
+    {
+      "id": "major",
+      "name": "Major",
+      "semitones": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        11
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "id": "natural-minor",
+      "name": "Natural minor",
+      "semitones": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        8,
+        10
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "b3",
+        "4",
+        "5",
+        "b6",
+        "b7"
+      ]
+    },
+    {
+      "id": "major-pentatonic",
+      "name": "Major pentatonic",
+      "semitones": [
+        0,
+        2,
+        4,
+        7,
+        9
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "id": "minor-pentatonic",
+      "name": "Minor pentatonic",
+      "semitones": [
+        0,
+        3,
+        5,
+        7,
+        10
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "4",
+        "5",
+        "b7"
+      ]
+    },
+    {
+      "id": "minor-blues",
+      "name": "Minor blues",
+      "semitones": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        10
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "4",
+        "b5",
+        "5",
+        "b7"
+      ]
+    },
+    {
+      "id": "dorian",
+      "name": "Dorian",
+      "semitones": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "b3",
+        "4",
+        "5",
+        "6",
+        "b7"
+      ]
+    },
+    {
+      "id": "phrygian",
+      "name": "Phrygian",
+      "semitones": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        8,
+        10
+      ],
+      "degrees": [
+        "1",
+        "b2",
+        "b3",
+        "4",
+        "5",
+        "b6",
+        "b7"
+      ]
+    },
+    {
+      "id": "lydian",
+      "name": "Lydian",
+      "semitones": [
+        0,
+        2,
+        4,
+        6,
+        7,
+        9,
+        11
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "3",
+        "#4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "id": "mixolydian",
+      "name": "Mixolydian",
+      "semitones": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        9,
+        10
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "b7"
+      ]
+    },
+    {
+      "id": "locrian",
+      "name": "Locrian",
+      "semitones": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        8,
+        10
+      ],
+      "degrees": [
+        "1",
+        "b2",
+        "b3",
+        "4",
+        "b5",
+        "b6",
+        "b7"
+      ]
+    },
+    {
+      "id": "harmonic-minor",
+      "name": "Harmonic minor",
+      "semitones": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        8,
+        11
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "b3",
+        "4",
+        "5",
+        "b6",
+        "7"
+      ]
+    },
+    {
+      "id": "melodic-minor",
+      "name": "Jazz melodic minor",
+      "semitones": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "b3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "id": "whole-tone",
+      "name": "Whole tone",
+      "semitones": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "3",
+        "#4",
+        "#5",
+        "b7"
+      ]
+    },
+    {
+      "id": "chromatic",
+      "name": "Chromatic",
+      "semitones": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "degrees": [
+        "1",
+        "b2",
+        "2",
+        "b3",
+        "3",
+        "4",
+        "b5",
+        "5",
+        "b6",
+        "6",
+        "b7",
+        "7"
+      ]
+    }
+  ],
+  "chords": [
+    {
+      "id": "major",
+      "name": "Major triad",
+      "semitones": [
+        0,
+        4,
+        7
+      ],
+      "degrees": [
+        "1",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "id": "minor",
+      "name": "Minor triad",
+      "semitones": [
+        0,
+        3,
+        7
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "5"
+      ]
+    },
+    {
+      "id": "diminished",
+      "name": "Diminished triad",
+      "semitones": [
+        0,
+        3,
+        6
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "b5"
+      ]
+    },
+    {
+      "id": "augmented",
+      "name": "Augmented triad",
+      "semitones": [
+        0,
+        4,
+        8
+      ],
+      "degrees": [
+        "1",
+        "3",
+        "#5"
+      ]
+    },
+    {
+      "id": "sus2",
+      "name": "Suspended second",
+      "semitones": [
+        0,
+        2,
+        7
+      ],
+      "degrees": [
+        "1",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "id": "sus4",
+      "name": "Suspended fourth",
+      "semitones": [
+        0,
+        5,
+        7
+      ],
+      "degrees": [
+        "1",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": "dominant7",
+      "name": "Dominant seventh",
+      "semitones": [
+        0,
+        4,
+        7,
+        10
+      ],
+      "degrees": [
+        "1",
+        "3",
+        "5",
+        "b7"
+      ]
+    },
+    {
+      "id": "major7",
+      "name": "Major seventh",
+      "semitones": [
+        0,
+        4,
+        7,
+        11
+      ],
+      "degrees": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "id": "minor7",
+      "name": "Minor seventh",
+      "semitones": [
+        0,
+        3,
+        7,
+        10
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "5",
+        "b7"
+      ]
+    },
+    {
+      "id": "half-diminished7",
+      "name": "Half-diminished seventh",
+      "semitones": [
+        0,
+        3,
+        6,
+        10
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "b5",
+        "b7"
+      ]
+    },
+    {
+      "id": "diminished7",
+      "name": "Diminished seventh",
+      "semitones": [
+        0,
+        3,
+        6,
+        9
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "b5",
+        "bb7"
+      ]
+    },
+    {
+      "id": "minor-major7",
+      "name": "Minor-major seventh",
+      "semitones": [
+        0,
+        3,
+        7,
+        11
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "id": "major6",
+      "name": "Major sixth",
+      "semitones": [
+        0,
+        4,
+        7,
+        9
+      ],
+      "degrees": [
+        "1",
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "id": "minor6",
+      "name": "Minor sixth",
+      "semitones": [
+        0,
+        3,
+        7,
+        9
+      ],
+      "degrees": [
+        "1",
+        "b3",
+        "5",
+        "6"
+      ]
+    }
+  ],
+  "intervals": [
+    {
+      "id": "interval-0",
+      "semitones": 0,
+      "name": "Unison"
+    },
+    {
+      "id": "interval-1",
+      "semitones": 1,
+      "name": "Minor second"
+    },
+    {
+      "id": "interval-2",
+      "semitones": 2,
+      "name": "Major second"
+    },
+    {
+      "id": "interval-3",
+      "semitones": 3,
+      "name": "Minor third"
+    },
+    {
+      "id": "interval-4",
+      "semitones": 4,
+      "name": "Major third"
+    },
+    {
+      "id": "interval-5",
+      "semitones": 5,
+      "name": "Perfect fourth"
+    },
+    {
+      "id": "interval-6",
+      "semitones": 6,
+      "name": "Tritone"
+    },
+    {
+      "id": "interval-7",
+      "semitones": 7,
+      "name": "Perfect fifth"
+    },
+    {
+      "id": "interval-8",
+      "semitones": 8,
+      "name": "Minor sixth"
+    },
+    {
+      "id": "interval-9",
+      "semitones": 9,
+      "name": "Major sixth"
+    },
+    {
+      "id": "interval-10",
+      "semitones": 10,
+      "name": "Minor seventh"
+    },
+    {
+      "id": "interval-11",
+      "semitones": 11,
+      "name": "Major seventh"
+    },
+    {
+      "id": "interval-12",
+      "semitones": 12,
+      "name": "Octave"
+    }
+  ],
+  "circle_of_fifths": [
+    "C",
+    "G",
+    "D",
+    "A",
+    "E",
+    "B",
+    "F#",
+    "Db",
+    "Ab",
+    "Eb",
+    "Bb",
+    "F"
+  ],
+  "major_diatonic_qualities": [
+    "major",
+    "minor",
+    "minor",
+    "major",
+    "major",
+    "minor",
+    "diminished"
+  ],
+  "natural_minor_diatonic_qualities": [
+    "minor",
+    "diminished",
+    "major",
+    "minor",
+    "minor",
+    "major",
+    "major"
+  ],
+  "rhythm": {
+    "ppq": 96,
+    "whole_ticks": 384,
+    "half_ticks": 192,
+    "quarter_ticks": 96,
+    "eighth_ticks": 48,
+    "sixteenth_ticks": 24,
+    "eighth_triplet_ticks": 32,
+    "sixteenth_triplet_ticks": 16,
+    "meters": [
+      {
+        "numerator": 4,
+        "denominator": 4,
+        "bar_ticks": 384,
+        "bpm_unit": "quarter",
+        "grouping": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "numerator": 3,
+        "denominator": 4,
+        "bar_ticks": 288,
+        "bpm_unit": "quarter",
+        "grouping": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "numerator": 6,
+        "denominator": 8,
+        "bar_ticks": 288,
+        "bpm_unit": "dotted-quarter",
+        "grouping": [
+          3,
+          3
+        ]
+      },
+      {
+        "numerator": 5,
+        "denominator": 4,
+        "bar_ticks": 480,
+        "bpm_unit": "quarter",
+        "grouping": [
+          3,
+          2
+        ]
+      },
+      {
+        "numerator": 7,
+        "denominator": 8,
+        "bar_ticks": 336,
+        "bpm_unit": "eighth",
+        "grouping": [
+          2,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "notes": [
+    "One semitone equals one fret; an octave equals twelve frets.",
+    "Ionian is the major scale; Aeolian is natural minor. They are not counted again.",
+    "Classical melodic minor often descends as natural minor; jazz melodic minor uses the same collection both ways.",
+    "A mode is defined by its tonal centre and harmony, not merely a fingering starting on another note.",
+    "A formula is a pitch collection, not a rule to play every note over every chord."
+  ]
+}
